@@ -3,7 +3,7 @@
 Hello and welcome! This is the first class in the _Chromebook Data Science_ series. The goal of _Chromebook Data Science_ is to help anyone with an internet connection and a computer learn to do data science. The program will start with the very basics of using a computer on the internet and work all the way up to doing data science and data analysis. We hope that by building this program we can help people get into the exciting tech world in one of the [fastest growing]() and [most satisfying]() jobs in the United States. There are only going to be more and more jobs asking for [data science skills]() in the future. We believe that by making this career accessible to anyone we can have a positive impact on the world. 
 
 
-## What is data science? 
+### What is data science? 
 
 You might not think about data very much. Most people don't. So why is data science such a popular and growing career?  And what does data science even mean? 
 
@@ -22,7 +22,7 @@ But to make data valuable we need to be able to study it and separate the intere
 The reason this field is growing so fast is that nearly every government, company, and organaization is now collecting data. As the data have become cheaper and cheaper, the ability to analyze that data and find useful information has become a more and more valuable skill. But most people don't have training or experience sifting through big piles of data to make interesting and valuable discoveries. The people who can do this well are called data scientists. They have a job that is exciting, interesting, and promises to be in high demand for years to come. 
 
 
-## What is Chromebook Data Science?
+### What is Chromebook Data Science?
 
 Data science is a fast growing and exciting profession. But it can be a challenge to get into this career. Some of the biggest challenges are:
 
@@ -42,7 +42,7 @@ It is our goal with Chromebook Data Science to try to help people who would othe
 * Chromebook Data Science includes resources for finding, getting, and working at data science jobs. It also includes resources for finding and working at remote data science jobs that can be done from anywhere in the world. 
 
 
-## Who is this program for? 
+### Who is this program for? 
 
 Chromebook Data Science is designed for people who have a high school education and know how to use a computer. Some people who we hope the program will be useful for are: 
 
@@ -59,7 +59,7 @@ If you already have a background in statistics, math, or computer science and wa
 Our goal here is also to create a supportive and inclusive learning experience. Data science is frustrating and slow to learn. Often the best way is to learn from other people who have discovered similar solutions or made similar mistakes. Fortunately, there are communities in data science that are cheerful, friendly and willing to help new people get involved. Throughout the program we will introduce you to these communities and hope that you will also make an effort to help your fellow students as they discover this exciting field. 
 
 
-## How the program is organized
+### How the program is organized
 
 This program is a series of online classes. They are designed to be used in many different ways to be useful for the most people possible. The courses and projects can be completed entirely online using nothing more than a web browser. The program is organized into
 
@@ -74,7 +74,7 @@ This program is a series of online classes. They are designed to be used in many
 
 If you feel the material you are beginning with is too slow, consider jumping ahead in the series to courses that are more challenging. Or stick around and help other people through the courses! To keep up on the latest information about the program, courses and more go to http://jhudatascience.org/chromebookdatascience.
 
-## Slides and Video
+### Slides and Video
 
 ![Welcome to Chromebook Data Science](https://www.youtube.com/watch?v=ZuHiwgVozKo)
 
