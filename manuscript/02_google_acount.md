@@ -14,7 +14,7 @@ You'll be asked to read the "Privacy and Terms." To scroll through the entire do
 
 You will then be asked to verify your account. To do so, ensure that a valid phone number for you is in the 'Phone number' box. Select whether you prefer to be contacted by "Text message (SMS)" or 'Voice Call'. Click 'Continue' once the information has been entered. You will then be sent a verification code by text message or by phone call, depending on your choice to this question. Enter the verification code into the box on the screen and click "Continue". 
 
-Congratulations! You now have a Google username and account! Be sure to remember your username and password!
+Congratulations! You now have a Google username and account! Be sure to remember your username and password! This will be used for your email address (Gmail) and all other Google products. 
 
 ### Log Off Guest Chromebook
 
@@ -39,10 +39,16 @@ At this point, you'll want to log off the Chromebook you're using as a Guest and
 This is the Google Account quiz
 
 {words: 1}
-? What is your Google username?
+? Please enter your Google username?
 
 {words: 100}
 ? Did you have any problems getting a Google Login. If so, what were they?
 
+? Which of these is NOT something your Google Login can be used as?
+
+A) a credit card
+b) a way access to Google products, such as Google Sheets.
+c) an email (Gmail) address.
+d) a login to the Chromebook.
 
 {/quiz}
