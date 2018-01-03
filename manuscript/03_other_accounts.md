@@ -84,7 +84,7 @@ On this webpage, type your Gmail address in the 'email address' box, and click '
 
 As a data scientist A LOT of your work will be done in something called RStudio. In this program, you will be learning the basics of the programming language, R. R is a free programming language for statistical computing and graphics. In other words, the code you write to work with data will all be done in R. RStudio is the place (or 'platform') where you will type this code and make basic plots.
 
-Luckily, rstudio.cloud makes it easy to sign up. You will first go to www.rstudio.cloud. 
+Luckily, rstudio.cloud makes it easy to sign up. You will first go to 'rstudio.cloud'. Note: This web address does not start with 'www.' 
 
 ![](./img/03_other_accounts/rstudio_webaddress.png)
 

@@ -58,7 +58,7 @@ XXXX
 
 As a data scientist A LOT of your work will be done in something called R Studio. In this program, you will be learning the basics of the programming language, R. R is a free programming language for statistical computing and graphics. In other words, the code you write to work with data will all be done in R. R Studio is the place where you will type this code and make basic plots.
 
-Luckily, r studio cloud makes it easy to sign up. You will first go to w w w dot r studio dot cloud. 
+Luckily, r studio cloud makes it easy to sign up. You will first go to r studio dot cloud. Note that this web address does not start with w w w.
 
 This will bring you to a screen where you can click on Get Started.
 
