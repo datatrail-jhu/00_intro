@@ -6,9 +6,21 @@ If you already have a Google account with an appropriate username that you would
 
 ### Getting a Google Login
 
-To get a Google account, you will first want to open a new tab in your current Chrome session. To do this, you'll first click on the small gray box to the right of the tab you currently have open. Once this new tab is open, type in 'www.gmail.com' in the web address bar at the top of your Chrome session. After clicking enter, you will be brought to a Login screen. Here, you will click on "More options"
+To get a Google account, you will first want to open a new tab in your current Chrome session. To do this, you'll first click on the small gray box to the right of the tab you currently have open. 
 
-You will then click on "Create account" to start the process of getting a Google Login. Begin filling in the blank spaces in the box to the right with your information. Google will alert you if the username you've chosen has already been taken. Once you've filled out all the blanks, click on "Next Step" at the bottom right.
+![](./img/02_google_account/google_webaddress_annotated.png)
+
+Once this new tab is open, type in 'www.gmail.com' in the web address bar at the top of your Chrome session. After clicking enter, you will be brought to a Login screen. Here, you will click on "More options"
+
+![](./img/02_google_account/google_moreoptions_annotated.png)
+
+You will then click on "Create account" to start the process of getting a Google Login. 
+
+![](./img/02_google_account/google_createaccount_annotated.png)
+
+Begin filling in the blank spaces in the box to the right with your information. Google will alert you if the username you've chosen has already been taken. Once you've filled out all the blanks, click on "Next Step" at the bottom right.
+
+![](./img/02_google_account/google_form_annotated.png)
 
 You'll be asked to read the "Privacy and Terms." To scroll through the entire document, click on the blue arrow in the middle at the bottom of the document. After reading over the Privacy and Terms, click "I AGREE" to continue.
 
