@@ -12,7 +12,7 @@ Remembering different usernames for different accounts is difficult. It is best 
 
 ### Accounts 
 
-To give you an idea of where we're going, the first account (and arguably the most important account) you set up in the next lesson will be a [Google account](www.gmail.com). After that we will walk you through the steps to get you set up with accounts on: 
+To give you an idea of where we're going, the first account (and arguably the most important account) you set up in the next lesson will be a ![Google account](https://www.gmail.com). After that we will walk you through the steps to get you set up with accounts on: 
 * [LinkedIn](www.linkedin.com)
 * [Twitter](www.twitter.com)
 * [slack](www.slack.com)
