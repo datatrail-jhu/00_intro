@@ -41,13 +41,8 @@ This is the Google Account quiz
 {words: 1}
 ? What is your Google username?
 
-
-? Which of these is NOT an appropriate username?
-
-a) JaneDoe
-B) BigDaddy17
-c) Faith_Allen
-d) Kareem.Smith
+{words: 100}
+? Did you have any problems getting a Google Login. If so, what were they?
 
 
 {/quiz}
