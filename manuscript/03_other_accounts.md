@@ -36,20 +36,22 @@ To get a slack account, you will first type 'www.slack.com.' On this webpage, ty
 
 As a data scientist A LOT of your work will be done in something called RStudio. In this program, you will be learning the basics of the programming language, R. R is a free programming language for statistical computing and graphics. In other words, the code you write to work with data will all be done in R. RStudio is the place (or 'platform') where you will type this code and make basic plots.
 
-Luckily, rstudio.cloud makes it easy to sign up. You will first got to www.rstudio.cloud. This will bring you to a screen where you can click on 'Get Started.' This will bring you to a login screen where, instead of typing in your information, since you already have a Google account, just click on 'Sign up with Google.' You will be prompted to choose which Google account you want to use. Choose your professional Google account. Then, you will be brought to a screen where you will have to enter a username. Again, for simplicity, try to use the same username across all accounts. Then, click 'Create Account' and you're all set! You now have an rstudio.cloud account!
+Luckily, rstudio.cloud makes it easy to sign up. You will first go to www.rstudio.cloud. This will bring you to a screen where you can click on 'Get Started.' This will bring you to a login screen where, instead of typing in your information, since you already have a Google account, just click on 'Sign up with Google.' You will be prompted to choose which Google account you want to use. Choose your professional Google account. Then, you will be brought to a screen where you will have to enter a username. Again, for simplicity, try to use the same username across all accounts. Then, click 'Create Account' and you're all set! You now have an rstudio.cloud account!
 
 
 ### DataCamp Account
 
 [DataCamp](www.datacamp.com) is an online platform where people learn Data Science. Throughout this program, you will take courses and do exercises on DataCamp to ensure that you are acquiring the skills necessary to be a successful data scientist.
 
-Getting a DataCamp account will be very similar to getting an rstudio.cloud account because you can again sign in using your Google account. To do so, go to www.datacamp.com. You will be brought to a screen where you can 'Create Your Free Acount.' Click on the 'Google+' button. You will again be brought to a screen where you're asked to choose your google account. Select your Google account. And, just like that, you have a DataCamp account! 
+Getting a DataCamp account will be very similar to getting an rstudio.cloud account because you can again sign in using your Google account. To do so, go to www.datacamp.com. You will be brought to a screen where you can 'Create Your Free Acount.' Click on the 'Google+' button. You will again be brought to a screen where you're asked to choose your Google account. Select your Google account. And, just like that, you have a DataCamp account! 
 
 ### GitHub Account
 
 [GitHub](www.github.com) is a website that hosts computer code and allows for version control. We'll get back to what version control is later, but as for now, know that GitHub is where you'll be 'saving' all of the code you write. It's also a place where you can look at other people's code. And, throughout this program, you'll realize that you can learn a lot from other people's code!
 
 To get a GitHub account, first type www.github.com into the web address bar at the top of your Chrome window and hit 'Enter'. You will be brought to a page where you should fill in your information. As with the other accounts, try to use the same Username if possible. Enter your Gmail Email address. And, create a password that cannot be easily guessed by others. Then, click 'Sign up for GitHub.'
+
+You now have a GitHub account *and* all of the online accounts needed for this program!
 
 ### Slides and Video
 
