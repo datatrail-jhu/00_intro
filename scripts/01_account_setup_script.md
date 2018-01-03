@@ -6,3 +6,4 @@ Choosing an appropriate username is important. Some combination of your first an
 
 But, be sure that whatever name you choose, you would be comfortable sharing it with your boss or family member. Usernames with nicknames or profanity are *not* a good idea.
 
+In the next two lessons, we will you set up with not only a Google account, but also accounts with Linked In, Twitter, slack, r studio cloud, data camp and github. We'll explain what each of these is used for and get you all set up. These will all be used throughout the program and are regularly used by data scientists.

@@ -10,6 +10,15 @@ Choosing an appropriate username is important. Some combination of your first an
 
 Remembering different usernames for different accounts is difficult. It is best to make your life easy and use the same username whenever possible. We will make your life easy by using the Google Account you set up in the next section whenever possible. When it's not possible to log in with Google, then we suggest you try to use the same username for each account.
 
+### Accounts 
+
+To give you an idea of where we're going, the first account (and arguably the most important account) you set up in the next lesson will be a [Google account](www.gmail.com). After that we will walk you through the steps to get you set up with accounts on: 
+* [LinkedIn](www.linkedin.com)
+* [Twitter](www.twitter.com)
+* [slack](www.slack.com)
+* [rstudio cloud](rstudio.cloud)
+* [DataCamp](www.datacamp.com)
+* [GitHub](www.github.com)
 
 
 ### Slides and Video
