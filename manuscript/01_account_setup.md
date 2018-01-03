@@ -14,7 +14,7 @@ Remembering different usernames for different accounts is difficult. It is best 
 
 ### Slides and Video
 
-![Welcome to Chromebook Data Science](UPDATE LINK)
+![Account Setup](UPDATE LINK)
 
 * [Slides](https://docs.google.com/presentation/d/1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ/edit?usp=sharing)
 
