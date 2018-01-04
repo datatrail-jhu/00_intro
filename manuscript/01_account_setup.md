@@ -4,7 +4,7 @@ Before we can get started doing fun things with data we need to make sure you ar
 
 ### Choosing a Username
 
-Choosing an appropriate username is important. Some combination of your first and last name is a good idea. For example, if your name were Jane Doe, a username such as "JaneDoe" or "Jane.Doe" would work. If the first username you attempt is taken, you can try another, similar username. In this case, maybe try  "Jane_Doe". But, be sure that whatever name you choose, you would be comfortable sharing it with your boss or family member. Usernames with nicknames or profanity are *not* a good idea.
+Choosing an appropriate username is important. Some combination of your first and last name is a good idea. For example, if your name were Jane Doe, a username such as "JaneDoe" or "Jane.Doe" would work. If the first username you attempt is taken, you can try another, similar username. In this case, maybe try  "JDoe". But, be sure that whatever name you choose, you would be comfortable sharing it with your boss or family member. Usernames with nicknames or profanity are *not* a good idea.
 
 ### Using a Consistent Username
 

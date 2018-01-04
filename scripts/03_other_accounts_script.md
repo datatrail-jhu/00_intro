@@ -38,7 +38,7 @@ This will bring you to a screen that prompts you for some information and asks y
 
 You will be brought to a screen asking for your phone number. After entering your phone number, you will click Next. 
 
-This will bring you to a screen where you will chosse a username. This will be what your Twitter handle will be. For simplicity, it would be best for your Gmail username and Twitter handle to be the same. If that username is unavailable, choose a different, but appropriate and simple, Twtitter username. Once you have chosen a Twitter username, click Next.
+This will bring you to a screen where you will choose a username. This will be what your Twitter handle will be. For simplicity, it would be best for your Gmail username and Twitter handle to be the same. If that username is unavailable, choose a different, but appropriate and simple, Twtitter username. Once you have chosen a Twitter username, click Next.
 
 At this point you will be brought to a screen that will have a button saying Let's go! If you were to click this, it would lead you to set up your profile further, which is not needed at this time. 
 
@@ -72,7 +72,7 @@ You now have an r studio cloud account!
 
 Data Camp is an online platform where people learn Data Science. Throughout this program, you will take courses and do exercises on DataCamp to ensure that you are acquiring the skills necessary to be a successful data scientist.
 
-Getting a Data Camp account will be very similar to getting an r studio cloud account because you can again sign in using your Google account. To do so, go to w w w dot data camp dot com. You will be brought to a screen where you can Create Your Free Acount. Click on the Google plus button. 
+Getting a Data Camp account will be very similar to getting an r studio cloud account because you can again sign in using your Google account. To do so, go to w w w dot data camp dot com. You will be brought to a screen where you can Create Your Free Account. Click on the Google plus button. 
 
 You will again be brought to a screen where you're asked to choose your Google account. Select your Google account. 
 
