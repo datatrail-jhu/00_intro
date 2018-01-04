@@ -10,7 +10,7 @@ To begin set up, you'll go to the web address bar in your Chrome browser. You wi
 
 ![](./img/03_other_accounts/linkedin_webaddress.png)
 
-This will bring you to LinkedIn's login screen. On this screen you'll begin filling out the boxes in the middle of the screen. Be sure to use the Gmail username you just created in the last chapter when asked for your Email address. Choose a password that cannot be easily guessed by somoene else. Once the four boxes are filled in, click "Join now".
+This will bring you to LinkedIn's login screen. On this screen you'll begin filling out the boxes in the middle of the screen. Be sure to use the Gmail username you just created in the last chapter when asked for your Email address. Choose a password that cannot be easily guessed by someone else. Once the four boxes are filled in, click "Join now".
 
 ![](./img/03_other_accounts/linkedin_filledinform.png)
 
@@ -58,7 +58,7 @@ You will be brought to a screen asking for your phone number. After entering you
 
 ![](./img/03_other_accounts/twitter_phonenumber.png)
 
-This will bring you to a screen where you will chosse a username. This will be what your Twitter 'handle' will be. For simplicity, it would be best for your Gmail username and Twitter handle to be the same (ie if your Gmail address is Jane.Doe@gmail.com, 'Jane.Doe' would be a great Twitter username). If that name is unavailable, choose a different, but appropriate and simple, Twtitter username. Once you have chosen a Twitter username, click 'Next'.
+This will bring you to a screen where you will choose a username. This will be what your Twitter 'handle' will be. For simplicity, it would be best for your Gmail username and Twitter handle to be the same (ie if your Gmail address is Jane.Doe@gmail.com, 'Jane.Doe' would be a great Twitter username). If that name is unavailable, choose a different, but appropriate and simple, Twtitter username. Once you have chosen a Twitter username, click 'Next'.
 
 ![](./img/03_other_accounts/twitter_username_annotated.png)
 
@@ -107,7 +107,7 @@ Getting a DataCamp account will be very similar to getting an rstudio.cloud acco
 
 ![](./img/03_other_accounts/datacamp_webaddress.png)
 
-You will be brought to a screen where you can 'Create Your Free Acount.' Click on the 'Google+' button. You will again be brought to a screen where you're asked to choose your Google account. 
+You will be brought to a screen where you can 'Create Your Free Account.' Click on the 'Google+' button. You will again be brought to a screen where you're asked to choose your Google account. 
 
 ![](./img/03_other_accounts/datacamp_login.png)
 
