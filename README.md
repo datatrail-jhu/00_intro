@@ -11,8 +11,8 @@
   - Set up a Github account
 - 04 Intro to data science project
 - 05 Google sheets (for the project)
-- 06 Google slides (for the project)
-- 07 Google docs (for the project)
+- 07 Google slides (for the project)
+- 06 Google docs (for the project)
 - Finish project
 - What is computer programming
 - How to practice computer programming on Datacamp
