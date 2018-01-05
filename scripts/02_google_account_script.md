@@ -4,8 +4,6 @@ The first and most important account we need to set up will be a Google account.
 
 You will need a Google account to be able to use free Google products. These Google products, such as Gmail, Google Docs, Google Sheets, and Google Slides will be useful in each and every Data Science project you complete.
 
-![](./img/02_google_account/google_products.png)
-
 To get a Google account, you will first want to open a new tab in your current Chrome session. To do this, you'll first click on the small gray box to the right of the tab you currently have open. Once this new tab is open, type in 'www.gmail.com' in the web address bar at the top of your Chrome session. After clicking enter, you will be brought to a Login screen. 
 
 Here, you will click on "More options"
