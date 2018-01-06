@@ -2,7 +2,7 @@
 
 We are using this definition of data science. 
 
-> "Data science is asking a question that can be answered with data, collecting and cleaning the data, studying the data, and sharing the answer to the question with other people."
+> "Data science is asking a question that can be answered with data, collecting and cleaning the data, studying the data, creating models to help understand and answer the question, and sharing the answer to the question with other people."
 
 Rather than try to explain data science with examples made by other people, we are going to show you the process of data science through a project that you will complete. 
 
@@ -10,13 +10,16 @@ The first step in any data science project is to come up with a question. You ar
 
 > "How does the price of a bestselling book relate to how much the author is charging for that book?"
 
-To find the answer to the question we need to collect some information on books on the Leanpub website. If you go to https://leanpub.com/bookstore you will see a website that looks like this. 
+This question isn't about data. It is just something we might be curious about. In this case, if you were going to write and sell a book on Leanpub you might want to know what price to pick in order to try to sell the most books. Many good data science questions don't start out with data. They are just questions you wish that you knew the answer to. Later, you try to find out if there is data to answer your question. 
+
+
+In this case, to answer our question, we need some information on books on the Leanpub website. If you go to https://leanpub.com/bookstore you will see a website that looks like this. 
 
 ![Leanpub bookstore website]()
 
 This shows the bestseller books for the last week. If you click on one of the pictures of a book you can get some information on that book. If I click on the page for the first book "PowerShell 101" I see something like this. 
 
-![Powershell 101 landing page]()
+![Powershell 101 landing page on Leanpub]()
 
 It will probably be a different book for you since it will be a different weekly bestseller. But you can look in the top left corner and see how many people read the book. This information is there for most books, but is sometimes missing if the author decides not to publish that number. In this case there are 1,036 total readers of this book. 
 
@@ -31,8 +34,8 @@ But one nice thing about Leanpub is that you can set up a "pay what you want" mo
 
 ![Minimum price for Powershell 101]()
 
- 
-We could do this for each book and then we'd have a nice data set that would tell us something about the number of readers for a book and the price of that book.
+
+We could do this for each book and then we'd have a nice data set that would tell us something about the number of readers for a book and the price of that book. Then we could start to look at the numbers we collected and see if we see any patterns to the data that we have collected to try to answer our question.  
 
 
 
@@ -41,5 +44,7 @@ We could do this for each book and then we'd have a nice data set that would tel
 ![Welcome to Chromebook Data Science](https://www.youtube.com/watch?v=ZuHiwgVozKo)
 
 [Slides](https://docs.google.com/presentation/d/18q2gRHXGZxBL7pSWcQg_HThmgoo5qDeO9O372QkAnYU/edit?usp=sharing)
+
+
 
 

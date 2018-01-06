@@ -1,63 +1,38 @@
-# Google Sheets
+# rstudio.cloud
 
-Google Sheets is a free, online spreadsheet program. If you're familiar with Excel, it is similar to Excel. If you are unfamiliar with Excel, that's ok! We'll go through everything you need to know to get started on the project here. And, later in the program, we will go into more details to get you fully comfortable working with Google Sheets. As for right now, just know that when you have data that you want to input into a spreadsheet, Google Sheets is an ok place to start. Google Sheets is great because you never have to worry about saving your work. If you are online, Google Sheets automatically saves your work.
+The main software that we are going to use to analyze data in this class is called [R](https://www.r-project.org/). R is a piece of software that lets you write computer code to analyze data. [Rstudio](https://www.rstudio.com/) is a company that makes a piece of software that works with R. Rstudio makes it easier to create, save, share, and work with R code and data sets. R is one of the two most popular languages for data science. We will learn a lot more about it throughout the courses, but here we are just going to use it to take a peak at the data you have created. 
 
-### What is a spreadsheet?
+If you have a more traditional laptop you can download and install R and Rstudio on your laptop. But this class is part of our Chromebook Data Science program where we will be teaching you how to do everything through a web browser. Fortunately Rstudio also offers a web-based version of their software called rstudio.cloud.
 
-A spreadsheet is a type of document where data are stored in rows and columns of a grid. Each square is referred to as a 'cell' in teh spreadsheet In Google Sheets (and many other spreadsheet programs), the rows are numbered (i.e. 1,2,3) and the columns are specified by capital letters (i.e. A, B, C). 
+In a future class we will go into much more detail about Rstudio and rstudio.cloud. For now, we will just use it to do a very basic analysis of the data you collected in your Google Sheet. Using rstudio.cloud we will give you all the commands you need to run to complete this project. Don't worry if this seems a little foreign, we are going to learn a lot more about it later! Just follow the steps and you'll end up with your very first plot! 
 
-This way you can refer to any specific spot in the grid. For example, A2 specifies the data in cell in the first column (A) and second row of the spreadsheet. 
+To start, open up a new tab by pressing _ctrl_ and pressing _t_, then copy this url and paste it into your web browser https://rstudio.cloud/spaces/906/join?access_code=aJYLCFYdCmMZLMsnMbpqboDBAPCVdHiwn2rtJ4Gw. If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account. 
 
-For this first project you will collect data and enter it into a Google Sheet. We'll discuss the details of how to do this now.
+You should now see a page that looks like this. 
 
-### Getting started in Google Sheets
+![Initial webpage for rstudio.cloud]()
 
-To get started and create your first Google Sheet, go to docs.google.com/spreadsheets. 
+Now click on the "Projects" button at the top of the page. You should see one that is called "Leanpub Project".
 
-### Entering Data
+![rstudio.cloud projects page]()
 
-### Basics of 'tidy data'
+Click on this project. You should now see a page that looks like this. 
 
+![rstudio.cloud Leanpub project page]()
 
+You are now using the Rstudio software! The first thing that you should do is go to the bottom right hand side of the screen and click on the file called "leanpub_googlesheets_analysis.R". This should open up a file full of code so your screen should look like this. 
 
-### Collecting data for our project
+![rstudio.cloud Leanpub project page]()
 
-But we need to store that information somewhere. 
+The place at the top of the left hand side of the screen is where you can type in computer code. The place at the bottom left hand side is the place that you can "execute" the computer code. That means you can tell the computer what code to run. 
 
-For this project we will be using Google Sheets. You can get to Google Sheets by navigating to the website https://docs.google.com/spreadsheets/. You will see something like this. 
+This file already has computer code in it. That computer code will read the data from the Google Sheet you have created and make a plot. To make this work, you need to copy the public url for the Google Sheet that you made in the last chapter of the course. Find the place in the computer code that says "replace with your url", delete that and paste your url. Your code should look something like this now. 
 
-![Google sheets home]()
+![rstudio.cloud with leanpub_googlesheets_analysis.R with personal url]()
 
-Now click on the big plus sign and you will get a new spreadsheet that will look like this. 
+Now you should be ready to run your code. Find the button that says "Run" at the top of the code file. Click on that button. You should see code running in the bottom left hand panel and a plot should appear on the lower right hand side. 
 
-![Untitled sheet]()
-
-If you click on the words _"Untitled Spreadsheet"_ you can rename the spreadsheet. Type in the words _"leanpub\_data"_ to change the name of your spreadsheet. You should now have a spreadsheet that looks like this. 
-
-![leanpub_data sheet]()
-
-
-
-We are almost done, now we just need to label the different kinds of data we are going to collect. Start by clicking on the upper left hand square (called a "cell") and type "title". This will be the column where we are going to store information on the title of the book. 
-
-![leanpub_data sheet with title]()
-
-Then move one square to the right, click and type "readers". This will be where we will store how many readers a book has. Move one more square to the right type "suggested" and then one more square and type "minimum". 
-
-Now you are all set to start collecting data! To do this, go back to the webspage: https://leanpub.com/bookstore. Click on the book and write the title, number of readers, suggested, and minimum prices on a row. When you are doing this make sure that: 
-
-* There are no commas in numbers. Just leave them out. So don't write "1,036" write "1036" instead. 
-* You don't put dollar signs for the price, just include the number like "7.99"
-
-So for me, since the first book is "PowerShell 101" after getting the data for the first book my spreadsheet will look like this. 
-
-![First row of data for project]()
-
-Collect information on ten or twenty books. One book for every row. At the end you should have a data set that looks something like this. But yours will have different numbers and names in it. 
-
-![First complete data set]()
-
-This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!
+![rstudio.cloud after running the code in leanpub_googlesheets_analysis.R]()
 
 
 ## Slides and Video
