@@ -17,7 +17,7 @@ Google Slides is the last Google product we will discuss today. It is a place to
 * [Slides](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/edit?usp=sharing)
 
 
-{quiz, id: quiz1}
+{quiz, id: 08_googleslides}
 
 # Google Slides quiz
 
