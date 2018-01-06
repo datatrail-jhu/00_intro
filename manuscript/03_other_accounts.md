@@ -42,6 +42,8 @@ While other boxes may pop up for you to go further on LinkedIn and get your prof
 
 The second account you will need will be a [Twitter](www.twitter.com) account. You may already be familiar with Twitter; however, data scientists tend to use Twitter for work rather than socializing. Twitter is a social media platform where users can "post and interact with messages." These messages are known as 'tweets.' Twitter is a great place to learn new things, connect with other data scientists, and to ask/answer questions quickly.
 
+You will need a professional Twitter account for our program. If you already have a Twitter account you use for personal tweets and communicating with friends you should still create a new, professional account where you will only post professional links and interact with other data scientists. 
+
 To get a Twitter account, first type 'www.twitter.com' in the search bar at the top of your Chrome session. 
 
 ![](./img/03_other_accounts/03_cdsintro_other_accounts-18.png)
