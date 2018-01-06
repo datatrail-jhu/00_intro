@@ -1,6 +1,7 @@
 # Google Account Setup
 
-The first and most important account we need to set up will be a Google account. You will need a Google account to be able to use free Google products. These Google products, such as Gmail, Google Docs, Google Sheets, and Google Slides will be useful in each and every Data Science project you complete.
+The first and most important account we need to set up will be a Google account. You will need a Google account to be able to use free Google products. These Google products, such as Gmail, Google Docs, Google Sheets, and Google Slides will be useful in many of the Data Science projects you complete. The Google account will also be useful for letting you get access to other 
+websites we will use in the program. 
 
 ![](./img/02_google_account/02_cdsintro_google_account-03.png)
 
