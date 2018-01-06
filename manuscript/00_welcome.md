@@ -17,7 +17,7 @@ Another example is social media. You might write a post on Facebook with picture
 
 But to make data valuable we need to be able to study it and separate the interesting facts (called the "signal") from the uninteresting information (the "noise"). One definition for data science is that. 
 
-> "Data science is asking a question that can be answered with data, collecting and cleaning the data, studying the data, and sharing the answer to the question with other people."
+> "Data science is asking a question that can be answered with data, collecting and cleaning the data, studying the data, creating models to help understand and answer the question, and sharing the answer to the question with other people."
 
 The reason this field is growing so fast is that nearly every government, company, and organaization is now collecting data. As the data have become cheaper and cheaper, the ability to analyze that data and find useful information has become a more and more valuable skill. But most people don't have training or experience sifting through big piles of data to make interesting and valuable discoveries. The people who can do this well are called data scientists. They have a job that is exciting, interesting, and promises to be in high demand for years to come. 
 
@@ -47,7 +47,7 @@ It is our goal with Chromebook Data Science to try to help people who would othe
 Chromebook Data Science is designed for people who have a high school education and know how to use a computer. Some people who we hope the program will be useful for are: 
 
 * High school students
-* People who are working on or have completed a GED
+* People who are working on or have completed a high school education
 * Students at community colleges
 * Older adults who want to learn something new
 
@@ -74,6 +74,11 @@ This program is a series of online classes. They are designed to be used in many
 
 If you feel the material you are beginning with is too slow, consider jumping ahead in the series to courses that are more challenging. Or stick around and help other people through the courses! To keep up on the latest information about the program, courses and more go to http://jhudatascience.org/chromebookdatascience.
 
+
+### How this course is graded
+
+This first class is designed to get you set up with the accounts you will use as you learn to become a data scientist. You will also complete your first data science project. Each chapter will have a short quiz at the end. To pass the course you need to get 70% of the questions in the course correct. 
+
 ### Slides and Video
 
 ![Welcome to Chromebook Data Science](https://www.youtube.com/watch?v=ZuHiwgVozKo)
@@ -85,22 +90,28 @@ If you feel the material you are beginning with is too slow, consider jumping ah
 
 ### Quiz
 
-This is the first quiz 
 
-? Why is account setup important?
+? Which of the following is not a part of data science ?
 
-a) Different accounts will be used throughout the course.
-b) Various accounts are requried to do fun data science stuff.
-c) Usernames are required and it's important to choose a good username.
-D) All of the above.
+a) Collecting and cleaning data.
+B) Building new databases.
+b) Creating models for the data.
+c) Communicating models and data.
 
-? Which of these is NOT an appropriate username?
+? Which of the following are barriers to becoming a data scientist?
 
-a) JaneDoe
-B) BigDaddy17
-c) Faith_Allen
-d) Kareem.Smith
+a) Knowing data science is a career possibility.
+B) You might need an expensive computer. 
+c) You might need an expensive computer.
+d) All of the above.
 
+? Who is this class designed for? 
+
+a) People with a high school education.
+b) People in high school.
+c) Students in community colleges.
+d) Anyone interested in data science.
+E) All of the above
 
 {/quiz}
 

@@ -36,10 +36,10 @@ We could do this for each book and then we'd have a nice data set that would tel
 
 
 
-## Slides and Video
+### Slides and Video
 
 ![Welcome to Chromebook Data Science](https://www.youtube.com/watch?v=ZuHiwgVozKo)
 
-* [Slides](https://docs.google.com/presentation/d/18q2gRHXGZxBL7pSWcQg_HThmgoo5qDeO9O372QkAnYU/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/18q2gRHXGZxBL7pSWcQg_HThmgoo5qDeO9O372QkAnYU/edit?usp=sharing)
 
 

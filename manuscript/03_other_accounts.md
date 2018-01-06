@@ -144,7 +144,7 @@ You now have a GitHub account *and* all of the online accounts needed for this p
 
 {quiz, id: quiz_03_other_accounts}
 
-# Other Accounts Setup quiz
+### Quiz
 
 This is the Other Accounts Setup quiz
 
