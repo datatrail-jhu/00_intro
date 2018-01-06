@@ -19,6 +19,55 @@ To get started and create your first Google Sheet, go to docs.google.com/spreads
 ### Basics of 'tidy data'
 
 
+
+### Collecting data for our project
+
+But we need to store that information somewhere. 
+
+For this project we will be using Google Sheets. You can get to Google Sheets by navigating to the website https://docs.google.com/spreadsheets/. You will see something like this. 
+
+![Google sheets home]()
+
+Now click on the big plus sign and you will get a new spreadsheet that will look like this. 
+
+![Untitled sheet]()
+
+If you click on the words _"Untitled Spreadsheet"_ you can rename the spreadsheet. Type in the words _"leanpub\_data"_ to change the name of your spreadsheet. You should now have a spreadsheet that looks like this. 
+
+![leanpub_data sheet]()
+
+
+
+We are almost done, now we just need to label the different kinds of data we are going to collect. Start by clicking on the upper left hand square (called a "cell") and type "title". This will be the column where we are going to store information on the title of the book. 
+
+![leanpub_data sheet with title]()
+
+Then move one square to the right, click and type "readers". This will be where we will store how many readers a book has. Move one more square to the right type "suggested" and then one more square and type "minimum". 
+
+Now you are all set to start collecting data! To do this, go back to the webspage: https://leanpub.com/bookstore. Click on the book and write the title, number of readers, suggested, and minimum prices on a row. When you are doing this make sure that: 
+
+* There are no commas in numbers. Just leave them out. So don't write "1,036" write "1036" instead. 
+* You don't put dollar signs for the price, just include the number like "7.99"
+
+So for me, since the first book is "PowerShell 101" after getting the data for the first book my spreadsheet will look like this. 
+
+![First row of data for project]()
+
+Collect information on ten or twenty books. One book for every row. At the end you should have a data set that looks something like this. But yours will have different numbers and names in it. 
+
+![First complete data set]()
+
+This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!
+
+
+## Slides and Video
+
+![Project Intro and Data]()
+
+* [Slides](https://docs.google.com/presentation/d/1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE/edit?usp=sharing)
+
+
+
 ### Slides and Video
 
 ![Google Sheets](UPDATE LINK)
