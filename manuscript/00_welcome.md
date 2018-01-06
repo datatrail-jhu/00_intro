@@ -81,3 +81,27 @@ If you feel the material you are beginning with is too slow, consider jumping ah
 [Slides](https://docs.google.com/presentation/d/18q2gRHXGZxBL7pSWcQg_HThmgoo5qDeO9O372QkAnYU/edit?usp=sharing)
 
 
+{quiz, id: quiz_00_welcome}
+
+### Quiz
+
+This is the first quiz 
+
+? Why is account setup important?
+
+a) Different accounts will be used throughout the course.
+b) Various accounts are requried to do fun data science stuff.
+c) Usernames are required and it's important to choose a good username.
+D) All of the above.
+
+? Which of these is NOT an appropriate username?
+
+a) JaneDoe
+B) BigDaddy17
+c) Faith_Allen
+d) Kareem.Smith
+
+
+{/quiz}
+
+

@@ -142,7 +142,7 @@ You now have a GitHub account *and* all of the online accounts needed for this p
 * [Slides](https://docs.google.com/presentation/d/1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A/edit?usp=sharing)
 
 
-{quiz, id: quiz1}
+{quiz, id: quiz_03_other_accounts}
 
 # Other Accounts Setup quiz
 
