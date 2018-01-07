@@ -49,7 +49,7 @@ At this point, you'll want to log off the Chromebook you're using as a Guest and
 * [Slides](https://docs.google.com/presentation/d/1sOBtwszQqq366q84VCDY_BwSjWQz_4yFJLC4ib1dEGQ/edit?usp=sharing)
 
 
-{quiz, id: quiz1}
+{quiz, id: quiz_02_google}
 
 # Account Google Account quiz
 

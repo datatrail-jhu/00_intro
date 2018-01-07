@@ -50,7 +50,7 @@ Now you should be ready to run your code. Find the button that says "Run" at the
 * [Slides](https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/edit?usp=sharing)
 
 
-{quiz, id: quiz1}
+{quiz, id: quiz_07_rstudio}
 
 # Google Sheets quiz
 
@@ -59,7 +59,7 @@ This is the Google Sheets quiz
 ? Why is account setup important?
 
 a) Different accounts will be used throughout the course.
-b) Various accounts are requried to do fun data science stuff.
+b) Various accounts are required to do fun data science stuff.
 c) Usernames are required and it's important to choose a good username.
 D) All of the above.
 
