@@ -30,7 +30,7 @@ While other boxes may pop up for you to go further on LinkedIn and get your prof
 
 The second account you will need will be a Twitter account. You may already be familiar with Twitter; however, data scientists tend to use Twitter for work rather than socializing. Twitter is a social media platform where users can post and interact with messages. These messages are known as tweets. Twitter is a great place to learn new things, connect with other data scientists, and to ask/answer questions quickly.
 
-To get a Twitter account, first type w w w dot twitter dot com in the search bar at the top of your Chrome session. 
+To get a Twitter account, first type www.twitter.com in the search bar at the top of your Chrome session. 
 
 This will bring you to a screen where at the top right you'll want to click Sign up. 
 
@@ -50,7 +50,7 @@ Congrats! You now have a Twitter account!
 
 Slack is a place where teams of people can easily communicate and work together on a project. As a data scientist, you are often working in a group on a project. Slack is a place where everyone working on that project can communicate. Slack is where communication throughout this course will happen. You will be able to ask questions, answer questions, and communicate with others on Slack about the things you are learning and the projects you are working on.
 
-To get a slack account, you will first type w w w dot slack dot com. On this webpage, type your Gmail address in the email address box, and click GET STARTED.
+To get a slack account, you will first type www.slack.com. On this webpage, type your Gmail address in the email address box, and click GET STARTED.
 
 XXXX
 
