@@ -6,7 +6,11 @@ Google Sheets is a free, online spreadsheet program. If you're familiar with Exc
 
 A spreadsheet is a type of document where data are stored in rows and columns of a grid. Each square is referred to as a 'cell' in the spreadsheet. In Google Sheets (and many other spreadsheet programs like Excel), the rows are numbered (like 1,2,3,...) and the columns are labeled with capital letters (like A, B, C,...). 
 
+![spreadsheet](./img/05_googlesheets/05_cdsintro_googlesheets-02.png)
+
 If you want to talk about a specific spot on the grid you can use the number and letter corresponding to that point. For example, A2 specifies the data in cell in the first column (A) and second row (2) of the spreadsheet.
+
+![spreadsheet position](./img/05_googlesheets/05_cdsintro_googlesheets-03.png)
 
 When you are working with data in a spreadsheet you can type directly into the spreadsheet. It is important to make sure you double check all the numbers you type since there isn't a good way to "spellcheck" your work when you are editing a spreadsheet. 
 
@@ -21,28 +25,30 @@ Here we are only colleting one "kind" of data - just data on books. The columns 
 
 Remember we are collecting information on the bestselling books from the last week on Leanpub. You can find the list of bestsellers here: https://leanpub.com/bookstore. Remember that if you click on the image of one book you will get something that looks like this. 
 
-![PPowershell 101 landing page]()
+![PPowershell 101 landing page](./img/05_googlesheets/05_cdsintro_googlesheets-06.png)
 
 
 ### Setting up your spreadsheet
 
 When we collect the information we will use the Google Sheets software to store it for us. You will need to open up another web browser. You can do this by holding down the key _ctrl_ and pressing _t_. This will open up a new tab. Leave this page open and type go to Google Sheets by navigating to the website https://docs.google.com/spreadsheets/ in the new tab. You will see something like this. 
 
-![Google sheets home]()
+![Google sheets home](./img/05_googlesheets/05_cdsintro_googlesheets-07.png)
 
 Now click on the big plus sign and you will get a new spreadsheet that will look like this. 
 
-![Untitled sheet]()
+![Untitled sheet](./img/05_googlesheets/05_cdsintro_googlesheets-08.png)
 
 If you click on the words _"Untitled Spreadsheet"_ you can rename the spreadsheet. Type in the words _"leanpub\_data"_ to change the name of your spreadsheet. You should now have a spreadsheet that looks like this. 
 
-![leanpub_data sheet]()
+![leanpub_data sheet](./img/05_googlesheets/05_cdsintro_googlesheets-10.png)
 
 We are almost done setting up the spreadsheet, now we just need to label the different kinds of data we are going to collect. Start by clicking on the upper left hand cell (A1) and type "title". This will be the column where we are going to store information on the title of the book. 
 
-![leanpub_data sheet with title]()
+![leanpub_data sheet with title](./img/05_googlesheets/05_cdsintro_googlesheets-11.png)
 
 Then move one cell to the right, click and type "readers". This will be where we will store how many readers a book has. Move one more cell to the right type "suggested" and then one more cell and type "minimum". 
+
+![leanpub_data sheet with headers](./img/05_googlesheets/05_cdsintro_googlesheets-12.png)
 
 ### Collecting data
 
@@ -53,17 +59,27 @@ Now you are all set to start collecting data! To do this open another new tab by
 
 So for me, since the first book is "PowerShell 101" after getting the data for the first book my spreadsheet will look like this. 
 
-![First row of data for project]()
+![First row of data for project](./img/05_googlesheets/05_cdsintro_googlesheets-13.png)
 
-Collect information on ten or twenty books. One book for every row. At the end you should have a data set that looks something like this. But yours will have different numbers and names in it. 
+Continue this process, entering each book into a new row. Collect information on ten or twenty books. One book for every row. At the end you should have a data set that looks something like this. But yours will have different numbers and names in it. 
 
-![First complete data set]()
+![First complete data set](./img/05_googlesheets/05_cdsintro_googlesheets-14.png)
 
 This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!
 
 ### Making the sheet public
 
-Our plan is to use the data in this spreadsheet to answer our question about how 
+Our plan is to use the data in this spreadsheet to answer our question about how the price of a best-selling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to make these data public. This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
+
+![Share](./img/05_googlesheets/05_cdsintro_googlesheets-16.png)
+
+A "Share with others" box will pop up. Click on "Get shareable link."
+
+![Share with others](./img/05_googlesheets/05_cdsintro_googlesheets-17.png)
+
+Your screen will update so that this document can now be viewed by anyone, as long as they have the link to the spreadsheet.
+
+![Shareable](./img/05_googlesheets/05_cdsintro_googlesheets-18.png)
 
 ### Slides and Video
 
@@ -80,17 +96,19 @@ This is the Google Sheets quiz
 
 ? What is a spreadsheet?
 
-a) Different accounts will be used throughout the course.
-b) Various accounts are requried to do fun data science stuff.
-c) Usernames are required and it's important to choose a good username.
-D) All of the above.
+A) A grid where you can store data.
+b) A word document where you would type a novel.
+c) A great place to make a slide presentation.
+d) An online banking website.
 
-? Which of these is NOT an appropriate username?
+? What information are we NOT collecting from Leanpub?
 
-a) JaneDoe
-B) BigDaddy17
-c) Faith_Allen
-d) Kareem.Smith
+a) book title
+b) number of readers
+C) maximum price
+d) suggested price
+e) minimum price
+
 
 
 {/quiz}
