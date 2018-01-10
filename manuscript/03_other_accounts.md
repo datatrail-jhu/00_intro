@@ -8,33 +8,33 @@ In addition to having a Google username, there are a number of other accounts to
 
 To begin set up, you'll go to the web address bar in your Chrome browser. You will type www.linkedin.com and hit 'Enter.' 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-04.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-04.png)
 
 This will bring you to LinkedIn's login screen. On this screen you'll begin filling out the boxes in the middle of the screen. Be sure to use the Gmail username you just created in the last chapter when asked for your Email address. Choose a password that cannot be easily guessed by someone else. Once the four boxes are filled in, click "Join now".
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-05.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-05.png)
 
 A screen may pop up asking you to verify that you're not a robot. Whenever this happens, just click on the empty square box to let the computer know you're a real person.
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-08.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-08.png)
 
 After clicking "Join now" (and maybe after you verify that you are a human) you will be brought to a new screen. Here, at the top, it will show you that you almost have a LinkedIn login but that first you have to confirm your email address.
 
 To do so, you will open a new tab at the top of the Chrome browser window. You will then type in 'www.gmail.com' and click 'Enter.'
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-11.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-11.png)
 
 This will bring you to your email account. An email from 'LinkedIn Messages' should be there. Click on that email to open it.
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-13.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-13.png)
 
 In that email there will be a button where you can click to 'Confirm your email'. 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-14.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-14.png)
 
 This will open a new screen where your google username will be in the box already. Click 'Continue' on this screen. 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-15.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-15.png)
 
 While other boxes may pop up for you to go further on LinkedIn and get your profile set up, this is all you have to do for now. You now have a LinkedIn username and account! We will now go through similar processes for the other accounts needed in this program.
 
@@ -46,28 +46,28 @@ You will need a professional Twitter account for our program. If you already hav
 
 To get a Twitter account, first type 'www.twitter.com' in the search bar at the top of your Chrome session. 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-18.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-18.png)
 
 This will bring you to a screen where at the top right you'll want to click 'Sign up'. 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-19.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-19.png)
 
 This will bring you to a screen that prompts you for some information and asks you to create a new password. After filling out the information, you will click 'Sign up.' 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-20.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-20.png)
 
 You will be brought to a screen asking for your phone number. After entering your phone number, you will click 'Next.' 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-21.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-21.png)
 
 This will bring you to a screen where you will choose a username. This will be what your Twitter 'handle' will be. For simplicity, it would be best for your Gmail username and Twitter handle to be the same (ie if your Gmail address is Jane.Doe@gmail.com, 'Jane.Doe' would be a great Twitter username). If that name is unavailable, choose a different, but appropriate and simple, Twtitter username. Once you have chosen a Twitter username, click 'Next'.
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-22.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-22.png)
 
 At this point you will be brought to a screen that will have a button saying 'Let's go!' This will lead you to set up your profile further, which is not needed at this time. Instead, go to your gmail, look for an email from 'Twitter' and click on the email. 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-25.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-25.png)
 In this email, there will be a 'Confirm now' button to click. To verify your Twitter account, click on this button.
-![](./img/03_other_accounts/03_cdsintro_other_accounts-26.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-26.png)
 
 
 Congrats! You now have a Twitter account!
@@ -78,11 +78,11 @@ Congrats! You now have a Twitter account!
 
 To get a slack account, you will first type 'www.slack.com.' 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-29.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-29.png)
 
 On this webpage, type your Gmail address in the 'email address' box, and click 'GET STARTED.'
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-30.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-30.png)
 
 ### rstudio.cloud Account
 
@@ -90,15 +90,15 @@ As a data scientist A LOT of your work will be done in something called RStudio.
 
 Luckily, rstudio.cloud makes it easy to sign up. You will first go to 'rstudio.cloud'. Note: This web address does not start with 'www.' 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-34.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-34.png)
 
 This will bring you to a screen where you can click on 'Get Started.' This will bring you to a login screen where, instead of typing in your information, since you already have a Google account, just click on 'Sign up with Google.' 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-35.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-35.png)
 
 You will be prompted to choose which Google account you want to use. Choose your professional Google account. Then, you will be brought to a screen where you will have to enter a username. Again, for simplicity, try to use the same username across all accounts. 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-36.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-36.png)
 
 Then, click 'Create Account' and you're all set! You now have an rstudio.cloud account!
 
@@ -109,15 +109,15 @@ Then, click 'Create Account' and you're all set! You now have an rstudio.cloud a
 
 Getting a DataCamp account will be very similar to getting an rstudio.cloud account because you can again sign in using your Google account. To do so, go to www.datacamp.com. 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-41.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-41.png)
 
 You will be brought to a screen where you can 'Create Your Free Account.' Click on the 'Google+' button. You will again be brought to a screen where you're asked to choose your Google account. 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-42.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-42.png)
 
 Select your Google account. 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-43.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-43.png)
 
 And, just like that, you have a DataCamp account! 
 
@@ -127,11 +127,11 @@ And, just like that, you have a DataCamp account!
 
 To get a GitHub account, first type www.github.com into the web address bar at the top of your Chrome window and hit 'Enter'. 
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-46.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-46.png)
 
 You will be brought to a page where you should fill in your information. As with the other accounts, try to use the same Username if possible. Enter your Gmail Email address. And, create a password that cannot be easily guessed by others. Then, click 'Sign up for GitHub.'
 
-![](./img/03_other_accounts/03_cdsintro_other_accounts-47.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-47.png)
 
 You now have a GitHub account *and* all of the online accounts needed for this program!
 

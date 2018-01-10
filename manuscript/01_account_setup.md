@@ -6,11 +6,11 @@ Before we can get started doing fun things with data we need to make sure you ar
 
 Choosing an appropriate username is important. Some combination of your first and last name is a good idea. For example, if your name were Jane Doe, a username such as "JaneDoe" or "Jane.Doe" would work. If the first username you attempt is taken, you can try another, similar username. In this case, maybe try  "JDoe". 
 
-![](./img/01_account_setup/01_cdsintro_account_setup-03.png)
+![](images/01_account_setup/01_cdsintro_account_setup-03.png)
 
 But, be sure that whatever name you choose, you would be comfortable sharing it with your boss or family member. Usernames with nicknames or profanity are *not* a good idea.
 
-![](./img/01_account_setup/01_cdsintro_account_setup-04.png)
+![](images/01_account_setup/01_cdsintro_account_setup-04.png)
 
 ### Using a Consistent Username
 
@@ -26,7 +26,7 @@ To give you an idea of where we're going, the first account (and arguably the mo
 * [DataCamp](www.datacamp.com) - this is a website where you can practice using R and Rstudio. 
 * [GitHub](www.github.com) - this is a website where we will share the results of our data science projects with each other and the world. 
 
-![](./img/01_account_setup/01_cdsintro_account_setup-05.png)
+![](images/01_account_setup/01_cdsintro_account_setup-05.png)
 
 ### Slides and Video
 
