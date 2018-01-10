@@ -68,43 +68,19 @@ Continue this process, entering each book into a new row. Collect information on
 This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!
 
 ### Making the sheet public
+Our plan is to use the data in this spreadsheet to answer our question about how the price of a best-selling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to make these data public. This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
+ 
+![Share](./img/05_googlesheets/05_cdsintro_googlesheets-16.png)
+ 
+A "Share with others" box will pop up. Click on "Get shareable link."
+ 
+![Share with others](./img/05_googlesheets/05_cdsintro_googlesheets-17.png)
+ 
+Your screen will update so that this document can now be viewed by anyone, as long as they have the link to the spreadsheet.
+ 
+![Shareable](./img/05_googlesheets/05_cdsintro_googlesheets-18.png)
 
-Our plan is to use the data in this spreadsheet to answer our question about how the price of a best-selling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to publish these data to the web. This can be done easily on a Google Sheets by first clicking on 'File' at the top left-hand side of the Google Sheets window.
-
-![File menu](./img/05_googlesheets/05_cdsintro_googlesheets-16.png)
-
-On this drop-down menu you will click on 'Publish to the web...' 
-
-![Publish to web](./img/05_googlesheets/05_cdsintro_googlesheets-17.png)
-
-A new box will pop up on the screen. On this new sreen you will first click on the 'Entire Document' box. 
-
-![Entire Document](./img/05_googlesheets/05_cdsintro_googlesheets-18.png)
-
-A drop-down menu will appear. Click on "Sheet 1" to specify that only Sheet1 will be published to the web. 
-
-![Sheet1](./img/05_googlesheets/05_cdsintro_googlesheets-19.png)
-
-Then click on the 'Web page' box to show a drop-down menu. 
-
-![Web page](./img/05_googlesheets/05_cdsintro_googlesheets-20.png)
-
-From this drop down menu, select 'Comma-separated values (.csv).' 
-
-![CSV](./img/05_googlesheets/05_cdsintro_googlesheets-21.png)
-
-Now, click the blue 'Publish' box.
-
-![Blue Publish Box](./img/05_googlesheets/05_cdsintro_googlesheets-22.png)
-
-A box will pop up asking if you are sure you want to publish this document. Click 'OK.'
-
-![OK](./img/05_googlesheets/05_cdsintro_googlesheets-23.png)
-
-Congrats! You have successfully published this spreadsheet to the web. To save this link, you can hold down the _ctrl_ and _c_ keys at the same time. You will use this link in something called RStudio Cloud in the next lesson.
-
-![ctrl+c](./img/05_googlesheets/05_cdsintro_googlesheets-24.png)
-
+Congrats! You have successfully made this spreadsheet shareable. We'll use this spreadsheet link in the next lesson when you get started using RStudio.cloud.
 
 ### Slides and Video
 
