@@ -1,10 +1,12 @@
-Other Accounts Setup
+Here, now that you have a Google account, we will be getting all the other accounts you'll need to do data science set up. 
 
-Linked In is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online, sort of like an online resum. It also has a space where you can look for jobs and puts you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
+First up is Linked In, which is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online, sort of like an online resum. It also has a space where you can look for jobs and puts you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
 
 To begin set up, you'll go to the web address bar in your Chrome browser. 
 
-You will type w w w linked in dot com and hit Enter. This will bring you to Linked In's login screen. 
+You will type www.linkedin.com and hit Enter. 
+
+This will bring you to Linked In's login screen. 
 
 On this screen you'll begin filling out the boxes in the middle of the screen. Be sure to use the Gmail username you just created in the last chapter when asked for your Email address. Choose a password that cannot be easily guessed by somoene else. 
 
@@ -18,7 +20,7 @@ Here, at the top, it will show you that you almost have a Linked In login but th
 
 To do so, you will open a new tab at the top of the Chrome browser window. 
 
-You will then type in w w w w dot gmail dot com and click Enter. This will bring you to your email account. 
+You will then type in www.gmail.com and click Enter. This will bring you to your email account. 
 
 An email from Linked In Messages should be there. Click on that email to open it.
 
@@ -42,7 +44,9 @@ This will bring you to a screen where you will choose a username. This will be w
 
 At this point you will be brought to a screen that will have a button saying Let's go! If you were to click this, it would lead you to set up your profile further, which is not needed at this time. 
 
-Instead, go to your gmail, look for an email from Twitter and click on the email. 
+Instead, go to your gmail, look for an email from Twitter.
+
+Click on the email from Twitter to open it. 
 
 In this email, there will be a Confirm now button to click. To verify your Twitter account, click on this button. 
 
@@ -50,11 +54,11 @@ Congrats! You now have a Twitter account!
 
 Slack is a place where teams of people can easily communicate and work together on a project. As a data scientist, you are often working in a group on a project. Slack is a place where everyone working on that project can communicate. Slack is where communication throughout this course will happen. You will be able to ask questions, answer questions, and communicate with others on Slack about the things you are learning and the projects you are working on.
 
-To get a slack account, you will first type www.slack.com. On this webpage, type your Gmail address in the email address box, and click GET STARTED.
+To get a slack account, you will first type www.slack.com. 
 
-XXXX
+On this webpage, type your Gmail address in the email address box, and click GET STARTED.
 
-XXXX
+This will bring you to a slide where you will be prompted to 'Start with a workspace.' We won't be signing into any workspaces yet; however, later in the program, when we do, you will have an account! That's all you need to do with Slack for now!
 
 As a data scientist A LOT of your work will be done in something called R Studio. In this program, you will be learning the basics of the programming language, R. R is a free programming language for statistical computing and graphics. In other words, the code you write to work with data will all be done in R. R Studio is the place where you will type this code and make basic plots.
 
@@ -72,7 +76,9 @@ You now have an r studio cloud account!
 
 Data Camp is an online platform where people learn Data Science. Throughout this program, you will take courses and do exercises on DataCamp to ensure that you are acquiring the skills necessary to be a successful data scientist.
 
-Getting a Data Camp account will be very similar to getting an r studio cloud account because you can again sign in using your Google account. To do so, go to w w w dot data camp dot com. You will be brought to a screen where you can Create Your Free Account. Click on the Google plus button. 
+Getting a Data Camp account will be very similar to getting an r studio cloud account because you can again sign in using your Google account. To do so, go to w w w dot data camp dot com. 
+
+You will be brought to a screen where you can Create Your Free Account. Click on the Google plus button. 
 
 You will again be brought to a screen where you're asked to choose your Google account. Select your Google account. 
 

@@ -84,13 +84,15 @@ On this webpage, type your Gmail address in the 'email address' box, and click '
 
 ![](images/03_other_accounts/03_cdsintro_other_accounts-30.png)
 
+We won't be signing into any workspaces yet; however, later in the program, when we do, you will have an account! That's all you need to do with Slack for now!
+
 ### rstudio.cloud Account
 
 As a data scientist A LOT of your work will be done in something called RStudio. In this program, you will be learning the basics of the programming language, R. R is a free programming language for statistical computing and graphics. In other words, the code you write to work with data will all be done in R. RStudio is the place (or 'platform') where you will type this code and make basic plots.
 
 Luckily, rstudio.cloud makes it easy to sign up. You will first go to 'rstudio.cloud'. Note: This web address does not start with 'www.' 
 
-![](images/03_other_accounts/03_cdsintro_other_accounts-34.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-33.png)
 
 This will bring you to a screen where you can click on 'Get Started.' This will bring you to a login screen where, instead of typing in your information, since you already have a Google account, just click on 'Sign up with Google.' 
 
@@ -109,15 +111,15 @@ Then, click 'Create Account' and you're all set! You now have an rstudio.cloud a
 
 Getting a DataCamp account will be very similar to getting an rstudio.cloud account because you can again sign in using your Google account. To do so, go to www.datacamp.com. 
 
-![](images/03_other_accounts/03_cdsintro_other_accounts-41.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-40.png)
 
 You will be brought to a screen where you can 'Create Your Free Account.' Click on the 'Google+' button. You will again be brought to a screen where you're asked to choose your Google account. 
 
-![](images/03_other_accounts/03_cdsintro_other_accounts-42.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-41.png)
 
 Select your Google account. 
 
-![](images/03_other_accounts/03_cdsintro_other_accounts-43.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-42.png)
 
 And, just like that, you have a DataCamp account! 
 
@@ -127,11 +129,11 @@ And, just like that, you have a DataCamp account!
 
 To get a GitHub account, first type www.github.com into the web address bar at the top of your Chrome window and hit 'Enter'. 
 
-![](images/03_other_accounts/03_cdsintro_other_accounts-46.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-45.png)
 
 You will be brought to a page where you should fill in your information. As with the other accounts, try to use the same Username if possible. Enter your Gmail Email address. And, create a password that cannot be easily guessed by others. Then, click 'Sign up for GitHub.'
 
-![](images/03_other_accounts/03_cdsintro_other_accounts-47.png)
+![](images/03_other_accounts/03_cdsintro_other_accounts-46.png)
 
 You now have a GitHub account *and* all of the online accounts needed for this program!
 
