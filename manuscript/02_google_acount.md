@@ -56,7 +56,7 @@ At this point, you'll want to log off the Chromebook you're using as a Guest and
 This is the Google Account quiz
 
 {words: 1}
-? Please enter your Google username?
+? Please enter your Google username.
 
 {words: 100}
 ? Did you have any problems getting a Google Login. If so, what were they?
