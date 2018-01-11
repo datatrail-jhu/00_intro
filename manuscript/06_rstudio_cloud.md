@@ -6,6 +6,8 @@ If you have a more traditional laptop you can download and install R and Rstudio
 
 In a future class we will go into much more detail about Rstudio and rstudio.cloud. For now, we will just go over the basics and then use Rstudio Cloud to do a very basic analysis of the data you collected in your Google Sheet. Using rstudio.cloud we will give you all the commands you need to run to complete this project. Don't worry if this seems a little foreign, we are going to learn a lot more about it later! Just follow the steps and you'll end up with your very first plot! 
 
+### RStudio Cloud Basics
+
 Before we get started with the data you collected, we'll explain the basic components of RStudio Cloud.
 
 There are four main components in an RStudio Cloud window: the scripting area, the Console, the Environment, and the Files directory. We'll briefly discuss each part now and go into a lot more detail later.
@@ -31,6 +33,8 @@ The fourth component is at the bottom on the right-hand side of the window. Here
 You'll also note that there are multiple tabs in each of these sections. We'll talk about the other tabs shortly; however, we'll note now that in the bottom right-hand section, there is a "Plots" tab. If you were to click on that you would simply see an empty blank space because you haven't made any plots yet. However, when you do the project you'll be generating a plot. The plot you create will show up in this tab. 
 
 ![Plots rstudio.cloud](images/06_rstudio_cloud/06_cdsintro_rstudio_cloud-08.png)
+
+### Data Science Project in RStudio Cloud
 
 Now that you're a little familiar with RStudio Cloud, we can get started on using the data you collected from Leanpub and entered into your Google Sheet spreadsheet. We'll then be one step closer to answering the project question
 
