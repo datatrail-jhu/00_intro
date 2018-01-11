@@ -81,7 +81,7 @@ Now you should be ready to run your code. Find the button that says "Run" at the
 * [Slides](https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/edit?usp=sharing)
 
 
-{quiz, id: quiz_07_rstudio}
+{quiz, id: quiz_06_rstudio}
 
 # Google Sheets quiz
 
