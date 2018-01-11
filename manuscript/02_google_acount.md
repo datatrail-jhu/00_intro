@@ -5,7 +5,7 @@ websites we will use in the program.
 
 ![](images/02_google_account/02_cdsintro_google_account-03.png)
 
-If you already have a Google account with an appropriate username that you would like to use throughout this course, please skip the next section and move to the "Log off Guest Chromebook" section.
+If you already have a Google account with an appropriate username that you would like to use throughout this course, you can skip the next section and move to the "Log off Guest Chromebook" section. However, it's probably best to create a new account dedicated to all your Data Science accounts, many of which you will set up in the next lesson. 
 
 ### Getting a Google Login
 
@@ -35,12 +35,21 @@ Congratulations! You now have a Google username and account! Be sure to remember
 
 ### Log Off Guest Chromebook
 
-At this point, you'll want to log off the Chromebook you're using as a Guest and sign in using your Google Username. To do so,
+At this point, you'll want to log off the Chromebook you're using as a Guest and sign in using your Google Username. To do so, click on 'Guest' at the very bottom right-hand of the screen. Click 'Exit guest' on the screen that pops up. This will log you off of the Chromebook so you can re-login in using your Google account.
+
+![](images/02_google_account/02_cdsintro_google_account-16.png)
 
 ### Re-Login using Google Account
 
-### Explore 
+You will now be on the Chromebook login screen. To sign in using your Google account, click 'Add person' at the bottom of the login screen.
 
+![](images/02_google_account/02_cdsintro_google_account-17.png)
+
+A 'Sign in to your Chromebook' screen will open. 
+
+![](images/02_google_account/02_cdsintro_google_account-18.png)
+
+Enter your new Google account name here. Click 'Next'. Enter your password. Click 'Next.' You will now be logged on. Anytime you work on this Chromebook now, you will simply log in using your new Google account.
 
 ### Slides and Video
 
