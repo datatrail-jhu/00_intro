@@ -14,7 +14,7 @@ Like Google Sheets, Google Docs is an online and free program, but instead of be
 * [Slides](https://docs.google.com/presentation/d/11y83FTHGr_sb2aNcM2nu6XHh2wnlSEbeeduJgPDH2Bw/edit?usp=sharing)
 
 
-{quiz, id: quiz_08_googledocs}
+{quiz, id: quiz_07_googledocs}
 
 # Google Docs quiz
 
