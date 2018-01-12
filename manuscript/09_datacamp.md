@@ -1,118 +1,97 @@
 # DataCamp
 
-DataCamp is a website for learning about the [R programming language](). We will be using Datacamp because: 
+DataCamp is a website for learning about the [R programming language](https://www.r-project.org/). We will be using DataCamp because: 
 
 * DataCamp allows you to practice R without having to set up all the software
-* DataCamp has courses covering a broad range of topics we are going to cover in teh courses 
+* DataCamp has courses covering a broad range of topics we are going to cover in the courses 
 
-### What is a spreadsheet?
+### Logging on to DataCamp
 
-A spreadsheet is a type of document where data are stored in rows and columns of a grid. Each square is referred to as a 'cell' in the spreadsheet. In Google Sheets (and many other spreadsheet programs like Excel), the rows are numbered (like 1,2,3,...) and the columns are labeled with capital letters (like A, B, C,...). 
+You previously signed on to DataCamp in an earlier lesson and you will simply repeat that process now by first going to 'www.datacamp.com' and clicking the 'Google+' logo to log on. 
 
-![spreadsheet](images/05_googlesheets/05_cdsintro_googlesheets-02.png)
+![DataCamp Home Page](images/09_datacamp/09_cdsintro_datacamp-02.png)
 
-If you want to talk about a specific spot on the grid you can use the number and letter corresponding to that point. For example, A2 specifies the data in cell in the first column (A) and second row (2) of the spreadsheet.
+From here you will be prompted to choose a Google account.
 
-![spreadsheet position](images/05_googlesheets/05_cdsintro_googlesheets-03.png)
+![Google Account Sign in](images/09_datacamp/09_cdsintro_datacamp-03.png)
 
-When you are working with data in a spreadsheet you can type directly into the spreadsheet. It is important to make sure you double check all the numbers you type since there isn't a good way to "spellcheck" your work when you are editing a spreadsheet. 
+You will then be on the DataCamp home page. On this page, you will click on  'Learn' from the menu across the top.
 
-We will talk a lot more in future courses about how to organize data that you have collected. Mostly we will want to collect ["tidy data"](https://en.wikipedia.org/wiki/Tidy_data) which is data that has 
+![DataCamp Learn](images/09_datacamp/09_cdsintro_datacamp-04.png)
 
-1. Each type of data in one column. 
-2. Each data point in one row. 
-3. One spreadsheet for each "kind" of data.
-4. If you have more than one spreadsheet, they should include a column in the table that allows them to be linked.
+This will open a drop-down menu. From this menu, you will select 'Introduction to R' from the Course listings on the left-most column.
 
-Here we are only colleting one "kind" of data - just data on books. The columns will be different types of information about the books. We will collect information on the name of the book, the number of sales of that book, the minimum price of the book, and the suggested price of the book. Each of those will be in a separate column. Then, for each book, we will make a new row with the data for that book. 
+![DataCamp Introduction to R](images/09_datacamp/09_cdsintro_datacamp-05.png)
 
-Remember we are collecting information on the bestselling books from the last week on Leanpub. You can find the list of bestsellers here: https://leanpub.com/bookstore. Remember that if you click on the image of one book you will get something that looks like this. 
+### Introduction to R
 
-![PPowershell 101 landing page](images/05_googlesheets/05_cdsintro_googlesheets-06.png)
+This will bring you to the course page for 'Introduction to R.' Here you will click 'Start Course For Free.'
 
+![DataCamp Start Course for Free](images/09_datacamp/09_cdsintro_datacamp-06.png)
 
-### Setting up your spreadsheet
+This will open up the DataCamp course. This layout will be used throughout the course and should look somewhat familiar. It is similar to RStudio Cloud in that you have a place where you will write your code (SCRIPT.R) and a place where that code will run (R CONSOLE). However, DataCamp is different in that it has lessons and exercises to help teach you how to code in the programming language R. 
 
-When we collect the information we will use the Google Sheets software to store it for us. You will need to open up another web browser. You can do this by holding down the key _ctrl_ and pressing _t_. This will open up a new tab. Leave this page open and type go to Google Sheets by navigating to the website https://docs.google.com/spreadsheets/ in the new tab. You will see something like this. 
+The information you need to learn will always be on the left side of the DataCamp window. At the top there will be an 'EXERCISE.' The text in here will explain what you need to know to complete the lesson.
 
-![Google sheets home](images/05_googlesheets/05_cdsintro_googlesheets-07.png)
+![DataCamp Exercise](images/09_datacamp/09_cdsintro_datacamp-07.png)
 
-Now click on the big plus sign and you will get a new spreadsheet that will look like this. 
+Below the 'EXERCISE' is the 'INSTRUCTIONS' section. This window will include the specific instructions for what you will need to do before continuing on to the next part of the course.
 
-![Untitled sheet](images/05_googlesheets/05_cdsintro_googlesheets-08.png)
+![DataCamp Instructions](images/09_datacamp/09_cdsintro_datacamp-08.png)
 
-If you click on the words _"Untitled Spreadsheet"_ you can rename the spreadsheet. Type in the words _"leanpub\_data"_ to change the name of your spreadsheet. You should now have a spreadsheet that looks like this. 
+If you scroll through this part of the window, you will notice a 'Take Hint' button that you can click on. You'll always want to try the exercise without taking a hint; however, if you get stuck, clicking on 'Take Hint' may help you.
 
-![leanpub_data sheet](images/05_googlesheets/05_cdsintro_googlesheets-10.png)
+![DataCamp Take Hint](images/09_datacamp/09_cdsintro_datacamp-09.png)
 
-We are almost done setting up the spreadsheet, now we just need to label the different kinds of data we are going to collect. Start by clicking on the upper left hand cell (A1) and type "title". This will be the column where we are going to store information on the title of the book. 
+Now that you know where to find instructions, you're ready to start learning how to code. All code will be written in the SCRIPT.R portion of the DataCamp window in the top right-hand portion of the screen. 
 
-![leanpub_data sheet with title](images/05_googlesheets/05_cdsintro_googlesheets-11.png)
+![DataCamp Script.R](images/09_datacamp/09_cdsintro_datacamp-10.png)
 
-Then move one cell to the right, click and type "readers". This will be where we will store how many readers a book has. Move one more cell to the right type "suggested" and then one more cell and type "minimum". 
+The code you write will then execute, or be carried out in the R CONSOLE in the bottom right-hand corner of the screen. 
 
-![leanpub_data sheet with headers](images/05_googlesheets/05_cdsintro_googlesheets-12.png)
+![DataCamp R Console](images/09_datacamp/09_cdsintro_datacamp-11.png)
 
-### Collecting data
+In order to run a line of code, you can first highlight the line you want to run. You then click on 'Run Code.' This will send the code to the console to execute. In this example, you will see that R acts as a calculator. When you run the code '3 + 4' in the R Console, you get back that the answer is '7.'
 
-Now you are all set to start collecting data! To do this open another new tab by holding _ctrl_ and pressing _t_, then go to the webpage: https://leanpub.com/bookstore. Click on the book and write the title, number of readers, suggested, and minimum prices on a row in the spreadsheet tab. When you are doing this make sure that: 
+![DataCamp Run Code](images/09_datacamp/09_cdsintro_datacamp-12.png)
 
-* There are no commas in numbers. Just leave them out. So don't write "1,036" write "1036" instead. 
-* You don't put dollar signs for the price, just include the number like "7.99"
+Once you've completed the task asked of you in the instructions section and clicked 'Run Code' to test your answer, you can then click 'Submit Answer.'
 
-So for me, since the first book is "PowerShell 101" after getting the data for the first book my spreadsheet will look like this. 
+![DataCamp Submit Answer](images/09_datacamp/09_cdsintro_datacamp-13.png)
 
-![First row of data for project](images/05_googlesheets/05_cdsintro_googlesheets-13.png)
+If your response is correct the screen at left will pop up to let you know that you're ready to continue on to the next section of the course. Press 'Enter' to continue.
 
-Continue this process, entering each book into a new row. Collect information on ten or twenty books. One book for every row. At the end you should have a data set that looks something like this. But yours will have different numbers and names in it. 
+![DataCamp Continue](images/09_datacamp/09_cdsintro_datacamp-14.png)
 
-![First complete data set](images/05_googlesheets/05_cdsintro_googlesheets-14.png)
+### Completing your First Course
 
-This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!
+The information here gets you started on DataCamp's Introduction to R course; however, it is your job now to finish it. DataCamp estimates that this course should take approximately four hours. It's ok if it takes longer than that or shorter than that, but we realize you will likely not do it all at once. The great thing is DataCamp will remember when you left off so when you log back on to DataCamp you can pick up where you left off!
 
-### Making the sheet public
-Our plan is to use the data in this spreadsheet to answer our question about how the price of a best-selling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to make these data public. This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
- 
-![Share](images/05_googlesheets/05_cdsintro_googlesheets-16.png)
- 
-A "Share with others" box will pop up. Click on "Get shareable link."
- 
-![Share with others](images/05_googlesheets/05_cdsintro_googlesheets-17.png)
- 
-Your screen will update so that this document can now be viewed by anyone, as long as they have the link to the spreadsheet.
- 
-![Shareable](images/05_googlesheets/05_cdsintro_googlesheets-18.png)
-
-Congrats! You have successfully made this spreadsheet shareable. We'll use this spreadsheet link in the next lesson when you get started using RStudio.cloud.
 
 ### Slides and Video
 
-![Google Sheets](UPDATE LINK)
+![DataCamp](UPDATE LINK)
 
-* [Slides](https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk/edit?usp=sharing)
 
 
 {quiz, id: quiz_09_datacamp}
 
-# Google Sheets quiz
+# DataCamp quiz
 
-This is the Google Sheets quiz
+This is the DataCamp quiz
 
-? What is a spreadsheet?
+? What will we use DataCamp for?
 
-A) A grid where you can store data.
-b) A word document where you would type a novel.
-c) A great place to make a slide presentation.
-d) An online banking website.
-
-? What information are we NOT collecting from Leanpub?
-
-a) book title
-b) number of readers
-C) maximum price
-d) suggested price
-e) minimum price
+a) Making presentations of data analyses
+b) Writing textbooks
+c) Learning database management
+D) Learning to program in R
 
 
+{words: 1}
+Once you have completed the Introduction to R course, please paste your Gmail username here.
+
+! Answers will vary
 
 {/quiz}
