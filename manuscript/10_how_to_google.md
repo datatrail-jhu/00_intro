@@ -7,17 +7,17 @@ It is important to realize that other people might have run into the same proble
 So how do we search the web? _Web search engine_ is the term that denotes software that is designed to find the most relevant answers to our question, or _query_. The most common web search engine is _Google_, which by the way is how the company started before it became so ubiquitous in our lives. We can access _Google_ via [www.google.com](https://www.google.com) where you will see a simple text box and a button called _Google search_.
 
 {alt: "Google search", cite: "Google Search as of 2017-12-08", url: "https://www.google.com/"}
-![Google search](img/00_introduction/00_google.png)
+![Google search](img/10_how_to_google/00_google.png)
 
 On the search box, as you start typing your question you will see suggestions based on what you have written so far. This is called _Google auto-complete_. Here is an example where _Google_ suggests a few common searches that start with "how to find help in".
 
 {alt: "Google auto-complete", cite: "Google auto-complete as of 2017-12-08", url: "https://www.google.com/"}
-![Google auto-complete](img/00_introduction/01_autocomplete.png)
+![Google auto-complete](img/10_how_to_google/01_autocomplete.png)
 
 The auto-complete feature can be useful because it help us refine our search query which will lead to more relevant results and answers. If we select "how to find help in r" and then click on the _Google search_ button, we will get a list of websites that are most related to our question as shown below.
 
 {alt: "Google search results", cite: "Google search results as of 2017-12-08", url: "https://www.google.com/"}
-![Google search results](img/00_introduction/02_searchres.png)
+![Google search results](img/10_how_to_google/02_searchres.png)
 
 Google highlights some of our key terms from our query in the search results list. For example, the word _help_ is bolded twice on the first link title "R: Getting Help with R".
 
@@ -41,12 +41,12 @@ d) let me write that for you
 In the previous lecture we covered how to perform a web search using _Google search_ and the auto-complete feature in the text box. For example, if we start typing "how to find help in" _Google search_ recommends a few options including "how to find help in r". The top results of our search look like this:
 
 {alt: "Google search results", cite: "Google search results as of 2017-12-08", url: "https://www.google.com/"}
-![Google search results](img/00_introduction/02_searchres.png)
+![Google search results](img/10_how_to_google/02_searchres.png)
 
 Each search result includes a short title, the web link, a short extract from the website, and some of our search terms (words) highlighted. Using this information we have to decide if our search query was specific enough. For example, we could have searched "how to get help". _Google search_ had no way of knowing that we had an R question which is why the results are general.
 
 {alt: "Google search results", cite: "Google search results as of 2017-12-08", url: "https://www.google.com/"}
-![Google search results](img/01_advsearch/00_howtogethelp.png)
+![Google search results](img/10_how_to_google/03_howtogethelp.png)
 
 _Google search_ recognizes in this case that the question was too broad, so it lists suggestions based on what other people have asked. A useful skill for a data scientist is to be efficient at searching the web. In this lecture, we will cover tips and strategies that will help you improve your web search efficiency, and ultimately improve your ability to find help.
 
@@ -55,7 +55,7 @@ _Google search_ recognizes in this case that the question was too broad, so it l
 Lets study again the results from our "how to find help in r" web search.
 
 {alt: "Google search results", cite: "Google search results as of 2017-12-08", url: "https://www.google.com/"}
-![Google search results](img/00_introduction/02_searchres.png)
+![Google search results](img/10_how_to_google/02_searchres.png)
 
 One of the key pieces is the set of URLs (website addresses) for the results. In this case, the top 3 are:
 
@@ -78,10 +78,10 @@ In this case, all top results are excellent. But that might not be the case for 
 
 
 {alt: "Google search results", cite: "Google search results as of 2017-12-08", url: "https://www.google.com/"}
-![Google search results](img/01_advsearch/01_basegraphics.png)
+![Google search results](img/10_how_to_google/04_basegraphics.png)
 
 {alt: "Google search results", cite: "Google search results as of 2017-12-08", url: "https://www.google.com/"}
-![Google search results](img/01_advsearch/02_basegraphicshopkins.png)
+![Google search results](img/10_how_to_google/05_basegraphicshopkins.png)
 
 
 
