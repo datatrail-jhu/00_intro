@@ -4,7 +4,7 @@ In addition to having a Google username, there are a number of other accounts to
 
 ### LinkedIn Account
 
-[LinkedIn](www.linkedin.com) is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online (like an online resume), has a space where you can look for jobs, and puts you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
+[LinkedIn](www.linkedin.com) is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online (like an online résumé), has a space where you can look for jobs, and can put you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
 
 To begin set up, you'll go to the web address bar in your Chrome browser. You will type www.linkedin.com and hit 'Enter.' 
 
@@ -76,7 +76,7 @@ Congrats! You now have a Twitter account!
 
 [Slack](www.slack.com) is a place where teams of people can easily communicate and work together on a project. As a data scientist, you are often working in a group on a project. Slack is a place where everyone working on that project can communicate. Slack is where communication throughout this course will happen. You will be able to ask questions, answer questions, and communicate with others on Slack about the things you are learning and the projects you are working on.
 
-To get a slack account, you will first type 'www.slack.com.' 
+To get a slack account, you will first open a new tab in your browser by typing _ctrl_ and _t_. Once you have a new tab open, you will type 'www.slack.com' at the top of your browser in the web address bar. 
 
 ![Slack Web Address](images/03_other_accounts/03_cdsintro_other_accounts-29.png)
 
@@ -86,11 +86,11 @@ On this webpage, type your Gmail address in the 'email address' box, and click '
 
 We won't be signing into any workspaces yet; however, later in the program, when we do, you will have an account! That's all you need to do with Slack for now!
 
-### rstudio.cloud Account
+### RStudio Cloud Account
 
-As a data scientist A LOT of your work will be done in something called RStudio. In this program, you will be learning the basics of the programming language, R. R is a free programming language for statistical computing and graphics. In other words, the code you write to work with data will all be done in R. RStudio is the place (or 'platform') where you will type this code and make basic plots.
+As a data scientist A LOT of your work will be done in something called RStudio. In this program, you will be learning the basics of the programming language, R. R is a free programming language for statistical computing and graphics. In other words, the code you write to work with data will all be done in R. RStudio Cloud is the place (or 'platform') where you will type this code and make basic plots.
 
-Luckily, rstudio.cloud makes it easy to sign up. You will first go to 'rstudio.cloud'. Note: This web address does not start with 'www.' 
+Luckily, RStudio Cloud makes it easy to sign up. You will first go to 'rstudio.cloud'. Note: This web address does not start with 'www.' 
 
 ![rstudio.cloud web address](images/03_other_accounts/03_cdsintro_other_accounts-33.png)
 
@@ -102,7 +102,7 @@ You will be prompted to choose which Google account you want to use. Choose your
 
 ![rstudio.cloud choose account](images/03_other_accounts/03_cdsintro_other_accounts-36.png)
 
-Then, click 'Create Account' and you're all set! You now have an rstudio.cloud account!
+Then, click 'Create Account' and you're all set! You now have an RStudio Cloud account!
 
 
 ### DataCamp Account

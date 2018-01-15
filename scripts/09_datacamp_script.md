@@ -1,6 +1,6 @@
 DataCamp is a website for learning about the R programming language. We will be using DataCamp because DataCamp allows you to practice R without having to set up all the software and because DataCamp has courses covering a broad range of topics we are going to cover in the courses. 
 
-You previously signed on to DataCamp in an earlier lesson and you will simply repeat that process now by first going to 'www.datacamp.com' and clicking the 'Google+' logo to log on. 
+You previously signed on to DataCamp in an earlier lesson and you will simply repeat that process now by first going to 'www.datacamp.com' and clicking the Google plus logo to log on. 
 
 From here you will be prompted to choose a Google account. Click on the appropriate Google account.
 
@@ -10,7 +10,7 @@ This will open a drop-down menu. From this menu, you will select 'Introduction t
 
 This will bring you to the course page for 'Introduction to R.' Here you will click 'Start Course For Free.'
 
-This will open up the DataCamp course. This layout will be used throughout the course and should look somewhat familiar. It is similar to RStudio Cloud in that you have a place where you will write your code (SCRIPT.R) and a place where that code will run (R CONSOLE). However, DataCamp is different in that it has lessons and exercises to help teach you how to code in the programming language R. The information you need to learn will always be on the left side of the DataCamp window. At the top there will be an 'EXERCISE.' The text in here will explain what you need to know to complete the lesson.
+This will open up the DataCamp course. This layout will be used throughout the course and should look somewhat familiar. It is similar to RStudio Cloud in that you have a place where you will write your code called SCRIPT dot R and a place where that code will run called the R CONSOLE. However, DataCamp is different in that it has lessons and exercises to help teach you how to code in the programming language R. The information you need to learn will always be on the left side of the DataCamp window. At the top there will be an 'EXERCISE.' The text in here will explain what you need to know to complete the lesson.
 
 Below the 'EXERCISE' is the 'INSTRUCTIONS' section. This window will include the specific instructions for what you will need to do before continuing on to the next part of the course.
 

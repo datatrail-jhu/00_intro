@@ -2,15 +2,15 @@
 
 Google Slides is the last Google product we will discuss today. It is a place to make free, online presentations. Similar to Microsoft PowerPoint, Google Slides allows users like you to create presentations to communicate findings from a project to a general audience. However, unlike PowerPoint, fortunately your work is saved automatically whenever you are online, and it's free!
 
-As a data scientist, you are frequently required to present your findings. Sometimes that is in the form of a report, such as the Google Doc you made in the last section. However, very often, you are required to make a slide presentation. Here, we will discuss what a slide presentation is and some features of a good slide presentation before you make a brief presentation about your Leanput data science project. Slide presntations are often used to present to a group of people. You as the analyst would be explaining what is on the slides out loud and using what is on the slides to support what you are saying. This means that every detail of the analysis does not have to be on the slide. You can use what you say out loud to fill in the details.
+As a data scientist, you are frequently required to present your findings. Sometimes that is in the form of a report, such as the Google Doc you made in the last section. However, very often, you are required to make a slide presentation. Here, we will discuss what a slide presentation is and some features of a good slide presentation before you make a brief presentation about your Leanpub data science project. Slide presentations are often used to present to a group of people. You as the analyst would be explaining what is on the slides out loud and using what is on the slides to support what you are saying. This means that every detail of the analysis does not have to be on the slide. You can use what you say out loud to fill in the details.
 
 ### What is a slide presentation?
 
-A slide presentation is a presentation that consists of multiple slides. Each slide is there to get a smaller message across so that when all the slides are viwed in order, they tell a story. As data scientists, the story we are most often telling is the story of an analysis. This typically starts with a question, then explains the data collected to answer the question, followed by an explanation of the analysis, and concludes with the results and conclusions drawn from the analysis. Each part of this story will typically have at least one slide to explain that part of the analysis. Here we will discuss how to get started in Google Slides and then make a short presentation.
+A slide presentation is a presentation that consists of multiple slides. Each slide is there to get a smaller message across so that when all the slides are viewed in order, they tell a story. As data scientists, the story we are most often telling is the story of an analysis. This typically starts with a question, then explains the data collected to answer the question, followed by an explanation of the analysis, and concludes with the results and conclusions drawn from the analysis. Each part of this story will typically have at least one slide to explain that part of the analysis. Here we will discuss how to get started in Google Slides and then make a short presentation.
 
 ### Presentation Guidelines
 
-We'll go into more details later, but there are a three things to keep in mind anytime you are making a slide presentation:
+We'll go into more details later, but there are three things to keep in mind anytime you are making a slide presentation:
 1. Pictures are often better than words.
 2. Minimize the number of words on each slide.
 3. Make the font and pictures big enough to be seen when presentation is projected.
@@ -42,13 +42,13 @@ A reasonable title would be 'Leanpub Data Science Project.' You'd then want to i
 
 If you wanted to change the font size of any of the text to make it bigger or smaller, you would highlight that text and then click on the font size at the top of the menu to display a drop down menu. Font size can be selected from this list or typed in that box directly.
 
-![Change font size on Goole Slides](images/08_googleslides/08_cdsintro_googleslides-10.png)
+![Change font size on Google Slides](images/08_googleslides/08_cdsintro_googleslides-10.png)
 
 You can use a similar process of highlighting text and then selecting from the toolbar to change formatting in a number of other ways. You can change the font of the text, make the text bold, italicize the text, underline the text, or change the color of the text as well.
 
 ![other formatting options on slides](images/08_googleslides/08_cdsintro_googleslides-11.png)
 
-Once you're happy with how your title slide looks, you'll want to start working on the next slide in your presentation. To start the next slide, you'll click the plus sign at the top left-hand portion of your Google Slides presentation
+Once you're happy with how your title slide looks, you'll want to start working on the next slide in your presentation. To start the next slide, you'll click the plus sign at the top left-hand portion of your Google Slides presentation.
 
 ![Google Slides new slide](images/08_googleslides/08_cdsintro_googleslides-12.png)
 
@@ -70,7 +70,7 @@ Once you've finished creating your Google Slides presentation, you'll want to ma
 A 'Share with others' window will pop up. Here you will click 'Get shareable link'.
 ![Google Slides Get shareable link](images/08_googleslides/08_cdsintro_googleslides-16.png)
 
-This will bring up a new box indicating that your link has been copied. This is the link you will paste when asked by the quiz below for your Google slides link.
+This will bring up a new box indicating that your link has been copied. This is the link you will paste when asked by the quiz at the end of this lesson for your Google slides link.
 
 ![Google Slides shared](images/08_googleslides/08_cdsintro_googleslides-17.png)
 

@@ -22,7 +22,7 @@ To give you an idea of where we're going, the first account (and arguably the mo
 * [LinkedIn](www.linkedin.com) - this is a site to share information about yourself with employers. 
 * [Twitter](www.twitter.com) - this is a social media site that we will use to share our data science products and get support from the data science community. 
 * [slack](www.slack.com) - this is a website where you will be able to chat online with your fellow students and instructors. 
-* [rstudio cloud](rstudio.cloud) - this is a website where you can use Rstudio, the main tool to learn data science. 
+* [RStudio Cloud](rstudio.cloud) - this is a website where you can use Rstudio, the main tool to learn data science. 
 * [DataCamp](www.datacamp.com) - this is a website where you can practice using R and Rstudio. 
 * [GitHub](www.github.com) - this is a website where we will share the results of our data science projects with each other and the world. 
 
@@ -44,7 +44,7 @@ This is the Account Setup quiz
 ? Why is account setup important?
 
 a) Different accounts will be used throughout the course.
-b) Various accounts are requried to do fun data science stuff.
+b) Various accounts are required to do fun data science stuff.
 c) Usernames are required and it's important to choose a good username.
 D) All of the above.
 
