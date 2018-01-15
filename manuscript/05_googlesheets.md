@@ -68,7 +68,7 @@ Continue this process, entering each book into a new row. Collect information on
 This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!
 
 ### Making the sheet public
-Our plan is to use the data in this spreadsheet to answer our question about how the price of a best-selling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to make these data public. This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
+Our plan is to use the data in this spreadsheet to answer our question about how the price of a bestselling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to make these data public. This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
  
 ![Share](images/05_googlesheets/05_cdsintro_googlesheets-16.png)
  
@@ -80,7 +80,7 @@ Your screen will update so that this document can now be viewed by anyone, as lo
  
 ![Shareable](images/05_googlesheets/05_cdsintro_googlesheets-18.png)
 
-Congrats! You have successfully made this spreadsheet shareable. We'll use this spreadsheet link in the next lesson when you get started using RStudio.cloud.
+Congrats! You have successfully made this spreadsheet shareable. We'll use this spreadsheet link in the next lesson when you get started using RStudio Cloud.
 
 ### Slides and Video
 

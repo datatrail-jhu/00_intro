@@ -1,10 +1,10 @@
-# rstudio.cloud
+# R Studio Cloud
 
-The main software that we are going to use to analyze data in this class is called [R](https://www.r-project.org/). R is a piece of software that lets you write computer code to analyze data. [Rstudio](https://www.rstudio.com/) is a company that makes a piece of software that works with R. Rstudio makes it easier to create, save, share, and work with R code and data sets. R is one of the two most popular languages for data science. We will learn a lot more about it throughout the courses, but here we are just going to use it to take a peak at the data you have created. 
+The main software that we are going to use to analyze data in this class is called [R](https://www.r-project.org/). R is a piece of software that lets you write computer code to analyze data. [RStudio](https://www.rstudio.com/) is a company that makes a piece of software that works with R. RStudio makes it easier to create, save, share, and work with R code and data sets. R is one of the two most popular languages for data science. We will learn a lot more about it throughout the courses, but here we are just going to use it to take a peak at the data you have created. 
 
-If you have a more traditional laptop you can download and install R and Rstudio on your laptop. But this class is part of our Chromebook Data Science program where we will be teaching you how to do everything through a web browser. Fortunately Rstudio also offers a web-based version of their software called rstudio.cloud.
+If you have a more traditional laptop you can download and install R and RStudio on your laptop. But this class is part of our Chromebook Data Science program where we will be teaching you how to do everything through a web browser. Fortunately RStudio also offers a web-based version of their software called rstudio.cloud.
 
-In a future class we will go into much more detail about Rstudio and rstudio.cloud. For now, we will just go over the basics and then use Rstudio Cloud to do a very basic analysis of the data you collected in your Google Sheet. Using rstudio.cloud we will give you all the commands you need to run to complete this project. Don't worry if this seems a little foreign, we are going to learn a lot more about it later! Just follow the steps and you'll end up with your very first plot! 
+In a future class we will go into much more detail about RStudio and rstudio.cloud. For now, we will just go over the basics and then use RStudio Cloud to do a very basic analysis of the data you collected in your Google Sheet. Using rstudio.cloud we will give you all the commands you need to run to complete this project. Don't worry if this seems a little foreign, we are going to learn a lot more about it later! Just follow the steps and you'll end up with your very first plot! 
 
 ### RStudio Cloud Basics
 
@@ -40,7 +40,7 @@ Now that you're a little familiar with RStudio Cloud, we can get started on usin
 
 > "How does the price of a bestselling book relate to how much the author is charging for that book?"
 
-To start working in RStudio Cloud, open up a new tab by pressing _ctrl_ and pressing _t_, then copy this url and paste it into your web browser https://rstudio.cloud/spaces/906/join?access_code=aJYLCFYdCmMZLMsnMbpqboDBAPCVdHiwn2rtJ4Gw. If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account. 
+To start working in RStudio Cloud, open up a new tab by pressing _ctrl_ and pressing _t_, then copy this URL and paste it into your web browser https://rstudio.cloud/spaces/906/join?access_code=aJYLCFYdCmMZLMsnMbpqboDBAPCVdHiwn2rtJ4Gw. If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account. 
 
 You should now see a page that looks like this. You should see a Project listed that is called "Leanpub Project".
 
@@ -54,11 +54,11 @@ You should now see a page that looks like this across the top.
 
 ![rstudio.cloud project page](images/06_rstudio_cloud/06_cdsintro_rstudio_cloud-13.png)
 
-You'll first want to title your project. Click on 'Untitled Project' at the top and beging typing. Title it with 'leanpub_project_lastname'. So, for example if your last name were Doe, the project would be titled 'leanpub_project_doe'. You're ready to get going!
+You'll first want to title your project. Click on 'Untitled Project' at the top and begin typing. Title it with 'leanpub_project_lastname'. So, for example if your last name were Doe, the project would be titled 'leanpub_project_doe'. You're ready to get going!
 
 ![rstudio.cloud project named](images/06_rstudio_cloud/06_cdsintro_rstudio_cloud-14.png)
 
-You are now using the Rstudio software! The first thing that you should do is go to the bottom right hand side of the screen and click on the file called "leanpub_googlesheets_analysis.R". 
+You are now using the RStudio software! The first thing that you should do is go to the bottom right hand side of the screen and click on the file called "leanpub_googlesheets_analysis.R". 
 
 ![rstudio.cloud project R file](images/06_rstudio_cloud/06_cdsintro_rstudio_cloud-15.png)
 
@@ -72,11 +72,11 @@ This file already has computer code in it. That computer code will read the data
 
 Delete 'PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!' and paste your URL. Your code should look something like this now. 
 
-![rstudio.cloud with leanpub_googlesheets_analysis.R with personal url](images/06_rstudio_cloud/06_cdsintro_rstudio_cloud-18.png)
+![rstudio.cloud with leanpub_googlesheets_analysis.R with personal URL](images/06_rstudio_cloud/06_cdsintro_rstudio_cloud-18.png)
 
-One thing to keep in mind is that when you copy the URL from the top of your Google Sheet OR from the blue 'Share' button at the top right-hand side of the screen, the link will have a little extra information at the end. After pasting the copied URL into the code, you'll want to delete the tail-end of the URL starting at '/edit'. Below you will see what should be inlcuded in the pink box at top or the pink text of the link below. Everything after '/edit' should be deleted. 
+One thing to keep in mind is that when you copy the URL from the top of your Google Sheet OR from the blue 'Share' button at the top right-hand side of the screen, the link will have a little extra information at the end. After pasting the copied URL into the code, you'll want to delete the tail-end of the URL starting at '/edit'. Below you will see what should be included in the pink box at top or the pink text of the link below. Everything after '/edit' should be deleted. 
 
-![rstudio.cloud with url edited](images/06_rstudio_cloud/06_cdsintro_rstudio_cloud-19.png)
+![rstudio.cloud with URL edited](images/06_rstudio_cloud/06_cdsintro_rstudio_cloud-19.png)
 
 Now you should be ready to run your code. To do so all at once, highlight all the code in the "leanpub_googlesheets_analysis.R" script. Then, find the button that says "Run" at the top of the code file. Click on that button. 
 

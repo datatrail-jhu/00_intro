@@ -1,6 +1,6 @@
 Here, now that you have a Google account, we will be getting all the other accounts you'll need to do data science set up. 
 
-First up is Linked In, which is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online, sort of like an online resum. It also has a space where you can look for jobs and puts you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
+First up is Linked In, which is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online, sort of like an online résumé. It also has a space where you can look for jobs and can put you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
 
 To begin set up, you'll go to the web address bar in your Chrome browser. 
 
@@ -30,7 +30,7 @@ This will open a new screen where your google username will be in the box alread
 
 While other boxes may pop up for you to go further on LinkedIn and get your profile set up, this is all you have to do for now. You now have a LinkedIn username and account! We will now go through similar processes for the other accounts needed in this program.
 
-The second account you will need will be a Twitter account. You may already be familiar with Twitter; however, data scientists tend to use Twitter for work rather than socializing. Twitter is a social media platform where users can post and interact with messages. These messages are known as tweets. Twitter is a great place to learn new things, connect with other data scientists, and to ask/answer questions quickly.
+The second account you will need will be a Twitter account. You may already be familiar with Twitter; however, data scientists tend to use Twitter for work rather than socializing. Twitter is a social media platform where users can post and interact with messages. These messages are known as tweets. Twitter is a great place to learn new things, connect with other data scientists, and to ask questions and get answers quickly.
 
 To get a Twitter account, first type www.twitter.com in the search bar at the top of your Chrome session. 
 
@@ -52,9 +52,9 @@ In this email, there will be a Confirm now button to click. To verify your Twitt
 
 Congrats! You now have a Twitter account!
 
-Slack is a place where teams of people can easily communicate and work together on a project. As a data scientist, you are often working in a group on a project. Slack is a place where everyone working on that project can communicate. Slack is where communication throughout this course will happen. You will be able to ask questions, answer questions, and communicate with others on Slack about the things you are learning and the projects you are working on.
+Slack is a place where teams of people can easily communicate and work together on a project. As a data scientist, you are often working in a group on a project. Slack is a place where everyone working on that project can communicate. And, slack is where communication throughout this course will happen. You will be able to ask questions, answer questions, and communicate with others on Slack about the things you are learning and the projects you are working on.
 
-To get a slack account, you will first type www.slack.com. 
+To get a slack account, you will first open a new tab in your browser by typing _ctrl_ and _t_. Once you have a new tab open, type www.slack.com at the top of your browser in the web address bar. 
 
 On this webpage, type your Gmail address in the email address box, and click GET STARTED.
 
@@ -68,7 +68,7 @@ This will bring you to a screen where you can click on Get Started.
 
 This will bring you to a login screen where, instead of typing in your information, since you already have a Google account, just click on Sign up with Google. 
 
-You will be prompted to choose which Google account you want to use. Choose your professional Google account. 
+You may then be prompted to choose which Google account you want to use. Choose your professional Google account. 
 
 Then, you will be brought to a screen where you will have to enter a username. Again, for simplicity, try to use the same username across all accounts. Then, click Create Account and you're all set! 
 
@@ -76,7 +76,7 @@ You now have an r studio cloud account!
 
 Data Camp is an online platform where people learn Data Science. Throughout this program, you will take courses and do exercises on DataCamp to ensure that you are acquiring the skills necessary to be a successful data scientist.
 
-Getting a Data Camp account will be very similar to getting an r studio cloud account because you can again sign in using your Google account. To do so, go to w w w dot data camp dot com. 
+Getting a Data Camp account will be very similar to getting an r studio cloud account because you can again sign in using your Google account. To do so, go to www.datacamp.com. 
 
 You will be brought to a screen where you can Create Your Free Account. Click on the Google plus button. 
 

@@ -15,7 +15,7 @@ From here you will be prompted to choose a Google account.
 
 ![Google Account Sign in](images/09_datacamp/09_cdsintro_datacamp-03.png)
 
-You will then be on the DataCamp home page. On this page, you will click on  'Learn' from the menu across the top.
+You will then be on the DataCamp home page. On this page, you will click on 'Learn' from the menu across the top.
 
 ![DataCamp Learn](images/09_datacamp/09_cdsintro_datacamp-04.png)
 

@@ -19,7 +19,7 @@ So if your last name were Doe, the title of this document would be 'leanpub_proj
 
 ![Google Doc named project](images/07_googledocs/07_cdsintro_googledocs-04.png)
 
-In this document, you'll want to include a short summary about what question you were asking, what data you collected, and where these data were collected from in a section titled "Summary". You'll then want to paste your results and explain what you see in the plot you generated in a "Results" section. Finally you'll conclude how the price of a bestselling book relates to how much the author is charing for that book in a "Conclusion" section.
+In this document, you'll want to include a short summary about what question you were asking, what data you collected, and where these data were collected from in a section titled "Summary". You'll then want to paste your results and explain what you see in the plot you generated in a "Results" section. Finally you'll conclude how the price of a bestselling book relates to how much the author is charging for that book in a "Conclusion" section.
 
 ![Google Doc Report sample](images/07_googledocs/07_cdsintro_googledocs-05.png)
 
@@ -35,11 +35,11 @@ Your plot will pop up in a new window.
 
 ![Plot in rstudio.cloud](images/07_googledocs/07_cdsintro_googledocs-08.png)
 
-With your cursor over over the plot that pops up, you will then tap the mouse keypad with two fingers at the same time to bring up a new menu. On this menu, select, 'Copy Image.' 
+With your cursor over the plot that pops up, you will then tap the mouse keypad with two fingers at the same time to bring up a new menu. On this menu, select, 'Copy Image.' 
 
 ![Copy image in rstudio.cloud](images/07_googledocs/07_cdsintro_googledocs-09.png)
 
-You can now return to Google Docs, place your cursor where you'd like the plot to go, tap the mouse keypad with two fingers at the same time to bring up a new menu, and click 'Paste' to paste your plot from RStudio cloud in your Google Doc.
+You can now return to Google Docs, place your cursor where you'd like the plot to go, tap the mouse keypad with two fingers at the same time to bring up a new menu, and click 'Paste' to paste your plot from RStudio Cloud in your Google Doc.
 
 ![Paste in Google Docs](images/07_googledocs/07_cdsintro_googledocs-10.png)
 

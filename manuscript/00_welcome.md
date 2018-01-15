@@ -19,12 +19,12 @@ But to make data valuable we need to be able to study it and separate the intere
 
 > "Data science is asking a question that can be answered with data, collecting and cleaning the data, studying the data, creating models to help understand and answer the question, and sharing the answer to the question with other people."
 
-The reason this field is growing so fast is that nearly every government, company, and organaization is now collecting data. As the data have become cheaper and cheaper, the ability to analyze that data and find useful information has become a more and more valuable skill. But most people don't have training or experience sifting through big piles of data to make interesting and valuable discoveries. The people who can do this well are called data scientists. They have a job that is exciting, interesting, and promises to be in high demand for years to come. 
+The reason this field is growing so fast is that nearly every government, company, and organization is now collecting data. As the data have become cheaper and cheaper, the ability to analyze that data and find useful information has become a more and more valuable skill. But most people don't have training or experience sifting through big piles of data to make interesting and valuable discoveries. The people who can do this well are called data scientists. They have a job that is exciting, interesting, and promises to be in high demand for years to come. 
 
 
 ### What is Chromebook Data Science?
 
-Data science is a fast growing and exciting profession. But it can be a challenge to get into this career. Some of the biggest challenges are:
+Data science is a fast-growing and exciting profession. But it can be a challenge to get into this career. Some of the biggest challenges are:
 
 * Finding out that data science is even a real career
 * Getting an education in data science can be costly and inconvenient
@@ -32,7 +32,7 @@ Data science is a fast growing and exciting profession. But it can be a challeng
 * The equipment for data science can be costly and difficult to set up
 * Many of the jobs are only available in major cities 
 
-Most of the people who are currently data scientists have degrees in math, statistics, physics. They can afford computers that cost thousands of dollars and specialized computing software to help them do their jobs. They also mostly live in a few major cities like New York, San Francisco, Seattle, and Washington D.C. Many of these data scientists are former software engineers or other white collar workers who moved into data science when they saw the demand for this kind of job. 
+Most of the people who are currently data scientists have degrees in math, statistics, physics. They can afford computers that cost thousands of dollars and specialized computing software to help them do their jobs. They also mostly live in a few major cities like New York, San Francisco, Seattle, and Washington D.C. Many of these data scientists are former software engineers or other white-collar workers who moved into data science when they saw the demand for this kind of job. 
 
 It is our goal with Chromebook Data Science to try to help people who would otherwise not have access to this exciting career to get into the career. To do that we need to remove some of the challenges above. So we designed this program to tackle some of the challenges that are preventing more widespread adoption of this career. 
 
@@ -95,15 +95,15 @@ This first class is designed to get you set up with the accounts you will use as
 
 a) Collecting and cleaning data.
 B) Building new databases.
-b) Creating models for the data.
-c) Communicating models and data.
+c) Creating models for the data.
+d) Communicating models and data.
 
 ? Which of the following are barriers to becoming a data scientist?
 
 a) Knowing data science is a career possibility.
-B) You might need an expensive computer. 
-c) You might need an expensive computer.
-d) All of the above.
+b) You might need an expensive computer. 
+c) Getting a data science education is usually expensive.
+D) All of the above.
 
 ? Who is this class designed for? 
 
