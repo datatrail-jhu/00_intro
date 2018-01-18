@@ -18,13 +18,13 @@ Remembering different usernames for different accounts is difficult. It is best 
 
 ### Accounts 
 
-To give you an idea of where we're going, the first account (and arguably the most important account) you set up in the next lesson will be a ![Google account](www.gmail.com). After that we will walk you through the steps to get you set up with accounts on: 
-* [LinkedIn](www.linkedin.com) - this is a site to share information about yourself with employers. 
-* [Twitter](www.twitter.com) - this is a social media site that we will use to share our data science products and get support from the data science community. 
-* [slack](www.slack.com) - this is a website where you will be able to chat online with your fellow students and instructors. 
+To give you an idea of where we're going, the first account (and arguably the most important account) you set up in the next lesson will be a ![Google account](https://mail.google.com/mail). After that we will walk you through the steps to get you set up with accounts on: 
+* [LinkedIn](https://www.linkedin.com) - this is a site to share information about yourself with employers. 
+* [Twitter](https://twitter.com/) - this is a social media site that we will use to share our data science products and get support from the data science community. 
+* [slack](https://slack.com/) - this is a website where you will be able to chat online with your fellow students and instructors. 
 * [RStudio Cloud](rstudio.cloud) - this is a website where you can use Rstudio, the main tool to learn data science. 
-* [DataCamp](www.datacamp.com) - this is a website where you can practice using R and Rstudio. 
-* [GitHub](www.github.com) - this is a website where we will share the results of our data science projects with each other and the world. 
+* [DataCamp](https://www.datacamp.com/) - this is a website where you can practice using R and Rstudio. 
+* [GitHub](https://github.com) - this is a website where we will share the results of our data science projects with each other and the world. 
 
 ![](images/01_account_setup/01_cdsintro_account_setup-05.png)
 
