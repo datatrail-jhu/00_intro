@@ -37,7 +37,7 @@ To give you an idea of where we're going, the first account (and arguably the mo
 
 {quiz, id: quiz_01_account_setup}
 
-### Quiz
+### Accounts Setup quiz
 
 This is the Account Setup quiz
 
