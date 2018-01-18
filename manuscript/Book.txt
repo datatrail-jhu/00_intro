@@ -7,3 +7,4 @@
 06_rstudio_cloud.md
 07_googledocs.md
 08_googleslides.md
+09_datacamp.md
