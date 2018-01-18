@@ -18,4 +18,4 @@
 - How to practice computer programming on Datacamp
 - Datacamp tidyverse (or something) exercise
 
-Notes: Make a 'How to Get Started' one-pager sticker for front of Chromebook
+Notes: Make a 'How to Get Started' one-pager link: https://docs.google.com/presentation/d/1wlYsNQHPManK7cIPEJLacSdulhLHZrK4nn5qyF7gjJE/edit?usp=sharing
