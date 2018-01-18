@@ -37,6 +37,10 @@ Google search recognizes in this case that the question was too broad, so it lis
 
 * Read all the comments: Sometimes someone has tried the suggested answer and found a variation (which could be more relevant to you) that works.
 
+![Google Sheets](UPDATE LINK)
+
+* [Slides](https://docs.google.com/presentation/d/143gvqcynq_bl7iVd2G9yjumwJJkAy0S6CyNCsrJ2LgE/edit?usp=sharing)
+
 {quiz, id: quiz_10_gettinghelp}
 
 # Getting Help quiz
