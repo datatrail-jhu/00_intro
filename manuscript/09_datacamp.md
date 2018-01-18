@@ -75,6 +75,7 @@ The information here gets you started on DataCamp's Introduction to R course; ho
 * [Slides](https://docs.google.com/presentation/d/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk/edit?usp=sharing)
 
 
+
 {quiz, id: quiz_09_datacamp}
 
 # DataCamp quiz
@@ -90,7 +91,7 @@ D) Learning to program in R
 
 
 {words: 1}
-Once you have completed the Introduction to R course, please paste your Gmail username here.
+? Once you have completed the Introduction to R course, please paste your Gmail username here.
 
 ! Answers will vary
 
