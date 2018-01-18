@@ -1,2 +1,3 @@
 00_welcome.md
 01_account_setup.md
+02_google_account.md
