@@ -1,11 +1,2 @@
 00_welcome.md
 01_account_setup.md
-02_google_account.md
-03_other_accounts.md
-04_intro_to_project.md
-05_googlesheets.md
-06_rstudio_cloud.md
-07_googledocs.md
-08_googleslides.md
-09_datacamp.md
-10_how_to_google.md
