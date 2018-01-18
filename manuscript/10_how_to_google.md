@@ -20,17 +20,6 @@ Google highlights some of our key terms from our query in the search results lis
 
 We will cover different ways of finding help, some of which are R-specific and others that are general. It is fair to argue that data scientists are good at googling (searching the web), but also at framing questions and helping others help them. 
 
-{exercise, id: findinghelpintro1}
-? What does "let me google that for you" mean?
-
-a) let me do that for you
-b) let me find the answer of that for you
-C) let me search the web for you
-d) let me write that for you
-
-{/exercise}
-
-
 ## Advanced Google Search
 
 Each search result includes a short title, the web link, a short extract from the website, and some of our search terms (words) highlighted. Using this information we have to decide if our search query was specific enough. For example, we could have searched "how to get help". Google search had no way of knowing that we had an R question which is why the results are general.
@@ -47,3 +36,18 @@ Google search recognizes in this case that the question was too broad, so it lis
 
 
 * Read all the comments: Sometimes someone has tried the suggested answer and found a variation (which could be more relevant to you) that works.
+
+{quiz, id: quiz_10_gettinghelp}
+
+# Getting Help quiz
+
+This is the How To Get Help quiz
+
+? What does "let me google that for you" mean?
+
+a) let me do that for you
+b) let me find the answer of that for you
+C) let me search the web for you
+d) let me write that for you
+
+{/quiz}
