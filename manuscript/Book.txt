@@ -8,3 +8,4 @@
 07_googledocs.md
 08_googleslides.md
 09_datacamp.md
+10_how_to_google.md
