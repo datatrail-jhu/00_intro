@@ -6,15 +6,15 @@ It is important to realize that other people might have run into the same proble
 
 So how do we search the web? _Web search engine_ is the term that denotes software that is designed to find the most relevant answers to our question, or _query_. The most common web search engine is Google, which by the way is how the company started before it became so ubiquitous in our lives. We can access _Google_ via [www.google.com](https://www.google.com) where you will see a simple text box and a button called _Google search_.
 
-![Google search](./resources/images/10_how_to_google/00_google.png)
+![Google search](images/10_how_to_google/00_google.png)
 
 On the search box, as you start typing your question you will see suggestions based on what you have written so far. This is called _Google auto-complete_. Here is an example where _Google_ suggests a few common searches that start with "how to find help in".
 
-![Google auto-complete](./resources/images/10_how_to_google/01_autocomplete.png)
+![Google auto-complete](images/10_how_to_google/01_autocomplete.png)
 
 The auto-complete feature can be useful because it help us refine our search query which will lead to more relevant results and answers. If we select "how to find help in r" and then click on the _Google search_ button, we will get a list of websites that are most related to our question as shown below.
 
-![Google search results](./resources/images/10_how_to_google/02_searchres.png)
+![Google search results](images/10_how_to_google/02_searchres.png)
 
 Google highlights some of our key terms from our query in the search results list. For example, the word _help_ is bolded twice on the first link title "R: Getting Help with R".
 
