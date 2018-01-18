@@ -92,7 +92,7 @@ If a plot does not show up, there are errors. This is likely an error with how y
 
 Once you have your plot, you have what you need to make the Google Doc and finish your project in the next lesson. Keep this tab open so that you can copy your plot in the next lesson!
 
-## Slides and Video
+### Slides and Video
 
 ![RStudio Cloud](UPDATE LINK)
 

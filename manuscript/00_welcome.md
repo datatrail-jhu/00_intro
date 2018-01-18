@@ -88,8 +88,7 @@ This first class is designed to get you set up with the accounts you will use as
 
 {quiz, id: quiz_00_welcome}
 
-### Quiz
-
+### Welcome to Data Science quiz
 
 ? Which of the following is not a part of data science ?
 
