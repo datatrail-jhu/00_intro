@@ -85,4 +85,6 @@ d) creating and editing word documents.
 {words: 1}
 ? Please paste the link to the Google Doc you created below.
 
+! Answers could vary
+
 {/quiz}
