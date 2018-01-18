@@ -20,7 +20,7 @@ Google highlights some of our key terms from our query in the search results lis
 
 We will cover different ways of finding help, some of which are R-specific and others that are general. It is fair to argue that data scientists are good at googling (searching the web), but also at framing questions and helping others help them. 
 
-## Advanced Google Search
+### Advanced Google Search
 
 Each search result includes a short title, the web link, a short extract from the website, and some of our search terms (words) highlighted. Using this information we have to decide if our search query was specific enough. For example, we could have searched "how to get help". Google search had no way of knowing that we had an R question which is why the results are general.
 
