@@ -67,8 +67,12 @@ This is the Google Account quiz
 {words: 1}
 ? Please enter your Google username.
 
+! Answers could vary
+
 {words: 100}
 ? Did you have any problems getting a Google Login. If so, what were they?
+
+! Answers could vary
 
 ? Which of these is NOT something your Google Login can be used as?
 

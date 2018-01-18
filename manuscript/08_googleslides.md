@@ -98,4 +98,6 @@ D) Use pictures instead of words when possible.
 {words: 1}
 ? Please paste the link to the Google Slide presentation you created below.
 
+! Answers could vary
+
 {/quiz}
