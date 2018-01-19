@@ -37,9 +37,9 @@ Google search recognizes in this case that the question was too broad, so it lis
 
 * Read all the comments: Sometimes someone has tried the suggested answer and found a variation (which could be more relevant to you) that works.
 
-{quiz, id: quiz_01_gettinghelp}
+{quiz, id: quiz_01_findinghelp}
 
-# Getting Help quiz
+# Finding Help quiz
 
 This is the How To Get Help quiz
 
