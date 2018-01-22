@@ -39,7 +39,7 @@ Google search recognizes in this case that the question was too broad, so it lis
 
 ![Google Sheets](UPDATE LINK)
 
-* [Slides](https://docs.google.com/presentation/d/143gvqcynq_bl7iVd2G9yjumwJJkAy0S6CyNCsrJ2LgE/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/edit?usp=sharing)
 
 {quiz, id: quiz_10_gettinghelp}
 
