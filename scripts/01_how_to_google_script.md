@@ -4,7 +4,6 @@ It is important to realize that other people might have run into the same proble
 
 So how do we search the web? Web search engine is the term that denotes software that is designed to find the most relevant answers to our question, or query. The most common web search engine is Google, which by the way is how the company started before it became so ubiquitous in our lives. We can access Google via www.google.com where you will see a simple text box and a button called Google search.
 
-
 On the search box, as you start typing your question you will see suggestions based on what you have written so far. This is called Google auto-complete. Here is an example where Google suggests a few common searches that start with "how to find help in".
 
 

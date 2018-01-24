@@ -25,12 +25,12 @@ Then move one cell to the right, click on that cell, and type readers. This will
 Now you are all set to start collecting data! To do this open another new tab by holding the control key and pressing t at the same time. Then go to the webpage https://leanpub.com/bookstore. Click on the book and write the title, number of readers, suggested, and minimum prices on a row in the spreadsheet tab. When you are doing this make sure that there are no commas in numbers. Just leave them out. For example, don't write one comma zero three six. Instaed, just write one zero three six instead. And, don't put dollar signs for the price, just include the number like 7 dot 99. So for me, since the first book is "PowerShell 101" after getting the data for the first book my spreadsheet will look like this. 
 
 Continue this process, entering each book into a new row. Collect information on ten or twenty books. One book for every row. At the end you should have a data set that looks something like this. But, yours will have different numbers and names in it. This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!
-  
+
 Our plan is to use the data in this spreadsheet to answer our question about how the price of a bestselling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to make these data public. 
 
 This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
- 
+
 A "Share with others" box will pop up. Click on "Get shareable link."
- 
+
 Your screen will update so that this document can now be viewed by anyone, as long as they have the link to the spreadsheet. Congrats! You have successfully made this spreadsheet shareable. We'll use this spreadsheet link in the next lesson when you get started using RStudio Cloud.
 

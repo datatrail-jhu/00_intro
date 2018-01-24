@@ -30,7 +30,7 @@ To give you an idea of where we're going, the first account (and arguably the mo
 
 ### Slides and Video
 
-![Account Setup](UPDATE LINK)
+![Account Setup](videos/02_account_setup.mp4)
 
 * [Slides](https://docs.google.com/presentation/d/1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ/edit?usp=sharing)
 
