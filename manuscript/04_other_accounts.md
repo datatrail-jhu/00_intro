@@ -60,7 +60,7 @@ You will be brought to a screen asking for your phone number. After entering you
 
 ![Twitter phone number](images/04_other_accounts/04_cdsintro_other_accounts-21.png)
 
-This will bring you to a screen where you will choose a username. This will be what your Twitter 'handle' will be. For simplicity, it would be best for your Gmail username and Twitter handle to be the same (ie if your Gmail address is Jane.Doe@gmail.com, 'Jane.Doe' would be a great Twitter username). If that name is unavailable, choose a different, but appropriate and simple, Twtitter username. Once you have chosen a Twitter username, click 'Next'.
+This will bring you to a screen where you will choose a username. This will be what your Twitter 'handle' will be. For simplicity, it would be best for your Gmail username and Twitter handle to be the same (ie if your Gmail address is Jane.Doe@gmail.com, 'Jane.Doe' would be a great Twitter username). If that name is unavailable, choose a different, but appropriate and simple, Twitter username. Once you have chosen a Twitter username, click 'Next'.
 
 ![Twitter username](images/04_other_accounts/04_cdsintro_other_accounts-22.png)
 
