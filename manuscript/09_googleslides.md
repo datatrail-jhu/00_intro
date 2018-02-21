@@ -77,7 +77,7 @@ This will bring up a new box indicating that your link has been copied. This is 
 
 ### Slides and Video
 
-![Google Slides](UPDATE LINK)
+![Google Slides](https://youtu.be/ReUlhLfO-Fg)
 
 * [Slides](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/edit?usp=sharing)
 

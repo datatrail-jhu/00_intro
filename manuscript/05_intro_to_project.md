@@ -43,7 +43,7 @@ We'll go through the steps necessary to do all of this and answer the project qu
 
 ### Slides and Video
 
-![Welcome to Chromebook Data Science](https://www.youtube.com/watch?v=ZuHiwgVozKo)
+![Your First Data Science Project](https://youtu.be/30f6YYi8TrU)
 
 [Slides](https://docs.google.com/presentation/d/18q2gRHXGZxBL7pSWcQg_HThmgoo5qDeO9O372QkAnYU/edit?usp=sharing)
 

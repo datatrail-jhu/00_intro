@@ -37,7 +37,7 @@ Google search recognizes in this case that the question was too broad, so it lis
 
 * Read all the comments: Sometimes someone has tried the suggested answer and found a variation (which could be more relevant to you) that works.
 
-![Google Sheets](UPDATE LINK)
+![Google Sheets](https://youtu.be/g_C2NQedT9c)
 
 * [Slides](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/edit?usp=sharing)
 

@@ -84,7 +84,7 @@ Congrats! You have successfully made this spreadsheet shareable. We'll use this 
 
 ### Slides and Video
 
-![Google Sheets](UPDATE LINK)
+![Google Sheets](https://youtu.be/M0-Ld43S7OE)
 
 * [Slides](https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/edit?usp=sharing)
 
