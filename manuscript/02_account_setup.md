@@ -18,7 +18,7 @@ Remembering different usernames for different accounts is difficult. It is best 
 
 ### Accounts 
 
-To give you an idea of where we're going, the first account (and arguably the most important account) you set up in the next lesson will be a ![Google account](https://mail.google.com/mail). After that we will walk you through the steps to get you set up with accounts on: 
+To give you an idea of where we're going, the first account (and arguably the most important account) you set up in the next lesson will be a [Google account](https://mail.google.com/mail). After that we will walk you through the steps to get you set up with accounts on: 
 * [LinkedIn](https://www.linkedin.com) - this is a site to share information about yourself with employers. 
 * [Twitter](https://twitter.com/) - this is a social media site that we will use to share our data science products and get support from the data science community. 
 * [slack](https://slack.com/) - this is a website where you will be able to chat online with your fellow students and instructors. 
