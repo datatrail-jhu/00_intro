@@ -70,7 +70,7 @@ The information here gets you started on DataCamp's Introduction to R course; ho
 
 ### Slides and Video
 
-![DataCamp](UPDATE LINK)
+![DataCamp](https://youtu.be/XlGOkULe80A)
 
 * [Slides](https://docs.google.com/presentation/d/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk/edit?usp=sharing)
 

@@ -53,7 +53,7 @@ Enter your new Google account name here. Click 'Next'. Enter your password. Clic
 
 ### Slides and Video
 
-![Google Account Setup](UPDATE LINK)
+![Google Account Setup](https://youtu.be/xHEYatUU7qU)
 
 * [Slides](https://docs.google.com/presentation/d/1sOBtwszQqq366q84VCDY_BwSjWQz_4yFJLC4ib1dEGQ/edit?usp=sharing)
 
