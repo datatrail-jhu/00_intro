@@ -97,7 +97,7 @@ Congrats! You have successfully made this spreadsheet shareable. We'll use this 
 
 ### Slides and Video
 
-![Google Sheets](https://youtu.be/M0-Ld43S7OE)
+![Google Sheets](https://youtu.be/5Pe0QD48UZU)
 
 * [Slides](https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/edit?usp=sharing)
 
