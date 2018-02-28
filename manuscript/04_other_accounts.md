@@ -4,7 +4,7 @@ In addition to having a Google username, there are a number of other accounts to
 
 ### LinkedIn Account
 
-[LinkedIn](www.linkedin.com) is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online (like an online résumé), has a space where you can look for jobs, and can put you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
+[LinkedIn](www.linkedin.com) is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online (like an online resume), has a space where you can look for jobs, and can put you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
 
 To begin set up, you'll go to the web address bar in your Chrome browser. You will type www.linkedin.com and hit 'Enter.' 
 

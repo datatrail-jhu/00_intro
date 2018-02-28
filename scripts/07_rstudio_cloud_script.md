@@ -40,6 +40,8 @@ Now you should be ready to run your code. To do so all at once, highlight all th
 
 You should see code running in the bottom left-hand panel and a plot should appear on the lower right hand side. 
 
-If a plot does not show up, there are errors. This is likely an error with how you formatted your spreadsheet. The errors will appear in the bottom left-hand Console panel. Scroll through to see if any of the error messages. Then, edit your spreadsheet in Google Sheets and re-run all the code again.  
+If a plot does not show up, there are errors. The first place to check for errors is in your 'leanpub_googlesheets_analysis.R' code file. Errors in code formatting in RStudio are marked by a red 'X' to the left of any code lines that have errors. For example, if you copy and pasted your Google Slides link but accidentally deleted the second set of quotes before the final parenthesis, a red X would show up, showing you which line has the coding error that needs to be fixed.
+
+If you don't see any red Xs in your code, there is likely an error with how you formatted your spreadsheet. The errors will appear in the bottom left-hand Console panel. Scroll through to see if any of the error messages help point you to what mistake may have been made. Then, edit your spreadsheet in Google Sheets and re-run all the code again.  
 
 Once you have your plot, you have what you need to make the Google Doc and finish your project in the next lesson. Keep this tab open so that you can copy your plot in the next lesson!
