@@ -77,15 +77,18 @@ In the future, you'll learn how to write this code. For now, all the code is ava
 
 ![rstudio.cloud with leanpub_googlesheets_analysis.R with PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-16.png)
 
-Delete 'PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!' and paste your URL. Your code should look something like this now. 
-
-![rstudio.cloud with leanpub_googlesheets_analysis.R with personal URL](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-17.png)
+Delete 'PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!' and paste your URL. 
 
 One thing to keep in mind is that when you copy the URL from the top of your Google Sheet OR from the blue 'Share' button at the top right-hand side of the screen, the link will have a little extra information at the end. After pasting the copied URL into the code, you'll want to delete the tail-end of the URL starting at '/edit'. Below you will see what should be included in the pink box at top or the pink text of the link below. Everything after '/edit' should be deleted. 
 
-![rstudio.cloud with URL edited](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-18.png)
+![rstudio.cloud with URL edited](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-17.png)
 
-Now you should be ready to run your code. To do so all at once, highlight all the code in the "leanpub_googlesheets_analysis.R" script. Then, find the button that says "Run" at the top of the code file. Click on that button. 
+Your code should look something like this now:
+
+![rstudio.cloud with leanpub_googlesheets_analysis.R with personal URL](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-18.png)
+
+
+Now you should be ready to run your code! You can do so all at once by highlighting all the code in the "leanpub_googlesheets_analysis.R" script. Then, you would find the button that says "Run" at the top of the code file and click on that button. 
 
 ![rstudio.cloud run code](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-19.png)
 
@@ -107,7 +110,7 @@ Once you have your plot, you have what you need to make the Google Doc and finis
 
 ### Slides and Video
 
-![RStudio Cloud](https://youtu.be/QNujr5jMb3o)
+![RStudio Cloud](https://youtu.be/DglykA0E8ks)
 
 * [Slides](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/edit?usp=sharing)
 

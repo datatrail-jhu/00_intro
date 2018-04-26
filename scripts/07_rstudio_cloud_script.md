@@ -30,16 +30,15 @@ You are now using the RStudio software! The first thing that you should do is go
 
 Your screen should now look like this. This file already has computer code in it. That computer code will read the data from the Google Sheet you have created and make a plot. If you scroll through this code you will see likes that start with a pound sign. Any time you see a line that starts with a pound sign in code is a comment. Commented text in a script is text that is added to explain to anyone looking at the code what the code does. Then, all the other lines of text in this file that don't start with pound signs actually tell the computer what to do. Using this code we'll first get things set up, then read in the Google Sheet you generated, make sure that the data are in the correct format, and then make a plot that will look at the relationship between the number of readers and minimum price for Leanpub books. In the future, you'll learn how to write this code. For now, all the code is available to you. 
 
-All you should have to do to make this work is  copy the public URL for the Google Sheet that you made in the last chapter of the course. Once you have the link from your Google Sheet copied, scroll through the code in the top left-hand panel of RStudio Cloud. Find the place in the computer code that says "PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!".
-
-Delete 'PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!' and paste your URL. Your code should look something like this now. 
+All you should have to do to make this work is  copy the public URL for the Google Sheet that you made in the last chapter of the course. Once you have the link from your Google Sheet copied, scroll through the code in the top left-hand panel of RStudio Cloud. Find the place in the computer code that says "PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!". Delete 'PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!' and paste your URL. 
 
 One thing to keep in mind is that when you copy the URL from the top of your Google Sheet OR from the blue 'Share' button at the top right-hand side of the screen, the link will have a little extra information at the end. After pasting the copied URL into the code, you'll want to delete the tail-end of the URL starting at '/edit'. Below you will see what should be included in the pink box at top or the pink text of the link below. Everything after '/edit' should be deleted. 
+
+Your code should look something like this now. 
 
 Now you should be ready to run your code. To do so all at once, highlight all the code in the "leanpub_googlesheets_analysis.R" script. Then, find the button that says "Run" at the top of the code file. Click on that button. 
 
 You should see code running in the bottom left-hand panel and a plot should appear on the lower right hand side. 
-
 If a plot does not show up, there are errors. The first place to check for errors is in your 'leanpub_googlesheets_analysis.R' code file. Errors in code formatting in RStudio are marked by a red 'X' to the left of any code lines that have errors. For example, if you copy and pasted your Google Slides link but accidentally deleted the second set of quotes before the final parenthesis, a red X would show up, showing you which line has the coding error that needs to be fixed.
 
 If you don't see any red Xs in your code, there is likely an error with how you formatted your spreadsheet. The errors will appear in the bottom left-hand Console panel. Scroll through to see if any of the error messages help point you to what mistake may have been made. Then, edit your spreadsheet in Google Sheets and re-run all the code again.  
