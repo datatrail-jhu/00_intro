@@ -31,7 +31,7 @@ To give you an idea of where we're going, the first account (and arguably the mo
 
 ### Slides and Video
 
-![Account Setup](https://youtu.be/MSLY8BCTPVY)
+![Account Setup](https://youtu.be/1hNjZhSeBmE)
 
 * [Slides](https://docs.google.com/presentation/d/1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ/edit?usp=sharing)
 
