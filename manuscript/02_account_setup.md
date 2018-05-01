@@ -40,8 +40,6 @@ To give you an idea of where we're going, the first account (and arguably the mo
 
 ### Accounts Setup quiz
 
-This is the Account Setup quiz
-
 ? Why is account setup important?
 
 a) Different accounts will be used throughout the course.

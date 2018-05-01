@@ -71,9 +71,7 @@ A new screen will pop up informing you that your link has been copied. This is t
 
 {quiz, id: quiz_08_googledocs}
 
-# Google Docs quiz
-
-This is the Google Docs quiz
+### Google Docs quiz
 
 ? What are Google Docs NOT used for?
 

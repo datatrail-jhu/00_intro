@@ -1,6 +1,6 @@
 # Other Accounts Setup
 
-In addition to having a Google username, there are a number of other accounts to which you'll need access. We'll walk through each one, discussing what the account is used for and how to get a username for that account.
+In addition to having a Google username, there are a number of other accounts to which you'll need access. By the end of this lesson, you will hav set up a number of different accounts. While this may seem like a lot of work now, it will get you set up with *all* the accounts you'll need throughout this series of courses. The time you spend now will pay off later! Right now, we'll walk through each one briefly, get you set up with an account, and discuss what the account is used for.
 
 ### LinkedIn Account
 
@@ -147,8 +147,6 @@ You now have a GitHub account *and* all of the online accounts needed for this p
 {quiz, id: quiz_04_other_accounts}
 
 ### Other Accounts quiz
-
-This is the Other Accounts Setup quiz
 
 ? Which of the following accounts is specifically designed for professional networking with others to get a job?
 

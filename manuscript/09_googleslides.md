@@ -84,10 +84,8 @@ This will bring up a new box indicating that your link has been copied. This is 
 
 {quiz, id: quiz_09_slides}
 
-# Google Slides quiz
-
-This is the Google Slides quiz
-
+### Google Slides quiz
+ß
 ? When making a Google Slides presentation, what should you do?
 
 a) Put lots of words on each slide. 

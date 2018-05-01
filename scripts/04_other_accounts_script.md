@@ -1,6 +1,6 @@
-Here, now that you have a Google account, we will be getting all the other accounts you'll need to do data science set up. 
+Here, now that you have a Google account, we will be getting all the other accounts you'll need to do data science set up. While this may seem like a lot of work now, it will get you set up with *all* the accounts you'll need throughout this series of courses. The time you spend now will pay off later! Right now, we'll walk through each one briefly, get you set up with an account, and discuss what the account is used for.
 
-First up is Linked In, which is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online, sort of like an online résumé. It also has a space where you can look for jobs and can put you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
+First up is Linked In, which is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online, sort of like an online resume. It also has a space where you can look for jobs and can put you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
 
 To begin set up, you'll go to the web address bar in your Chrome browser. 
 
