@@ -1,5 +1,5 @@
 00_welcome.md
-01_how_to_google.md
+01_finding_help.md
 02_account_setup.md
 03_google_account.md
 04_other_accounts.md
