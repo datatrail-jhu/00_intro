@@ -104,9 +104,7 @@ Congrats! You have successfully made this spreadsheet shareable. We'll use this 
 
 {quiz, id: quiz_06_googlesheets}
 
-# Google Sheets quiz
-
-This is the Google Sheets quiz
+### Google Sheets quiz
 
 ? What is a spreadsheet?
 

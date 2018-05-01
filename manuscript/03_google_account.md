@@ -62,8 +62,6 @@ Enter your new Google account name here. Click 'Next'. Enter your password. Clic
 
 # Google Account quiz
 
-This is the Google Account quiz
-
 {words: 1}
 ? Please enter your Google username.
 

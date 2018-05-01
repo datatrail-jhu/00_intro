@@ -78,7 +78,7 @@ The information here gets you started on DataCamp's Introduction to R course; ho
 
 {quiz, id: quiz_10_datacamp}
 
-# DataCamp quiz
+### DataCamp quiz
 
 This is the DataCamp quiz
 
