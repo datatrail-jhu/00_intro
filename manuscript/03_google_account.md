@@ -60,7 +60,7 @@ Enter your new Google account name here. Click 'Next'. Enter your password. Clic
 
 {quiz, id: quiz_03_google}
 
-# Google Account quiz
+### Google Account quiz
 
 {words: 1}
 ? Please enter your Google username.

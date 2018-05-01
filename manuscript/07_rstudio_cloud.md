@@ -119,8 +119,6 @@ Once you have your plot, you have what you need to make the Google Doc and finis
 
 # RStudio Cloud quiz
 
-This is the Google Sheets quiz
-
 ? What is RStudio Cloud used for?
 
 a) Sending email, sharing documents, and making presentations.
