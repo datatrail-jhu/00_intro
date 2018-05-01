@@ -25,7 +25,7 @@ Here we are only colleting one "kind" of data - just data on books. The columns 
 
 Remember we are collecting information on the bestselling books from the last week on Leanpub. You can find the list of bestsellers here: https://leanpub.com/bookstore. Remember that if you click on the image of one book you will get something that looks like this. 
 
-![PPowershell 101 landing page](images/06_googlesheets/06_cdsintro_googlesheets-5.png)
+![Powershell 101 landing page](images/06_googlesheets/06_cdsintro_googlesheets-5.png)
 
 
 ### Setting up your spreadsheet
