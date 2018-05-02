@@ -3,8 +3,6 @@ course-completeness: 100
 course-attempts: 2
 default-quiz-attempts: 2
 default-random-choice-order: true
-authors: Jeffrey Leek
-contributors: Shannon Ellis and Aboozar Hadavand
 }
 
 # Welcome to Chromebook Data Science
