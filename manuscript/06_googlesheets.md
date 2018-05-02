@@ -21,7 +21,7 @@ We will talk a lot more in future courses about how to organize data that you ha
 3. One spreadsheet for each "kind" of data.
 4. If you have more than one spreadsheet, they should include a column in the table that allows them to be linked.
 
-Here we are only colleting one "kind" of data - just data on books. The columns will be different types of information about the books. We will collect information on the name of the book, the number of sales of that book, the minimum price of the book, and the suggested price of the book. Each of those will be in a separate column. Then, for each book, we will make a new row with the data for that book. 
+Here we are only collecting one "kind" of data - just data on books. The columns will be different types of information about the books. We will collect information on the name of the book, the number of sales of that book, the minimum price of the book, and the suggested price of the book. Each of those will be in a separate column. Then, for each book, we will make a new row with the data for that book. 
 
 Remember we are collecting information on the bestselling books from the last week on Leanpub. You can find the list of bestsellers here: https://leanpub.com/bookstore. Remember that if you click on the image of one book you will get something that looks like this. 
 
@@ -102,7 +102,7 @@ Congrats! You have successfully made this spreadsheet shareable. We'll use this 
 * [Slides](https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/edit?usp=sharing)
 
 
-{quiz, id: quiz_06_googlesheets}
+{quiz, id: quiz_06_googlesheets, random-question-order: true}
 
 ### Google Sheets quiz
 
