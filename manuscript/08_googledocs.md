@@ -81,7 +81,7 @@ C) Making slideshow presentations.
 d) creating and editing word documents.
 
 {words: 1}
-? Please paste the link to the Google Doc you created below.
+? Please paste the link to the Google Doc you created below. (Reminder: This document should only contain information about the projected you completed on Leanpub book prices. It should not contain any personal information.)
 
 ! Answers could vary
 
