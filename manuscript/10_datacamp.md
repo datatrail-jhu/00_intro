@@ -90,9 +90,10 @@ c) Learning database management
 D) Learning to program in R
 
 
-{words: 1}
-? Once you have completed the Introduction to R course, please paste your Gmail username here.
+{words: 1, case-sensitive: false}
 
-! Answers will vary
+? Once you have completed the Introduction to R course in DataCamp, type 'Intro course completed' in the box.
+
+! Intro course completed ; 'Intro course completed' 
 
 {/quiz}

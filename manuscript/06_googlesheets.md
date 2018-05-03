@@ -93,7 +93,7 @@ Your screen will update so that this document can now be viewed by anyone, as lo
  
 ![Shareable](images/06_googlesheets/06_cdsintro_googlesheets-21.png)
 
-Congrats! You have successfully made this spreadsheet shareable. We'll use this spreadsheet link in the next lesson when you get started using RStudio Cloud.
+Congrats! You have successfully made this spreadsheet shareable and the link has been copied. You'll be asked to paste this link in the quiz for this lesson, and we'll use this spreadsheet link in the next lesson when you get started using RStudio Cloud, so don't close your Google Sheets tab quite yet.
 
 ### Slides and Video
 
@@ -121,6 +121,10 @@ C) maximum price
 d) suggested price
 e) minimum price
 
+{words: 1}
+? Please paste the link to the Google Sheet with your Leanpub data. (Reminder: This sheet should contain data collected from Leanpub. It should not contain any personal information.)
+
+! Answers could vary
 
 
 {/quiz}

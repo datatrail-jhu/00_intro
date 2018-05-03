@@ -169,34 +169,5 @@ b) a platform where you can connect with and communicate with others.
 c) a message board where you post questions you have.
 D) a free programming language for statistical computing and graphing.
 
-{words: 1}
-? Please enter your LinkedIn username.
-
-! Answers could vary
-
-{words: 1}
-? Please enter your Twitter username.
-
-! Answers could vary
-
-{words: 1}
-? Please enter your Slack username.
-
-! Answers could vary
-
-{words: 1}
-? Please enter your rstudio.cloud username if you did not sign in with Google. If you did sign in with Google, enter your Google username.
-
-! Answers could vary
-
-{words: 1}
-? Please enter your DataCamp username if you did not sign in with Google. If you did sign in with Google, enter your Google username.
-
-! Answers could vary
-
-{words: 1}
-? Please enter your GitHub username.
-
-! Answers could vary
 
 {/quiz}

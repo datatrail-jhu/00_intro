@@ -94,7 +94,7 @@ c) Keep the font small to ensure that you can include lots of information
 D) Use pictures instead of words when possible.
 
 {words: 1}
-? Please paste the link to the Google Slide presentation you created below.
+? Please paste the link to the Google Slide presentation you created below. (Reminder: This link should only contain information about the Leanpub book prices project you completed. It should not contain any personal information.)
 
 ! Answers could vary
 
