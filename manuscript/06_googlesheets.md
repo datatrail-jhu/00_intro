@@ -80,18 +80,33 @@ Now that you've entered your data into the Google Sheet, we want to check for a 
 
 This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!
 
+### Publishing to the web
+
+Our plan is to use the data in this spreadsheet to answer our question about how the price of a bestselling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to publish the data to the web. This gives the software we'll use in the next lesson permission to access your data. to make your sheet public, you'll want to click on File at the top of the Google Sheet. From the drop-down menu that appears, you'll want to click on "Publish to the web."
+
+![Publish to the web...](images/06_googlesheets/06_cdsintro_googlesheets-19.png)
+
+In the window that pops up, you'll want to click on "Publish"
+
+![Publish](images/06_googlesheets/06_cdsintro_googlesheets-20.png)
+
+A box will appear to confirm that you would like to publish this Google Sheet. Click "OK."
+
+![OK](images/06_googlesheets/06_cdsintro_googlesheets-21.png)
+
 ### Making the sheet public
-Our plan is to use the data in this spreadsheet to answer our question about how the price of a bestselling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to make these data public. This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
+
+After publishing your data to the web, the last step is to make these data accessible to others who have the link.This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
  
-![Share](images/06_googlesheets/06_cdsintro_googlesheets-19.png)
+![Share](images/06_googlesheets/06_cdsintro_googlesheets-22.png)
  
 A "Share with others" box will pop up. Click on "Get shareable link."
  
-![Share with others](images/06_googlesheets/06_cdsintro_googlesheets-20.png)
+![Share with others](images/06_googlesheets/06_cdsintro_googlesheets-23.png)
  
 Your screen will update so that this document can now be viewed by anyone, as long as they have the link to the spreadsheet.
  
-![Shareable](images/06_googlesheets/06_cdsintro_googlesheets-21.png)
+![Shareable](images/06_googlesheets/06_cdsintro_googlesheets-24.png)
 
 Congrats! You have successfully made this spreadsheet shareable and the link has been copied. You'll be asked to paste this link in the quiz for this lesson, and we'll use this spreadsheet link in the next lesson when you get started using RStudio Cloud, so don't close your Google Sheets tab quite yet.
 
