@@ -36,8 +36,14 @@ Last, if the minimum price is zero dollars, put a zero in that cell, rather than
 
 This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!
 
-Our plan is to use the data in this spreadsheet to answer our question about how the price of a bestselling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to make these data public. This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
+ Our plan is to use the data in this spreadsheet to answer our question about how the price of a bestselling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to publish the data to the web. This gives the software we'll use in the next lesson permission to access your data. to make your sheet public, you'll want to click on File at the top of the Google Sheet. From the drop-down menu that appears, you'll want to click on "Publish to the web."
+
+In the window that pops up, you'll want to click on "Publish"
+
+A box will appear to confirm that you would like to publish this Google Sheet. Click "OK."
+
+The final step in making sure these data are accessible in the next lesson is to make these data public. This can be done easily on a Google Sheet by clicking on "Share" in the top right-hand corner of the Google Sheet.
 
 A "Share with others" box will pop up. Click on "Get shareable link."
 
-Your screen will update so that this document can now be viewed by anyone, as long as they have the link to the spreadsheet. Congrats! You have successfully made this spreadsheet shareable. We'll use this spreadsheet link in the next lesson when you get started using RStudio Cloud.
+Your screen will update so that this document can now be viewed by anyone, as long as they have the link to the spreadsheet. Congrats! You have successfully made this spreadsheet shareable. We'll use this spreadsheet link in the next lesson when you get started using RStudio Cloud, so don't close this window just yet.
