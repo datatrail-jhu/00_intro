@@ -112,7 +112,7 @@ Congrats! You have successfully made this spreadsheet shareable and the link has
 
 ### Slides and Video
 
-![Google Sheets](https://youtu.be/5Pe0QD48UZU)
+![Google Sheets](https://youtu.be/H051inhhZ6g)
 
 * [Slides](https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/edit?usp=sharing)
 
