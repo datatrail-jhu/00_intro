@@ -1,4 +1,4 @@
-# Account Set up
+# Account Setup
 
 Before we can get started doing fun things with data we need to make sure you are set up to use all of the different accounts that you will need throughout the course. We will tell you briefly what each of these accounts is used for and how to set it up now. If you don't know what each of these accounts is for exactly, don't worry! We will walk you through everything you need to know.
 
@@ -6,11 +6,11 @@ Before we can get started doing fun things with data we need to make sure you ar
 
 Choosing an appropriate username is important. Some combination of your first and last name is a good idea. For example, if your name were Jane Doe, a username such as "JaneDoe" or "Jane.Doe" would work. If the first username you attempt is taken, you can try another, similar username. In this case, maybe try  "JDoe". 
 
-![](images/02_account_setup/02_cdsintro_account_setup-03.png)
+![Appropriate Usernames](images/02_account_setup/02_cdsintro_account_setup-03.png)
 
 But, be sure that whatever name you choose, you would be comfortable sharing it with your boss or family member. Usernames with nicknames or profanity are *not* a good idea.
 
-![](images/02_account_setup/02_cdsintro_account_setup-04.png)
+![What to Avoid in Usernames](images/02_account_setup/02_cdsintro_account_setup-04.png)
 
 ### Using a Consistent Username
 
@@ -27,7 +27,7 @@ To give you an idea of where we're going, the first account (and arguably the mo
 *  [DataCamp](https://www.datacamp.com/) - this is a website where you can practice using R and Rstudio. 
 *  [GitHub](https://github.com) - this is a website where we will share the results of our data science projects with each other and the world. 
 
-![](images/02_account_setup/02_cdsintro_account_setup-05.png)
+![Accounts](images/02_account_setup/02_cdsintro_account_setup-05.png)
 
 ### Slides and Video
 
