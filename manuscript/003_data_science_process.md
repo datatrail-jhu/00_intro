@@ -10,7 +10,7 @@ Every Data Science Project starts with a question that is to be answered with da
 
 For this example, we're going to use an example analysis from a data scientist named [Hilary Parker](https://hilaryparker.com/about-hilary-parker/). Her work can be found [on her blog](https://hilaryparker.com), and the specific project we'll be working through here is from 2013 and titled ["Hilary: the most poisoned baby name in US history"](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/). To get the most out of this lesson, click on that link and read through Hilary's post. Once you're done, come on back to this lesson and read through the breakdown of this post.
 
-![Hilary's blog post]()
+![Hilary's blog post](images/003_data_science_process/003_cdsintro_data_science_process-3.png)
 
 #### The Question
 
@@ -26,7 +26,7 @@ To answer this question, Hilary collected data from the [Social Security website
 
 As explained in the blog post, Hilary was interested in calculating the relative risk for each of the 4,110 different names in her dataset from one year to the next from 1880 to 2011. By hand, this would be a nightmare. Thankfully, by writing code in R, all of which is [available on GitHub](https://github.com/hilaryparker/names), Hilary was able to generate these values for all these names across all these years. It's not important at this point in time to fully understand what a relative risk calculation is (although Hilary does a *great* job breaking it down in her post!), but it is important to know that after getting the data together, the next step is figuring out what you need to do with that data in order to answer your question. For Hilary's question, calculating the relative risk for each name from one year to the next from 1880 to 2011 and looking at the percentage of babies named each name in a particular year would be what she needed to do to answer her question.
 
-![Hilary's GitHub repo for this project]()
+![Hilary's GitHub repo for this project](images/003_data_science_process/003_cdsintro_data_science_process-6.png)
 
 ##### Exploratory Data Analysis
 
@@ -36,15 +36,15 @@ What you don't see in the blog post is all of the code Hilary wrote to get the d
 
 That said, given that Hilary now had the necessary values calculated, she began to analyze the data. The first thing she did was look at the names with the biggest drop in percentage from one year to the next. By this preliminary analysis, Hilary was sixth on the list, meaning there were five other names that had had a single year drop in popularity larger than the one the name "Hilary" experienced from 1992 to 1993.
 
-![Biggest Drop Table]()
+![Biggest Drop Table](images/003_data_science_process/003_cdsintro_data_science_process-7.png)
 
 In looking at the results of this analysis, the first five years appeared peculiar to Hilary Parker. (It's always good consider whether or not the results were what you were expecting, from any analysis!) None of them seemed to be names that were popular for long periods of time. To see if this hunch was true, Hilary plotted the percent of babies born each year with each of the names from this table. What she found was that, among these "poisoned" names (names that experienced a big drop from one year to the next in popularity), all of the names other than Hilary became popular all of a sudden and then dropped off in popularity. Hilary Parker was able to figure out why most of these other names became popular, so definitely read that section of her post! The name, Hilary, however, was different. It was popular for a while and then completely dropped off in popularity.
 
-![14 most poisoned names over time]()
+![14 most poisoned names over time](images/003_data_science_process/003_cdsintro_data_science_process-8.png)
 
 To figure out what was specifically going on with the name Hilary, she removed names that became popular for short periods of time before dropping off, and only looked at names that were in the top 1000 for more than 20 years. The results from this analysis definitively show that Hilary had the quickest fall from popularity in 1992 of any female baby name between 1880 and 2011. ("Marian"'s decline was gradual over many years.)
 
-![39 most poisoned names over time, controlling for fads]()
+![39 most poisoned names over time, controlling for fads](images/003_data_science_process/003_cdsintro_data_science_process-9.png)
 
 #### Communication
 
