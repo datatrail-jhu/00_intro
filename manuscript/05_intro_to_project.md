@@ -45,7 +45,7 @@ We'll go through the steps necessary to do all of this and answer the project qu
 
 ![Your First Data Science Project](https://youtu.be/30f6YYi8TrU)
 
-[Slides](https://docs.google.com/presentation/d/18q2gRHXGZxBL7pSWcQg_HThmgoo5qDeO9O372QkAnYU/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE/edit?usp=sharing)
 
 
 
