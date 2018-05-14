@@ -62,16 +62,17 @@ Enter your new Google account name here. Click 'Next'. Enter your password. Clic
 
 ### Google Account quiz
 
-{words: 100}
-? Did you have any problems getting a Google Login. If so, what were they?
-
-! Answers could vary
+```{choose-answers: 4}
 
 ? Which of these is NOT something your Google Login can be used as?
 
-A) a credit card
-b) a way access to Google products, such as Google Sheets.
-c) an email (Gmail) address.
-d) a login to the Chromebook.
+C) a credit card
+o) a way access to Google products
+o) an email (Gmail) address
+o) a login to the Chromebook
+o) a way to access Google Docs
+o) a way to access Google Sheets
+o) a way to access Google Slides
 
+```
 {/quiz}

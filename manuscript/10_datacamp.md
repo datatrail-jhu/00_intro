@@ -82,15 +82,21 @@ The information here gets you started on DataCamp's Introduction to R course; ho
 
 This is the DataCamp quiz
 
+```{choose-answers: 4}
+
 ? What will we use DataCamp for?
 
-a) Making presentations of data analyses
-b) Writing textbooks
-c) Learning database management
-D) Learning to program in R
+C) Learning to program in R
+o) Making presentations of data analyses
+o) Writing textbooks
+o) Learning database management
+o) Generating lessons for a course
+o) Storing data we collect
+o) Generating databases
 
+```
 
-{words: 1, case-sensitive: false}
+{words: 1, case-sensitive: false, points: 3}
 
 ? Once you have completed the Introduction to R course in DataCamp, type 'Intro course completed' in the box.
 

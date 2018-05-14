@@ -148,26 +148,46 @@ You now have a GitHub account *and* all of the online accounts needed for this p
 
 ### Other Accounts quiz
 
+```{choose-answers: 4}
+
 ? Which of the following accounts is specifically designed for professional networking with others to get a job?
 
-a) Gmail
-B) LinkedIn
-c) GitHub
-d) slack
+C) LinkedIn
+o) GitHub
+o) slack
+o) Gmail
+o) DataCamp
+o) Gmail
+o) RStudio Cloud
+```
+
+```{choose-answers: 4}
 
 ? Where will you be saving your code?
 
-a) DataCamp
-b) Twitter
 C) GitHub
-d) Gmail
+o) LinkedIn
+o) slack
+o) Gmail
+o) DataCamp
+o) Gmail
+o) RStudio Cloud
+o) Twitter
+
+```
+
+```{choose-answers: 4}
 
 ? What is R?
 
-a) a for-profit programming language used specifically by engineers.
-b) a platform where you can connect with and communicate with others.
-c) a message board where you post questions you have.
-D) a free programming language for statistical computing and graphing.
+C) a free programming language for statistical computing and graphing.
+m) a for-profit programming language used specifically by engineers.
+o) a platform where you can connect with and communicate with others.
+o) a message board where you post questions you have.
+o) an online community with lessons and exercises to help you learn to code
+o) a message board where you post questions you have.
+o) a place where you post your code
 
+```
 
 {/quiz}

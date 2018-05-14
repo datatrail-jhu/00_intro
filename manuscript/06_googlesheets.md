@@ -121,12 +121,19 @@ Congrats! You have successfully made this spreadsheet shareable and the link has
 
 ### Google Sheets quiz
 
+```{choose-answers: 4}
+
 ? What is a spreadsheet?
 
-A) A grid where you can store data.
-b) A word document where you would type a novel.
-c) A great place to make a slide presentation.
-d) An online banking website.
+C) A grid where you can store data.
+o) A word document where you would type a novel.
+o) A great place to make a slide presentation.
+o) An online banking website.
+o) Another word for a blockchain.
+o) A place to learn how to program
+o) What you would open in Microsoft Word.
+
+```
 
 ? What information are we NOT collecting from Leanpub?
 
@@ -136,10 +143,12 @@ C) maximum price
 d) suggested price
 e) minimum price
 
-{words: 1}
+{words: 1, points: 3}
 ? Please paste the link to the Google Sheet with your Leanpub data. (Reminder: This sheet should contain data collected from Leanpub. It should not contain any personal information.)
 
-! Answers could vary
+! /(.+\/\/docs.google.com\/spreadsheets+)/i
+
+
 
 
 {/quiz}
