@@ -127,9 +127,5 @@ c) Setting up accounts to social media and networking platforms
 d) All of the above
 e) None of the above.
 
-{words: 500}
-? Did you have any trouble getting through this lesson? If yes, please explain below.
-
-! Answers could vary
 
 {/quiz}

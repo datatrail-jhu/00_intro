@@ -47,13 +47,20 @@ b) Various accounts are required to do fun data science stuff.
 c) Usernames are required and it's important to choose a good username.
 D) All of the above.
 
+```{choose-answers: 4}
+
 ? Which of these is NOT an appropriate username?
 
-a) JaneDoe
-B) BigDaddy17
-c) Faith_Allen
-d) Kareem.Smith
+C) BigDaddy17
+o) JaneDoe
+o) Faith_Allen
+o) Kareem.Smith
+o) Mohammed.Ahmed
+o) KarenJones
+o) Coretta_King
+o) JamesTaylor
 
+```
 
 {/quiz}
 
