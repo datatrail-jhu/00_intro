@@ -47,7 +47,7 @@ b) Various accounts are required to do fun data science stuff.
 c) Usernames are required and it's important to choose a good username.
 D) All of the above.
 
-```{choose-answers: 4}
+{choose-answers: 4}
 
 ? Which of these is NOT an appropriate username?
 
@@ -60,7 +60,6 @@ o) KarenJones
 o) Coretta_King
 o) JamesTaylor
 
-```
 
 {/quiz}
 

@@ -121,7 +121,7 @@ Congrats! You have successfully made this spreadsheet shareable and the link has
 
 ### Google Sheets quiz
 
-```{choose-answers: 4}
+{choose-answers: 4}
 
 ? What is a spreadsheet?
 
@@ -133,7 +133,6 @@ o) Another word for a blockchain.
 o) A place to learn how to program
 o) What you would open in Microsoft Word.
 
-```
 
 ? What information are we NOT collecting from Leanpub?
 

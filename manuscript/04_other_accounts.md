@@ -148,7 +148,7 @@ You now have a GitHub account *and* all of the online accounts needed for this p
 
 ### Other Accounts quiz
 
-```{choose-answers: 4}
+{choose-answers: 4}
 
 ? Which of the following accounts is specifically designed for professional networking with others to get a job?
 
@@ -159,9 +159,8 @@ o) Gmail
 o) DataCamp
 o) Gmail
 o) RStudio Cloud
-```
 
-```{choose-answers: 4}
+{choose-answers: 4}
 
 ? Where will you be saving your code?
 
@@ -174,9 +173,7 @@ o) Gmail
 o) RStudio Cloud
 o) Twitter
 
-```
-
-```{choose-answers: 4}
+{choose-answers: 4}
 
 ? What is R?
 
@@ -188,6 +185,5 @@ o) an online community with lessons and exercises to help you learn to code
 o) a message board where you post questions you have.
 o) a place where you post your code
 
-```
 
 {/quiz}
