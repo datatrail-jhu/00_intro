@@ -3,7 +3,7 @@
 The first and most important account we need to set up will be a Google account. You will need a Google account to be able to use free Google products. These Google products, such as Gmail, Google Docs, Google Sheets, and Google Slides will be useful in many of the Data Science projects you complete. The Google account will also be useful for letting you get access to other 
 websites we will use in the program. 
 
-![Google Products](https://docs.google.com/presentation/d/1sOBtwszQqq366q84VCDY_BwSjWQz_4yFJLC4ib1dEGQ/export/png?pageid=g2dda417cfe_0_1)
+![Google Products](images/03_google_account/03_cdsintro_google_account-03.png)
 
 If you already have a Google account with an appropriate username that you would like to use throughout this course, you can skip the next section and move to the "Log off Guest Chromebook" section. However, it's probably best to create a new account dedicated to all your Data Science accounts, many of which you will set up in the next lesson. 
 
