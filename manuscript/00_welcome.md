@@ -108,7 +108,7 @@ This first class is designed to get you set up with the accounts you will use as
 ### Welcome to Data Science quiz
 
 
-```{choose-answers: 4}
+{choose-answers: 4}
 ? Which of the following is not a part of data science ?
 
 C) Building new databases.
@@ -118,7 +118,7 @@ o) Communicating models and data.
 o) Working with data.
 o) Analyzing datasets.
 o) Answering questions with data.
-```
+
 
 ? Which of the following are barriers to becoming a data scientist?
 
@@ -127,7 +127,7 @@ b) You might need an expensive computer.
 c) Getting a data science education is usually expensive.
 D) All of the above.
 
-```{choose-answers: 4}
+{choose-answers: 4}
 
 ? Who is this class designed for? 
 
@@ -138,7 +138,6 @@ o) Older students who want to learn data science.
 o) People with a high school education.
 o) People in high school.
 o) Students in community colleges.
-```
 
 {/quiz}
 

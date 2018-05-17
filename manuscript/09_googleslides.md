@@ -86,7 +86,7 @@ This will bring up a new box indicating that your link has been copied. This is 
 
 ### Google Slides quiz
 
-```{choose-answers: 4}
+{choose-answers: 4}
 
 ? When making a Google Slides presentation, what should you do?
 
@@ -98,7 +98,6 @@ o) Put as much information as possible on each slide.
 o) Include everything you'd say out loud on each slide. 
 o) Copy and paste from others' work and never give them credit.
 
-```
 
 {words: 1, points: 3}
 ? Please paste the link to the Google Slide presentation you created below. (Reminder: This link should only contain information about the Leanpub book prices project you completed. It should not contain any personal information.)

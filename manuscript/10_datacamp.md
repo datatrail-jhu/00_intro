@@ -82,7 +82,7 @@ The information here gets you started on DataCamp's Introduction to R course; ho
 
 This is the DataCamp quiz
 
-```{choose-answers: 4}
+{choose-answers: 4}
 
 ? What will we use DataCamp for?
 
@@ -94,7 +94,6 @@ o) Generating lessons for a course
 o) Storing data we collect
 o) Generating databases
 
-```
 
 {words: 1, case-sensitive: false, points: 3}
 

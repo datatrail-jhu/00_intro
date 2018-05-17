@@ -73,7 +73,7 @@ A new screen will pop up informing you that your link has been copied. This is t
 
 ### Google Docs quiz
 
-```{choose-answers: 4}
+{choose-answers: 4}
 
 ? What are Google Docs NOT used for?
 
@@ -84,7 +84,6 @@ o) Sharing results with people you work with.
 o) Creating and editing word documents.
 o) Writing reports about your projects.
 
-```
 
 {words: 1, points: 3}
 ? Please paste the link to the Google Doc you created below. (Reminder: This document should only contain information about the projected you completed on Leanpub book prices. It should not contain any personal information.)
