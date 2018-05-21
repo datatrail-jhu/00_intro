@@ -1,8 +1,8 @@
 Our philosophy with building this course and this program is to try to make data science accessible to the widest audience possible. 
-This course is part of the Chromebook Data Science series of courses all designed with the same philosophy in mind.  
- 
-These courses are designed to tackle some of the challenges that prevent people from getting into data science in the first place. Some of those challenges are geographic - we'll talk more about that later. Some are due to the price of education - that is why we are offering these courses as MOOCs. But one of the key barriers is that the type of computer you usually need to do data science is expensive. 
 
+This course is part of the Chromebook Data Science series of courses all designed with the same philosophy in mind.  
+
+These courses are designed to tackle some of the challenges that prevent people from getting into data science in the first place. Some of those challenges are geographic - we'll talk more about that later. Some are due to the price of education - that is why we are offering these courses as MOOCs. But one of the key barriers is that the type of computer you usually need to do data science is expensive. 
 
 Chromebooks, on the other hand, are a very cheap type of computer. Chromebooks aren't exactly like normal computers and they have a few unique characteristics. They are usually very cheap. They are designed mostly to use the web. You don't "install" any software on the computer itself. Instead of "apps" and "software" you simply go to websites for your work A simple way to think about it is that a Chromebook is a computer that only lets you use an internet browser like Chrome. You can't really do much on the computer itself. 
 
