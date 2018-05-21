@@ -78,6 +78,7 @@ A new screen will pop up informing you that your link has been copied. This is t
 ? What are Google Docs NOT used for?
 
 C) Making slideshow presentations.
+C) Storing data in spreadsheets.
 o) Keeping notes about projects. 
 o) Sharing results with people you work with.
 o) Creating and editing word documents.
