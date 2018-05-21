@@ -15,6 +15,6 @@ Third, a cool feature of using Amazon Polly is that you can change the voice to 
 
 ### Slides and Video
 
-![Why Automated Videos]()
+![Why Automated Videos](https://www.youtube.com/watch?v=mn6fyD1t_5g)
 
 * [Slides](https://docs.google.com/presentation/d/1FtdynwBR8IAE8x9cMTZrnWKfTPXEhH-KwkAZKQ0zwk8/edit?usp=sharing)

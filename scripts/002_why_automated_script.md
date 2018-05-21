@@ -1,4 +1,6 @@
-You will notice that all the videos for this program including the one for this very lesson use automated voice. You may wonder why we do this. We thought it would be nice to explain our reasons and tell you about this feature of the program.
+As you work through all the courses in this program, you'll notice that all the videos for this program including the one for this very lesson use an automated voice. 
+
+You may wonder why we do this. We thought it would be nice to explain our reasons and tell you about this feature of the program.
 
 Let's see how the course content are created. The content of all the courses are created given two files. One text file that is in R Markdown format that contains the content of each lesson and the slides created in Google Slides. Everything else including the videos, the narration of the videos, and quizzes are created from these two files. You will soon learn about Google Slides (if you don't already know about) and later on will learn about writing reports in R Markdown. 
 
