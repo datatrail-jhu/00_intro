@@ -63,7 +63,6 @@ Enter your new Google account name here. Click 'Next'. Enter your password. Clic
 ### Google Account quiz
 
 {choose-answers: 4}
-
 ? Which of these is NOT something your Google Login can be used as?
 
 C) a credit card

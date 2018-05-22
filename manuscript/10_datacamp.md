@@ -83,7 +83,6 @@ The information here gets you started on DataCamp's Introduction to R course; ho
 This is the DataCamp quiz
 
 {choose-answers: 4}
-
 ? What will we use DataCamp for?
 
 C) Learning to program in R
@@ -96,7 +95,6 @@ o) Generating databases
 
 
 {words: 1, case-sensitive: false, points: 3}
-
 ? Once you have completed the Introduction to R course in DataCamp, type 'Intro course completed' in the box.
 
 ! Intro course completed ; 'Intro course completed' 
