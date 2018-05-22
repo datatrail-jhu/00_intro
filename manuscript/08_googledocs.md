@@ -74,7 +74,6 @@ A new screen will pop up informing you that your link has been copied. This is t
 ### Google Docs quiz
 
 {choose-answers: 4}
-
 ? What are Google Docs NOT used for?
 
 C) Making slideshow presentations.

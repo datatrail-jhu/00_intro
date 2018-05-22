@@ -88,7 +88,6 @@ This will bring up a new box indicating that your link has been copied. This is 
 ### Google Slides quiz
 
 {choose-answers: 4}
-
 ? When making a Google Slides presentation, what should you do?
 
 C) Use pictures instead of words when possible.

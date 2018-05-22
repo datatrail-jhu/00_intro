@@ -130,7 +130,6 @@ d) suggested price
 e) minimum price
 
 {choose-answers: 4}
-
 ? What is a spreadsheet?
 
 C) A grid where you can store data.

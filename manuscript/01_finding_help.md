@@ -44,7 +44,6 @@ The best way to get a response to your question is to be able to boil it down to
 ### Finding Help quiz
 
 {choose-answers: 4}
-
 ? If you were looking to search on Google how to generate a plot using the R programming language, what would be the best thing to type into the search bar?
 
 C) how to generate plot in R

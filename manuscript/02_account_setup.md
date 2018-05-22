@@ -48,7 +48,6 @@ c) Usernames are required and it's important to choose a good username.
 D) All of the above.
 
 {choose-answers: 4}
-
 ? Which of these is NOT an appropriate username?
 
 C) BigDaddy17

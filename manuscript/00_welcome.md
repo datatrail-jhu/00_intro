@@ -115,7 +115,6 @@ c) Getting a data science education is usually expensive.
 D) All of the above.
 
 {choose-answers: 4}
-
 ? Which of the following is not a part of data science ?
 
 C) Building new databases.
@@ -129,7 +128,6 @@ o) Answering questions with data.
 
 
 {choose-answers: 4}
-
 ? Who is this class designed for? 
 
 C) All of the above
