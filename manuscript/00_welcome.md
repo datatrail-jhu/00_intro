@@ -107,8 +107,15 @@ This first class is designed to get you set up with the accounts you will use as
 
 ### Welcome to Data Science quiz
 
+? Which of the following are barriers to becoming a data scientist?
+
+a) Knowing data science is a career possibility.
+b) You might need an expensive computer. 
+c) Getting a data science education is usually expensive.
+D) All of the above.
 
 {choose-answers: 4}
+
 ? Which of the following is not a part of data science ?
 
 C) Building new databases.
@@ -120,12 +127,6 @@ o) Analyzing datasets.
 o) Answering questions with data.
 
 
-? Which of the following are barriers to becoming a data scientist?
-
-a) Knowing data science is a career possibility.
-b) You might need an expensive computer. 
-c) Getting a data science education is usually expensive.
-D) All of the above.
 
 {choose-answers: 4}
 

@@ -121,6 +121,14 @@ Congrats! You have successfully made this spreadsheet shareable and the link has
 
 ### Google Sheets quiz
 
+? What information are we NOT collecting from Leanpub?
+
+a) book title
+b) number of readers
+C) maximum price
+d) suggested price
+e) minimum price
+
 {choose-answers: 4}
 
 ? What is a spreadsheet?
@@ -134,13 +142,6 @@ o) A place to learn how to program
 o) What you would open in Microsoft Word.
 
 
-? What information are we NOT collecting from Leanpub?
-
-a) book title
-b) number of readers
-C) maximum price
-d) suggested price
-e) minimum price
 
 {words: 1, points: 3}
 ? Please paste the link to the Google Sheet with your Leanpub data. (Reminder: This sheet should contain data collected from Leanpub. It should not contain any personal information.)
