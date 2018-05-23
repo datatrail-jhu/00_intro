@@ -115,6 +115,7 @@ o) generating plots to understand the data
 
 {choose-answers: 4}
 ? Why should you include links or citations to others' work?
+
 C) It gives credit to the work of others. 
 o) It's necessary to get your analysis started.
 o) You shouldn't. Your work is the only work that matters.
@@ -125,6 +126,7 @@ o) Others' work is more important than yours.
 
 {choose-answers: 4}
 ? What does Hilary Parker suggest led to the popularity of the name "Dewey" in the late 1800s?
+
 C) People named their daughters after George Dewey, after the Spanish-American War 
 o) People named their daughters after Farrah Dewey, after Charlie's Angels 
 o) People named their daughters after Dewey, the famous opera singer
