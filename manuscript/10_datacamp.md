@@ -94,7 +94,7 @@ o) Storing data we collect
 o) Generating databases
 
 
-{words: 1, case-sensitive: false, points: 3}
+{case-sensitive: false, points: 3}
 ? Once you have completed the Introduction to R course in DataCamp, type 'Intro course completed' in the box.
 
 ! Intro course completed ; 'Intro course completed' 

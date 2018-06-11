@@ -99,7 +99,7 @@ o) Include everything you'd say out loud on each slide.
 o) Copy and paste from others' work and never give them credit.
 
 
-{words: 1, points: 3}
+{points: 3}
 ? Please paste the link to the Google Slide presentation you created below. (Reminder: This link should only contain information about the Leanpub book prices project you completed. It should not contain any personal information.)
 
 ! /(.+\/\/docs.google.com\/presentation.+)/i
