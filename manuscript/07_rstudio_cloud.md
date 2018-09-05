@@ -119,13 +119,22 @@ Once you have your plot, you have what you need to make the Google Doc and finis
 
 # RStudio Cloud quiz
 
-? What is RStudio Cloud used for?
+? What is RStudio Cloud primarily used for?
 
-a) Sending email, sharing documents, and making presentations.
-B) Running code, doing data analysis, and generating plots.
-c) Setting up accounts to social media and networking platforms
-d) All of the above
-e) None of the above.
+C) Running code, doing data analysis, and generating plots.
+C) Running R code and carrying out analyses.
+o) Sending email, sharing documents, and making presentations.
+o) Setting up accounts to social media and networking platforms.
+o) Calling your family members.
+o) All of the above
+o) None of the above.
 
+? What does it mean that a programming language is object-oriented?
+
+C) As you run code, objects are created to store information
+C) As code is run, objects are created and can be listed
+o) As you run code, objects are purchased from Amazon
+o) As you run code, programs are created and printed out to be read
+o) As code is run, objects are turned into rugs
 
 {/quiz}

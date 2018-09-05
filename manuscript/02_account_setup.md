@@ -40,7 +40,7 @@ To give you an idea of where we're going, the first account (and arguably the mo
 
 ### Accounts Setup quiz
 
-? Why is account setup important?
+?1 Why is account setup important?
 
 a) Different accounts will be used throughout the course.
 b) Various accounts are required to do fun data science stuff.
@@ -48,9 +48,12 @@ c) Usernames are required and it's important to choose a good username.
 D) All of the above.
 
 {choose-answers: 4}
-? Which of these is NOT an appropriate username?
+?2 Which of these is NOT an appropriate username?
 
 C) BigDaddy17
+C) YerMama29
+C) YouSmell17
+C) Stupid5
 o) JaneDoe
 o) Faith_Allen
 o) Kareem.Smith
@@ -59,6 +62,15 @@ o) KarenJones
 o) Coretta_King
 o) JamesTaylor
 
+?3 TRUE or FALSE? It's best to have a different username for each account.
+
+a) True
+B) FALSE
+
+?3 TRUE or FALSE? It's helpful to have the same username across accounts.
+
+A) True
+b) FALSE
 
 {/quiz}
 

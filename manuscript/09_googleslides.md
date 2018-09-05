@@ -91,6 +91,8 @@ This will bring up a new box indicating that your link has been copied. This is 
 ? When making a Google Slides presentation, what should you do?
 
 C) Use pictures instead of words when possible.
+C) Use font that's large enough.
+C) Use large pictures.
 o) Put lots of words on each slide. 
 o) Always use full sentences.
 o) Keep the font small to ensure that you can include lots of information

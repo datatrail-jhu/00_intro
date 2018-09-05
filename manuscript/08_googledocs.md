@@ -78,6 +78,8 @@ A new screen will pop up informing you that your link has been copied. This is t
 
 C) Making slideshow presentations.
 C) Storing data in spreadsheets.
+C) Makinng phone calls.
+C) Chatting with colleagues.
 o) Keeping notes about projects. 
 o) Sharing results with people you work with.
 o) Creating and editing word documents.

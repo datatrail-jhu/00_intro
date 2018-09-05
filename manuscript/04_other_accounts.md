@@ -175,6 +175,7 @@ o) Twitter
 ? What is R?
 
 C) a free programming language for statistical computing and graphing.
+C) a free programming language 
 m) a for-profit programming language used specifically by engineers.
 o) a platform where you can connect with and communicate with others.
 o) a message board where you post questions you have.
