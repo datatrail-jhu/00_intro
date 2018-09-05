@@ -90,9 +90,10 @@ In this lesson, we hope we've conveyed that sometimes data science projects are 
 ### The Data Science Process quiz
 
 {choose-answers: 4}
-? Which of these is NOT an effective way to communicate the findings of your analysis?
+?1 Which of these is NOT an effective way to communicate the findings of your analysis?
 
 C) save code locally on your computer
+C) print code out and store in a desk drawer
 o) write a blog post
 o) publish a paper 
 o) publish a news article 
@@ -101,9 +102,11 @@ o) write a report for your boss
 o) give a talk at a conference and make materials available online
 
 {choose-answers: 4}
-? What's the first step in the data science process?
+?2 What's the first step in the data science process?
 
 C) generating the question
+C) figuring out the question 
+C) determining the question
 o) writing up the results
 o) analyzing the data
 o) getting the data
@@ -114,18 +117,19 @@ o) using statistics to analyze the data
 o) generating plots to understand the data
 
 {choose-answers: 4}
-? Why should you include links or citations to others' work?
+?3 Why should you include links or citations to others' work?
 
 C) It gives credit to the work of others. 
+C) It helps other quickly find information you've referenced.
 o) It's necessary to get your analysis started.
 o) You shouldn't. Your work is the only work that matters.
 o) Links break on the Internet from time to time.
-o) Citations are unreliable
+o) Citations are unreliable.
 o) Referencing others' work minimizes the impact of your work.
 o) Others' work is more important than yours.
 
 {choose-answers: 4}
-? What does Hilary Parker suggest led to the popularity of the name "Dewey" in the late 1800s?
+?4 What does Hilary Parker suggest led to the popularity of the name "Dewey" in the late 1800s? (You may have to reference [Hilary's blog post ](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) for this question.
 
 C) People named their daughters after George Dewey, after the Spanish-American War 
 o) People named their daughters after Farrah Dewey, after Charlie's Angels 
@@ -134,5 +138,15 @@ o) People named their daughters after Dewey Catina, from the soap opera *Where t
 o) People named their daughters after Khadijah Dewey, from the show *Living Single*
 o) People named their daughters after Marian Dewey, due to the Catholic Dewey Year
 
+{choose-answers: 4}
+?4 What does Hilary Parker suggest led to the increased popularity of the name "Khadijah" in the  1990s?(You may have to reference [Hilary's blog post ](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) for this question.
+
+C) popularity of the character "Khadijah", played by Queen Latifah on Living Single
+o) popularity of the character "Khadijah", from the soap opera *Where the Heart Is*
+o) popularity of "Khadijah", a famous opera singer from the '90s
+o) popularity of  "Khadijah" was due to the Catholic Khadijah Year
+o) popularity of the name "Khadijah" spiked thanks to a famous general from the Spanish-American War 
+
+“Khadijah” was a character played by Queen Latifa in Living Single, and “Ashanti” was popular because of Ashanti, of course.
 
 {/quiz}

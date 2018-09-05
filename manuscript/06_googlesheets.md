@@ -121,18 +121,22 @@ Congrats! You have successfully made this spreadsheet shareable and the link has
 
 ### Google Sheets quiz
 
+{choose-answers:4}
 ? What information are we NOT collecting from Leanpub?
 
-a) book title
-b) number of readers
 C) maximum price
-d) suggested price
-e) minimum price
+C) author phone number
+C) author address
+o) book title
+o) number of readers
+o) suggested price
+o) minimum price
 
 {choose-answers: 4}
 ? What is a spreadsheet?
 
 C) A grid where you can store data.
+C) A document where data are stored in cells
 o) A word document where you would type a novel.
 o) A great place to make a slide presentation.
 o) An online banking website.

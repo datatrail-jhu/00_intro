@@ -117,15 +117,16 @@ D) All of the above.
 {choose-answers: 4}
 ? Which of the following is not a part of data science ?
 
-C) Building new databases.
+C) Setting up a computer cluster.
+C) Acting as a sys admin.
+C) Building a car from parts.
+C) Building a computer from parts
 o) Collecting and cleaning data.
 o) Creating models for the data.
 o) Communicating models and data.
 o) Working with data.
 o) Analyzing datasets.
 o) Answering questions with data.
-
-
 
 {choose-answers: 4}
 ? Who is this class designed for? 

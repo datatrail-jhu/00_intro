@@ -55,4 +55,16 @@ o) R programming language
 o) plot or figure
 o) generate R
 
+{choose-answers: 4}
+? When you're stuck on something related to programming in R, where is one place you could turn to for help?
+
+C) StackOverflow
+C) RStudio Community
+C) Google
+o) A book from the 1700s
+o) The Encyclopedia Britannica
+o) A cookbook
+o) A Python programming book
+o) A Perl programming book
+
 {/quiz}

@@ -83,9 +83,10 @@ The information here gets you started on DataCamp's Introduction to R course; ho
 This is the DataCamp quiz
 
 {choose-answers: 4}
-? What will we use DataCamp for?
+? What is DataCamp used for?
 
 C) Learning to program in R
+C) Getting practice with R
 o) Making presentations of data analyses
 o) Writing textbooks
 o) Learning database management

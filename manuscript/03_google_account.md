@@ -66,6 +66,7 @@ Enter your new Google account name here. Click 'Next'. Enter your password. Clic
 ? Which of these is NOT something your Google Login can be used as?
 
 C) a credit card
+C) a Skype Username
 o) a way access to Google products
 o) an email (Gmail) address
 o) a login to the Chromebook
