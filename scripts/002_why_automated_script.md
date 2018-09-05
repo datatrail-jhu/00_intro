@@ -14,7 +14,6 @@ So when we sat down to develop our new process for creating and maintaining our 
 
 By a happy coincidence, the data science and artificial intelligence communities were solving a huge part of this problem for us, improving text to voice synthesis! So we could now write a script for a video and use Amazon Polly to synthesize our voices! 
 
-
 To take advantage of this new technology we created two new R packages: ari and didactr. Ari will take a script and a set of Google Slides and narrate the script over the slides using Amazon Polly. It will also generate the closed caption file needed to include captions and ensure that the videos are accessible to those with hearing impairment. didactr automates several of the steps from creating the videos with ari, to uploading them to Youtube, so that we can quickly make edits to the scripts or slides, remake the videos, re-upload them and reduce our maintainence overhead for keeping our content fresh.  
 
 Whenever we change the text file or edit the slides we can recreated the video in a couple of minutes. Everything is done in R. One of the coolest features of going to this new process is showing you how powerful the R programming langauge is. This is the main language you will learn in this program and we hope you will be able to build cool things like this system by the time you are done with our courses. 
@@ -26,4 +25,3 @@ Second, by using this process we have made our instruction more accessible. Sinc
 Finally, a cool feature of using text to speech synthesis is that our videos will keep getting better as the voice synthesis software improves. It means tha we can change the voice to different voices. Ultimately, it will alow us to translate our courses into different languages quickly and automatically using machine learning. We think this highlights the incredible power of data science and artificial intelligence to improve the world. 
 
 If you find the robot voice annoying, we get it. We know that the technology isn't perfect yet. That's why we've made the written lecture material reflect as closely as possible the video lectures. So you can pick how you want to consume our classes. We hope that this change will allow us to better serve you with the best content at the fastest speed. Thanks for participating in this new phase of course development with us! 
-

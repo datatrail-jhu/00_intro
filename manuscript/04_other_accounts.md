@@ -139,7 +139,7 @@ You now have a GitHub account *and* all of the online accounts needed for this p
 
 ### Slides and Video
 
-![Other Accounts Setup](https://www.youtube.com/watch?v=oYWQpi3xS64)
+![Other Accounts Setup](https://www.youtube.com/watch?v=VIRRRo5kn7U)
 
 * [Slides](https://docs.google.com/presentation/d/1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A/edit?usp=sharing)
 

@@ -40,13 +40,13 @@ Now that you're a little familiar with RStudio Cloud, we can get started on usin
 
 > "How does the price of a bestselling book relate to how much the author is charging for that book?"
 
-To start working in RStudio Cloud, open up a new tab by pressing _ctrl_ and pressing _t_, then copy this URL and paste it into your web browser https://rstudio.cloud/spaces/906/join?access_code=aJYLCFYdCmMZLMsnMbpqboDBAPCVdHiwn2rtJ4Gw. If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account. 
+To start working in RStudio Cloud, open up a new tab by pressing _ctrl_ and pressing _t_, then copy this URL and paste it into your web browser [http://bit.ly/cbds_projects](http://bit.ly/cbds_projects). If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account. 
 
-You should now see a page that looks like this. You should see a Project listed that is called "Leanpub Project".
+You should now see a page that looks like this. You should see a Project listed that is called "leanpub_project".
 
 ![rstudio.cloud projects home page](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-10.png)
  
-On the right-hand side, you should see a blue "New Project" button. Click on this. 
+On the right-hand side, you should see an icon to "Copy" the project. Click on this icon. 
 
 ![rstudio.cloud new project](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-11.png)
 
@@ -54,7 +54,7 @@ You should now see a page that looks like this across the top.
 
 ![rstudio.cloud project page](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-12.png)
 
-You'll first want to title your project. Click on 'Untitled Project' at the top and begin typing. Title it with 'leanpub_project_lastname'. So, for example if your last name were Doe, the project would be titled 'leanpub_project_doe'. You're ready to get going!
+You'll first want to title your project. Click on 'leanpub_project' at the top and begin typing. Title it with 'leanpub_project_lastname'. So, for example if your last name were Doe, the project would be titled 'leanpub_project_doe'. You're ready to get going!
 
 ![rstudio.cloud project named](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-13.png)
 
@@ -110,7 +110,7 @@ Once you have your plot, you have what you need to make the Google Doc and finis
 
 ### Slides and Video
 
-![RStudio Cloud](https://www.youtube.com/watch?v=sgxSzDvoIrQ)
+![RStudio Cloud](https://www.youtube.com/watch?v=6fviuqQK8aI)
 
 * [Slides](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/edit?usp=sharing)
 
