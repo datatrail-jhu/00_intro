@@ -119,6 +119,7 @@ Once you have your plot, you have what you need to make the Google Doc and finis
 
 # RStudio Cloud quiz
 
+{choose-answers: 4}
 ? What is RStudio Cloud primarily used for?
 
 C) Running code, doing data analysis, and generating plots.
@@ -129,6 +130,7 @@ o) Calling your family members.
 o) All of the above
 o) None of the above.
 
+{choose-answers: 4}
 ? What does it mean that a programming language is object-oriented?
 
 C) As you run code, objects are created to store information
