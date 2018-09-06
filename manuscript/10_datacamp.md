@@ -82,7 +82,7 @@ The information here gets you started on DataCamp's Introduction to R course; ho
 
 This is the DataCamp quiz
 
-{choose-answers: 4}
+{choose-answers:4}
 ? What is DataCamp used for?
 
 C) Learning to program in R
