@@ -87,7 +87,7 @@ This program is a series of online classes. They are designed to be used in many
     * Ungraded exercises to practice what you have learned
     * Graded quizzes to measure what you have learned
     * Projects to help you build a portfolio for showing what you've learned
-* __Bundles__: Bundles are groups of courses that form credentials. We have created multiple different Bundles from the Chromebook Data Science courses. This is so that you can tailor your program to your background and skills when you start the program. Bundles may cover the same material but may have different starting points to allow people to skip over skills they are already comfortable with. 
+* __Course Set__: A Course Set is a group of courses that form credentials. We will be creating multiple different Course Sets from the Chromebook Data Science courses. This is so that you can tailor your program to your background and skills when you start the program. Course Sets may cover the same material but may have different starting points to allow people to skip over skills they are already comfortable with. 
 
 If you feel the material you are beginning with is too slow, consider jumping ahead in the series to courses that are more challenging. Or stick around and help other people through the courses! To keep up on the latest information about the program, courses and more go to http://jhudatascience.org/chromebookdatascience.
 
@@ -98,7 +98,7 @@ This first class is designed to get you set up with the accounts you will use as
 
 ### Slides and Video
 
-![Welcome to Chromebook Data Science](https://www.youtube.com/watch?v=rPJI-isRGpc)
+![Welcome to Chromebook Data Science](https://www.youtube.com/watch?v=kRafwOxmTgo)
 
 [Slides](https://docs.google.com/presentation/d/18q2gRHXGZxBL7pSWcQg_HThmgoo5qDeO9O372QkAnYU/edit?usp=sharing)
 

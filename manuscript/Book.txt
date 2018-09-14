@@ -2,6 +2,7 @@
 001_program_philosophy.md
 002_why_automated.md
 003_data_science_process.md
+004_how_to_learn.md
 01_finding_help.md
 02_account_setup.md
 03_google_account.md
