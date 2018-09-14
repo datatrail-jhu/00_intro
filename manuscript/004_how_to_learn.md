@@ -29,7 +29,7 @@ First and foremost, the best way to learn data science is by doing it. Throughou
 
 #### The Mindset
 
-To learn how to learn, it's important to know just how important your midset is. Your goal should be to answer an interesting question. Your objective is *not* to memorize a bunch of functions. It's to *use those functions* to do something interesting. The path to accomplishing that goal may be ciruitous. You may take a few steps backward and experience a setback or two before moving forward. That's ok! 
+To learn how to learn, it's important to know just how important your mindset is. Your goal should be to answer an interesting question. Your objective is *not* to memorize a bunch of functions. It's to *use those functions* to do something interesting. The path to accomplishing that goal may be circuitous. You may take a few steps backward and experience a setback or two before moving forward. That's ok! 
 
 ![mindset](images/004_how_to_learn/004_cdsintro_how_to_learn-5.png)
 
@@ -52,13 +52,13 @@ Any one of these would be a reasonable approach. We use this example to explain 
 
 #### Asking For Help
 
-While we'll point out where to find help when you're stuck throughout this course set; however, it may not be obvious *when* to ask for help. While this is not a hard and fast rule, if you've been trying to find the answer to something you're stuck on for half an hour and cannot figure it out, it may be time to post your question online for someone else to answer or to reach out directly to someone to get your question answered. During the half hour when you're trying on your own, you should **Google for the answer**. If it's a coding question, you should try **running code** to test to see if the fixes from Google fix your proble,. If you're getting **error messages**, paste those messages into Google. If after trying all of these things you're still stuck, then you should **ask for help** *every time*. Rather than give up because you're stuck, **ask questions**!
+While we'll point out where to find help when you're stuck throughout this course set; however, it may not be obvious *when* to ask for help. While this is not a hard and fast rule, if you've been trying to find the answer to something you're stuck on for half an hour and cannot figure it out, it may be time to post your question online for someone else to answer or to reach out directly to someone to get your question answered. During the half hour when you're trying on your own, you should **Google for the answer**. If it's a coding question, you should try **running code** to test to see if the fixes from Google fix your problem. If you're getting **error messages**, paste those messages into Google. If after trying all of these things you're still stuck, then you should **ask for help** *every time*. Rather than give up because you're stuck, **ask questions**!
 
 ![Ask Questions](images/004_how_to_learn/004_cdsintro_how_to_learn-9.png)
 
 ### Summary
 
-Learing how to learn and asking questions may seem simple when you read this lesson, but in practice it can be tough. It's *hard* to admit you don't know something and it can be difficult sometimems to explain what it is you don't know. Try anyway! Everyone was a beginner at some point. Those who moved from beginner to advanced did so because they learned the material, practiced *and* because they asked questions along the way. We'll remind you of the information included in this lesson throughout the course set because while it's easy to read the information here, it's not always easy to remember it when you're struggling!
+Learning how to learn and asking questions may seem simple when you read this lesson, but in practice it can be tough. It's *hard* to admit you don't know something and it can be difficult sometimes to explain what it is you don't know. Try anyway! Everyone was a beginner at some point. Those who moved from beginner to advanced did so because they learned the material, practiced *and* because they asked questions along the way. We'll remind you of the information included in this lesson throughout the course set because while it's easy to read the information here, it's not always easy to remember it when you're struggling!
 
 ### Slides and Video
 
