@@ -16,11 +16,6 @@ That doesn't make failure easier. It will be **frustrating** from time to time, 
 
 ![process can be difficult](images/004_how_to_learn/004_cdsintro_how_to_learn-3.png)
 
-### Experienced Data Scientists Fail
-
-- videos : 4 people all try to learn to do the same process (including PhD + 10 years of experience) ; ignore what they're trying to do but see how many times they google 
-- this is how this works
-
 ### Learning How To Learn
 
 In addition to learning the basics of data science in this course set, we also want you to *learn how to learn*.
