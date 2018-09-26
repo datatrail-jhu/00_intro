@@ -61,13 +61,13 @@ Hilary's work was carried out using the R programming language. Throughout the c
 
 #### Prediction Risk of Opioid Overdoes in Providence, RI
 
-Masters students at the University of Pennsylvania set out to predict the risk of opioid overdoes in Providence, Rhode Island. They include [details on the data they used, the steps they took to clean their data, their visualization process, and their final results](https://pennmusa.github.io/MUSA_801.io/project_5/index.html). While the details aren't important now, seeing the process and what types of reports can be generated is important. Additionally, they've created a [Shiny App](https://jordanbutz.shinyapps.io/directory/), which is an interactive web application. This means that you can choose what neighborhood in Providence you want to focus on. All of this was built using R programming.
+Masters students at the University of Pennsylvania set out to predict the risk of opioid overdoses in Providence, Rhode Island. They include [details on the data they used, the steps they took to clean their data, their visualization process, and their final results](https://pennmusa.github.io/MUSA_801.io/project_5/index.html). While the details aren't important now, seeing the process and what types of reports can be generated is important. Additionally, they've created a [Shiny App](https://jordanbutz.shinyapps.io/directory/), which is an interactive web application. This means that you can choose what neighborhood in Providence you want to focus on. All of this was built using R programming.
 
 ![Prediction of Opioid Overdoses in Providence, RI]
 
 ### Other Cool Data Science Projects
 
-The following are smaller projects than the example above, but data science projects nonetheless! In each project, the author had a question they wanted to answer and used data to answer that question. They explored, visualized, and analyzed the data. Then, they wrote blog posts to communicate their findings. Take a look to learn more about the topics listed and to see how others' work through the data science project process and communicate their results! 
+The following are smaller projects than the example above, but data science projects nonetheless! In each project, the author had a question they wanted to answer and used data to answer that question. They explored, visualized, and analyzed the data. Then, they wrote blog posts to communicate their findings. Take a look to learn more about the topics listed and to see how others work through the data science project process and communicate their results! 
 
 * [Text analysis of Trump's tweets confirms he writes only the (angrier) Android half](http://varianceexplained.org/r/trump-tweets/), by [David Robinson](http://varianceexplained.org/about/)
 * [Where to Live in the US](http://www.masalmon.eu/2017/11/16/wheretoliveus/), by [Maelle Salmon](http://www.masalmon.eu/about/)
@@ -129,7 +129,7 @@ o) Referencing others' work minimizes the impact of your work.
 o) Others' work is more important than yours.
 
 {choose-answers: 4}
-?4 What does Hilary Parker suggest led to the popularity of the name "Dewey" in the late 1800s? (You may have to reference [Hilary's blog post ](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) for this question.
+?4 What does Hilary Parker suggest led to the popularity of the name "Dewey" in the late 1800s? (You may have to reference [Hilary's blog post](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) for this question.
 
 C) People named their daughters after George Dewey, after the Spanish-American War 
 o) People named their daughters after Farrah Dewey, after Charlie's Angels 
@@ -139,7 +139,7 @@ o) People named their daughters after Khadijah Dewey, from the show *Living Sing
 o) People named their daughters after Marian Dewey, due to the Catholic Dewey Year
 
 {choose-answers: 4}
-?4 What does Hilary Parker suggest led to the increased popularity of the name "Khadijah" in the  1990s?(You may have to reference [Hilary's blog post ](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) for this question.
+?4 What does Hilary Parker suggest led to the increased popularity of the name "Khadijah" in the  1990s? (You may have to reference [Hilary's blog post](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) for this question.
 
 C) popularity of the character "Khadijah", played by Queen Latifah on Living Single
 o) popularity of the character "Khadijah", from the soap opera *Where the Heart Is*
