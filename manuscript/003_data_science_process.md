@@ -38,7 +38,7 @@ That said, given that Hilary now had the necessary values calculated, she began 
 
 ![Biggest Drop Table](images/003_data_science_process/003_cdsintro_data_science_process-7.png)
 
-In looking at the results of this analysis, the first five years appeared peculiar to Hilary Parker. (It's always good consider whether or not the results were what you were expecting, from any analysis!) None of them seemed to be names that were popular for long periods of time. To see if this hunch was true, Hilary plotted the percent of babies born each year with each of the names from this table. What she found was that, among these "poisoned" names (names that experienced a big drop from one year to the next in popularity), all of the names other than Hilary became popular all of a sudden and then dropped off in popularity. Hilary Parker was able to figure out why most of these other names became popular, so definitely read that section of her post! The name, Hilary, however, was different. It was popular for a while and then completely dropped off in popularity.
+In looking at the results of this analysis, the first five years appeared peculiar to Hilary Parker. (It's always good to consider whether or not the results were what you were expecting, from any analysis!) None of them seemed to be names that were popular for long periods of time. To see if this hunch was true, Hilary plotted the percent of babies born each year with each of the names from this table. What she found was that, among these "poisoned" names (names that experienced a big drop from one year to the next in popularity), all of the names other than Hilary became popular all of a sudden and then dropped off in popularity. Hilary Parker was able to figure out why most of these other names became popular, so definitely read that section of her post! The name, Hilary, however, was different. It was popular for a while and then completely dropped off in popularity.
 
 ![14 most poisoned names over time](images/003_data_science_process/003_cdsintro_data_science_process-8.png)
 
@@ -63,7 +63,7 @@ Hilary's work was carried out using the R programming language. Throughout the c
 
 Masters students at the University of Pennsylvania set out to predict the risk of opioid overdoses in Providence, Rhode Island. They include [details on the data they used, the steps they took to clean their data, their visualization process, and their final results](https://pennmusa.github.io/MUSA_801.io/project_5/index.html). While the details aren't important now, seeing the process and what types of reports can be generated is important. Additionally, they've created a [Shiny App](https://jordanbutz.shinyapps.io/directory/), which is an interactive web application. This means that you can choose what neighborhood in Providence you want to focus on. All of this was built using R programming.
 
-![Prediction of Opioid Overdoses in Providence, RI]
+![Prediction of Opioid Overdoses in Providence, RI](images/003_data_science_process/003_cdsintro_data_science_process-12.png)
 
 ### Other Cool Data Science Projects
 
