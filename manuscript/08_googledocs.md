@@ -64,7 +64,7 @@ A new screen will pop up informing you that your link has been copied. This is t
 
 ### Slides and Video
 
-![Google Docs](https://www.youtube.com/watch?v=-4voj_XiSq0)
+![Google Docs](https://www.youtube.com/watch?v=mXP6sLHfx80)
 
 * [Slides](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/edit?usp=sharing)
 

@@ -35,7 +35,7 @@ The best way to get a response to your question is to be able to boil it down to
 * Know specific websites where you can get help - while Google is generally a great place to start, sometimes it can be helpful to know specific websites where you can get help. [StackOverflow](www.stackoverflow.com) and the [RStudio Community](https://community.rstudio.com/c/tidyverse) will likely be helpful places as you learn to program in R. These resources will be covered in detail in a future course; however, it's good at this point to know they exist
 
 
-![Finding Help](https://www.youtube.com/watch?v=VGjpBUttn-k)
+![Finding Help](https://www.youtube.com/watch?v=kSlnMJQi2ns)
 
 * [Slides](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/edit?usp=sharing)
 

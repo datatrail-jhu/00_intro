@@ -26,7 +26,7 @@ By a happy coincidence, the data science and artificial intelligence communities
 To take advantage of this new technology we created two new R packages: [ari](https://cran.r-project.org/web/packages/ari/index.html) and [didactr](https://github.com/muschellij2/didactr).
 
 
-Ari will take a script and a set of Google Slides and narrate the script over the slides using Amazon Polly. It will also generate the closed caption file needed to include captions and ensure that the videos are accessible to those with hearing impairment. didactr automates several of the steps from creating the videos with ari, to uploading them to YouTube, so that we can quickly make edits to the scripts or slides, remake the videos, re-upload them and reduce our maintainence overhead for keeping our content fresh.  
+Ari will take a script and a set of Google Slides and narrate the script over the slides using Amazon Polly. It will also generate the closed caption file needed to include captions and ensure that the videos are accessible to those with hearing impairment. `didactr` automates several of the steps from creating the videos with `ari`, to uploading them to YouTube, so that we can quickly make edits to the scripts or slides, remake the videos, re-upload them and reduce our maintenance overhead for keeping our content fresh.  
 
 Whenever we change the text file or edit the slides we can recreate the video in a couple of minutes. Everything is done in R. One of the coolest features of going to this new process is showing you how powerful the R programming language is. This is the main language you will learn in this program and we hope you will be able to build cool things like this system by the time you are done with our courses. 
 
@@ -40,6 +40,6 @@ If you find the robot voice annoying, we get it. We know that the technology isn
 
 ### Slides and Video
 
-![Why Automated Videos](https://www.youtube.com/watch?v=iYSdDfbYPNU)
+![Why Automated Videos](https://www.youtube.com/watch?v=msxLphndCYE)
 
 * [Slides](https://docs.google.com/presentation/d/1FtdynwBR8IAE8x9cMTZrnWKfTPXEhH-KwkAZKQ0zwk8/edit?usp=sharing)

@@ -2,7 +2,7 @@ Like Google Sheets, Google Docs is an online and free program, but instead of be
 
 To begin, you'll open a new tab by typing control and t at the same time. In the web address bar you'll go to 'www.docs.google.com'. This will bring you to the homepage for Google Docs. To get started with a blank document you'll click on the 'Blank' document at the left top of the screen.
 
-This will open a Blank Google Doc. You're now ready to get started working in Google Docs. You could just start typing in the document; however, for your Leanpub data science project, you'll want to first change the name of the document. To do so, click at the top of the document where it says 'Untitled document' and type leanpub underscore project underscore lastname.
+This will open a Blank Google Doc. You're now ready to get started working in Google Docs. You could just start typing in the document; however, for your Leanpub data science project, you'll want to first change the name of the document. To do so, click at the top of the document where it says 'Untitled document' and type leanpub underscore project underscore last name.
 
 So if your last name were Doe, the title of this document would be leanpub underscore project underscore doe.
 
