@@ -51,9 +51,12 @@ To figure out what was specifically going on with the name Hilary, she removed n
 The final step in this data analysis process was, once Hilary Parker had answered her question on her computer, it was time to share it with the world. An important part of any data science project is effectively communicating the results of the project. Hilary did so by writing a wonderful blog post that communicated the results of her analysis, answered the question she set out to answer, and did so in an entertaining way. 
 
 Additionally, it's important to note that most projects build off someone else's work. It's *really* important to give those people credit. Hilary accomplishes this by:
+
 * linking to a [blog post](http://stuartbuck.blogspot.com/2003/09/hillary-is-most-poisoned-baby-name-in.html) where someone had asked a similar question previously
 * linking to the [Social Security website](https://www.ssa.gov/OACT/babynames/) website where she got the data
 * linking to a link about where she [learned about web scraping](http://syntaxi.net/2013/01/20/storyboard/)
+
+
 
 ### What you can build using R
 
@@ -80,7 +83,7 @@ In this lesson, we hope we've conveyed that sometimes data science projects are 
 
 ### Slides and Video
 
-![The Data Science Process](https://www.youtube.com/watch?v=jypDp-DXx9A)
+![The Data Science Process](https://www.youtube.com/watch?v=n5UQzWJjJzw)
 
 * [Slides](https://docs.google.com/presentation/d/1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8/edit?usp=sharing)
 
@@ -146,7 +149,5 @@ o) popularity of the character "Khadijah", from the soap opera *Where the Heart 
 o) popularity of "Khadijah", a famous opera singer from the '90s
 o) popularity of  "Khadijah" was due to the Catholic Khadijah Year
 o) popularity of the name "Khadijah" spiked thanks to a famous general from the Spanish-American War 
-
-“Khadijah” was a character played by Queen Latifa in Living Single, and “Ashanti” was popular because of Ashanti, of course.
 
 {/quiz}

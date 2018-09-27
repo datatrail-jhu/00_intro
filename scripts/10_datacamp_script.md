@@ -10,7 +10,7 @@ This will open a drop-down menu. From this menu, you will select 'Introduction t
 
 This will bring you to the course page for 'Introduction to R.' Here you will click 'Start Course For Free.'
 
-This will open up the DataCamp course. This layout will be used throughout the course and should look somewhat familiar. It is similar to RStudio Cloud in that you have a place where you will write your code called SCRIPT dot R and a place where that code will run called the R CONSOLE. However, DataCamp is different in that it has lessons and exercises to help teach you how to code in the programming language R. The information you need to learn will always be on the left side of the DataCamp window. At the top there will be an 'EXERCISE.' The text in here will explain what you need to know to complete the lesson.
+This will open up the DataCamp course. This layout will be used throughout the course and should look somewhat familiar. It is similar to R Studio Cloud in that you have a place where you will write your code called SCRIPT dot R and a place where that code will run called the R CONSOLE. However, DataCamp is different in that it has lessons and exercises to help teach you how to code in the programming language R. The information you need to learn will always be on the left side of the DataCamp window. At the top there will be an 'EXERCISE.' The text in here will explain what you need to know to complete the lesson.
 
 Below the 'EXERCISE' is the 'INSTRUCTIONS' section. This window will include the specific instructions for what you will need to do before continuing on to the next part of the course.
 
@@ -20,7 +20,7 @@ Now that you know where to find instructions, you're ready to start learning how
 
 The code you write will then execute, or be carried out in the R CONSOLE in the bottom right-hand corner of the screen. 
 
-In order to run a line of code, you can first highlight the line you want to run. You then click on 'Run Code.' This will send the code to the console to execute. In this example, you will see that R acts as a calculator. When you run the code '3 + 4' in the R Console, you get back that the answer is '7.'
+In order to run a line of code, you can first highlight the line you want to run. You then click on 'Run Code.' This will send the code to the console to execute. In this example, you will see that R acts as a calculator. When you run the code '3 plus 4' in the R Console, you get back that the answer is '7.'
 
 Once you've completed the task asked of you in the instructions section and clicked 'Run Code' to test your answer, you can then click 'Submit Answer.'
 
