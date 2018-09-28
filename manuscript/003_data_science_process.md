@@ -30,7 +30,7 @@ As explained in the blog post, Hilary was interested in calculating the relative
 
 ##### Exploratory Data Analysis
 
-What you don't see in the blog post is all of the code Hilary wrote to get the data from the [Social Security website](https://www.ssa.gov/OACT/babynames/), to get it in the format she needed to do the analysis, and to generate the figures. As mentioned above, she made all this code [available on GitHub](https://github.com/hilaryparker/names) so that other's could see what she did and repeat her steps if they wanted. In addition to this code, data science projects often involve writing a lot of code and generating a lot of figures that aren't included in your final results. This is part of the data science process too. Figuring out *how* to do what you want to do to answer your question of interest is part of the process, doesn't always show up in your final project, and can be very time-consuming.
+What you don't see in the blog post is all of the code Hilary wrote to get the data from the [Social Security website](https://www.ssa.gov/OACT/babynames/), to get it in the format she needed to do the analysis, and to generate the figures. As mentioned above, she made all this code [available on GitHub](https://github.com/hilaryparker/names) so that others could see what she did and repeat her steps if they wanted. In addition to this code, data science projects often involve writing a lot of code and generating a lot of figures that aren't included in your final results. This is part of the data science process too. Figuring out *how* to do what you want to do to answer your question of interest is part of the process, doesn't always show up in your final project, and can be very time-consuming.
 
 ##### Data Analysis Results
 
@@ -62,7 +62,7 @@ Additionally, it's important to note that most projects build off someone else's
 
 Hilary's work was carried out using the R programming language. Throughout the courses in this series, you'll learn the basics of programming in R, exploring and analyzing data, and how to build reports and web applications that allow you to effectively communicate your results. To give you an example of the types of things that can be built using the R programming and suite of available tools that use R, below are a few examples of the types of things that have been built using the data science process and the R programming language - the types of things that you'll be able to generate by the end of this series of courses.
 
-#### Prediction Risk of Opioid Overdoes in Providence, RI
+#### Prediction Risk of Opioid Overdoses in Providence, RI
 
 Masters students at the University of Pennsylvania set out to predict the risk of opioid overdoses in Providence, Rhode Island. They include [details on the data they used, the steps they took to clean their data, their visualization process, and their final results](https://pennmusa.github.io/MUSA_801.io/project_5/index.html). While the details aren't important now, seeing the process and what types of reports can be generated is important. Additionally, they've created a [Shiny App](https://jordanbutz.shinyapps.io/directory/), which is an interactive web application. This means that you can choose what neighborhood in Providence you want to focus on. All of this was built using R programming.
 
