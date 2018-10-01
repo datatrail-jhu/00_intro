@@ -53,7 +53,7 @@ The final step in this data analysis process was, once Hilary Parker had answere
 Additionally, it's important to note that most projects build off someone else's work. It's *really* important to give those people credit. Hilary accomplishes this by:
 
 * linking to a [blog post](http://stuartbuck.blogspot.com/2003/09/hillary-is-most-poisoned-baby-name-in.html) where someone had asked a similar question previously
-* linking to the [Social Security website](https://www.ssa.gov/OACT/babynames/) website where she got the data
+* linking to the [Social Security website](https://www.ssa.gov/OACT/babynames/) where she got the data
 * linking to a link about where she [learned about web scraping](http://syntaxi.net/2013/01/20/storyboard/)
 
 
