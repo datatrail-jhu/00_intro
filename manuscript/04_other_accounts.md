@@ -1,6 +1,6 @@
 # Other Accounts Setup
 
-In addition to having a Google username, there are a number of other accounts to which you'll need access. By the end of this lesson, you will hav set up a number of different accounts. While this may seem like a lot of work now, it will get you set up with *all* the accounts you'll need throughout this series of courses. The time you spend now will pay off later! Right now, we'll walk through each one briefly, get you set up with an account, and discuss what the account is used for.
+In addition to having a Google username, there are a number of other accounts to which you'll need access. By the end of this lesson, you will have set up a number of different accounts. While this may seem like a lot of work now, it will get you set up with *all* the accounts you'll need throughout this series of courses. The time you spend now will pay off later! Right now, we'll walk through each one briefly, get you set up with an account, and discuss what the account is used for.
 
 ### LinkedIn Account
 
