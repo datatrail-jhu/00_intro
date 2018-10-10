@@ -8,7 +8,7 @@ So if your last name were Doe, the title of this document would be leanpub under
 
 In this document, you'll want to include a short summary about what question you were asking, what data you collected, and where these data were collected from in a section titled "Summary". You'll then want to paste your results and explain what you see in the plot you generated in a "Results" section. Finally you'll type your conclusions about how the price of a bestselling book relates to how much the author is charging for that book in a "Conclusion" section. 
 
-In order to get the plot that you will paste into your report, you'll start a new tab by typing control and t at the same time and going to https://goo.gl/4SyXhb. You should see your project here. You will click on that project. The analysis you already carried out will be here. To copy the plot you generated, click on 'Export' in the 'Plots' tab in the bottom right-hand of the R Studio Cloud window. 
+In order to get the plot that you will paste into your report, you'll start a new tab by typing control and t at the same time and going to http://bit.ly/cbds_projects. You should see your project here. You will click on that project. The analysis you already carried out will be here. To copy the plot you generated, click on 'Export' in the 'Plots' tab in the bottom right-hand of the R Studio Cloud window. 
 
 Then, click on 'Copy to Clipboard.' 
 
@@ -16,7 +16,7 @@ Your plot will pop up in a new window. With your cursor over the plot that pops 
 
 On this menu, select, 'Copy Image.' 
 
-You can now return to Google Docs, place your cursor where you'd like the plot to go, tap the mouse keypad with two fingers at the same time to bring up a new menu, and click 'Paste' to paste your plot from RStudio cloud in your Google Doc.
+You can now return to Google Docs, place your cursor where you'd like the plot to go, tap the mouse keypad with two fingers at the same time to bring up a new menu, and click 'Paste' to paste your plot from RStudio Cloud in your Google Doc.
 
 Your plot will now be in your Google Doc!
 

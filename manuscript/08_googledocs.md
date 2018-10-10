@@ -23,7 +23,7 @@ In this document, you'll want to include a short summary about what question you
 
 ![Google Doc Report sample](images/08_googledocs/08_cdsintro_googledocs-4.png)
 
-In order to get the plot to paste into your report, you'll start a new tab by typing _ctrl_ and _t_ at the same time and going to https://rstudio.cloud/spaces/906/join?access_code=aJYLCFYdCmMZLMsnMbpqboDBAPCVdHiwn2rtJ4Gw. You should see your project here. You will click on that project. The analysis you already carried out will be here. To copy the plot you generated, click on 'Export' in the 'Plots' tab in the bottom right-hand of the RStudio window. 
+In order to get the plot to paste into your report, you'll start a new tab by typing _ctrl_ and _t_ at the same time and going to http://bit.ly/cbds_projects. You should see your project here. You will click on that project. The analysis you already carried out will be here. To copy the plot you generated, click on 'Export' in the 'Plots' tab in the bottom right-hand of the RStudio window. 
 
 ![Export in rstudio.cloud](images/08_googledocs/08_cdsintro_googledocs-5.png)
 
@@ -64,7 +64,7 @@ A new screen will pop up informing you that your link has been copied. This is t
 
 ### Slides and Video
 
-![Google Docs](https://www.youtube.com/watch?v=mXP6sLHfx80)
+![Google Docs](https://www.youtube.com/watch?v=7Lja3bbXY6o)
 
 * [Slides](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/edit?usp=sharing)
 
