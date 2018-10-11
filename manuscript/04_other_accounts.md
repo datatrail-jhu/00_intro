@@ -4,7 +4,7 @@ In addition to having a Google username, there are a number of other accounts to
 
 ### LinkedIn Account
 
-[LinkedIn](www.linkedin.com) is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online (like an online resume), has a space where you can look for jobs, and can put you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
+[LinkedIn](http://www.linkedin.com) is a social networking site for employment. Think of it as Facebook for getting a job. It allows you to put your qualifications online (like an online resume), has a space where you can look for jobs, and can put you in contact with employers. Don't worry about the details now. Through this program, you will have the chance to set up your LinkedIn gradually. For right now, we're just worried about getting this account set up. 
 
 To begin set up, you'll go to the web address bar in your Chrome browser. You will type www.linkedin.com and hit 'Enter.' 
 
@@ -40,7 +40,7 @@ While other boxes may pop up for you to go further on LinkedIn and get your prof
 
 ### Twitter Account
 
-The second account you will need will be a [Twitter](www.twitter.com) account. You may already be familiar with Twitter; however, data scientists tend to use Twitter for work rather than socializing. Twitter is a social media platform where users can "post and interact with messages." These messages are known as 'tweets.' Twitter is a great place to learn new things, connect with other data scientists, and to ask/answer questions quickly.
+The second account you will need will be a [Twitter](http://www.twitter.com) account. You may already be familiar with Twitter; however, data scientists tend to use Twitter for work rather than socializing. Twitter is a social media platform where users can "post and interact with messages." These messages are known as 'tweets.' Twitter is a great place to learn new things, connect with other data scientists, and to ask/answer questions quickly.
 
 You will need a professional Twitter account for our program. If you already have a Twitter account you use for personal tweets and communicating with friends you should still create a new, professional account where you will only post professional links and interact with other data scientists. 
 
@@ -74,7 +74,7 @@ Congrats! You now have a Twitter account!
 
 ### Slack Account
 
-[Slack](www.slack.com) is a place where teams of people can easily communicate and work together on a project. As a data scientist, you are often working in a group on a project. Slack is a place where everyone working on that project can communicate. Slack is where communication throughout this course will happen. You will be able to ask questions, answer questions, and communicate with others on Slack about the things you are learning and the projects you are working on.
+[Slack](http://www.slack.com) is a place where teams of people can easily communicate and work together on a project. As a data scientist, you are often working in a group on a project. Slack is a place where everyone working on that project can communicate. Slack is where communication throughout this course will happen. You will be able to ask questions, answer questions, and communicate with others on Slack about the things you are learning and the projects you are working on.
 
 To get a slack account, you will first open a new tab in your browser by typing _ctrl_ and _t_. Once you have a new tab open, you will type 'www.slack.com' at the top of your browser in the web address bar. 
 
@@ -107,7 +107,7 @@ Then, click 'Create Account' and you're all set! You now have an RStudio Cloud a
 
 ### DataCamp Account
 
-[DataCamp](www.datacamp.com) is an online platform where people learn Data Science. Throughout this program, you will take courses and do exercises on DataCamp to ensure that you are acquiring the skills necessary to be a successful data scientist.
+[DataCamp](http://www.datacamp.com) is an online platform where people learn Data Science. Throughout this program, you will take courses and do exercises on DataCamp to ensure that you are acquiring the skills necessary to be a successful data scientist.
 
 Getting a DataCamp account will be very similar to getting an rstudio.cloud account because you can again sign in using your Google account. To do so, go to www.datacamp.com. 
 
@@ -125,7 +125,7 @@ And, just like that, you have a DataCamp account!
 
 ### GitHub Account
 
-[GitHub](www.github.com) is a website that hosts computer code and allows for version control. We'll get back to what version control is later, but as for now, know that GitHub is where you'll be 'saving' all of the code you write. It's also a place where you can look at other people's code. And, throughout this program, you'll realize that you can learn a lot from other people's code!
+[GitHub](http://www.github.com) is a website that hosts computer code and allows for version control. We'll get back to what version control is later, but as for now, know that GitHub is where you'll be 'saving' all of the code you write. It's also a place where you can look at other people's code. And, throughout this program, you'll realize that you can learn a lot from other people's code!
 
 To get a GitHub account, first type www.github.com into the web address bar at the top of your Chrome window and hit 'Enter'. 
 
