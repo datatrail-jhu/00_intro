@@ -92,7 +92,7 @@ Now you should be ready to run your code! You can do so all at once by highlight
 
 ![RStudio Cloud run code](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-19.png)
 
-You should see code running in the bottom left-hand panel. As code runs, there will be some output in red text, letting you know that the code is running. This red text does not mean anything is wrong. If the code runs, a plot should appear on the lower right hand side. 
+You should see code running in the bottom left-hand panel. As code runs, there will be some output in red text, letting you know that the code is running. **This red text does not mean anything is wrong.** Note that red text in RStudio sometimes is an error, while other times it is just providing you with information. If it says error, than it's an error. But, don't be alarmed that red text is appearing on your screen. If the code runs, a plot should appear on the lower right hand side. 
 
 ![RStudio Cloudwith plot](images/07_rstudio_cloud/07_cdsintro_rstudio_cloud-20.png)
 

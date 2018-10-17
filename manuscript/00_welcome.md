@@ -15,11 +15,11 @@ Hello and welcome! This is the first course in the _Chromebook Data Science_ pro
 Before we jump into the content, we just wanted to orient you to how this course and all the courses in this program will be laid out:
 
 * **Courses** - There are multiple courses in the _Chromebook Data Science_ program. The first one is "Introduction to Chromebook Data Science", which is the course you're in right now. 
-* **Chapters** - Each course will consist of chapters. You're looking at the first chapter here. It's called "Welcome to Chromebook Data Science". You can see a list of all the chapters in this course in the left panel. The chapters will contain text and images to walk you through every chapter of each course. 
-* **Videos** - At the end of each chapter there will be a link to a YouTube video. This video contains the same information as what is included in the text of the chapter; however, we know that some people learn better by listening. Sometimes you may find the videos more helpful. Sometimes you may find the text more helpful. These are included in case they are more helpful than the text to you personally.
-* **Slides** - Each chapter also has link at the bottom to an accompanying slide show. Feel free to look through these slides if you find them helpful. They are the same images that were used to generate the video.
-* **Quizzes** - Most chapters will have a quiz to evaluate your understanding of the material in that chapter. Successful completion of these quizzes is required for receipt of the certificate at the end of each course.
-* **Exercise** - A few of the courses will have associated exercises. Think of these as larger projects. They won't be required to receive the certificate at the end of the course; however, the skills the exercises require will be essential if you're interested in getting a job in data science, so we highly suggest you complete them. 
+* **Lessons** - Each course will consist of lessons. You're looking at the first lesson here. It's called "Welcome to Chromebook Data Science". You can see a list of all the lessons in this course in the left panel. The lessons will contain text and images to walk you through every lesson of each course. 
+* **Videos** - At the end of each lesson there will be a link to a YouTube video. This video contains the same information as what is included in the text of the lesson; however, we know that some people learn better by listening. Sometimes you may find the videos more helpful. Sometimes you may find the text more helpful. These are included in case they are more helpful than the text to you personally.
+* **Slides** - Each lesson also has link at the bottom to an accompanying slide show. Feel free to look through these slides if you find them helpful. They are the same images that were used to generate the video.
+* **Quizzes** - Most lessons will have a quiz to evaluate your understanding of the material in that lesson. Successful completion of these quizzes is required for receipt of the certificate at the end of each course.
+* **Exercise** - A few of the courses will have associated exercises. Think of these as larger projects. They won't be required to receive the certificate at the end of the course; however, the skills the exercises require will be essential if you're interested in getting a job in data science, so we highly suggest you complete them. Also, occassionally, there will be DataCamp exercises. DataCamp is a company that generates content to help people learn to code. These cost money and are not required for completion of the program; however, they will help you get additional practice if you choose to do them.
 
 ### What is data science? 
 
@@ -95,7 +95,7 @@ To keep up on the latest information about the program, courses and more go to h
 
 ### How this course is graded
 
-This first class is designed to get you set up with the accounts you will use as you learn to become a data scientist. You will also complete your first data science project. Each chapter will have a short quiz at the end. To pass the course you need to get 70% of the questions in the course correct. If you receive more than 90% of the points across all quizzes you will pass with honors. 
+This first class is designed to get you set up with the accounts you will use as you learn to become a data scientist. You will also complete your first data science project. Each lesson will have a short quiz at the end. To pass the course you need to get 70% of the questions in the course correct. If you receive more than 90% of the points across all quizzes you will pass with honors. 
 
 ### Slides and Video
 

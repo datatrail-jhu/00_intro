@@ -35,11 +35,11 @@ Why did we choose this approach instead of creating each piece of a lesson separ
 Finally, a cool feature of using text to speech synthesis is that our videos will keep getting better as the voice synthesis software improves. It means that we can change the voice to different voices. Ultimately, it will allow us to translate our courses into different languages quickly and automatically using machine learning. We think this highlights the incredible power of data science and artificial intelligence to improve the world. 
 
 
-If you find the robot voice annoying, we get it. We know that the technology isn't perfect yet. That's why we've made the written lecture material reflect as closely as possible the video lectures. So you can pick how you want to consume our classes. We hope that this change will allow us to better serve you with the best content at the fastest speed. Thanks for participating in this new phase of course development with us! 
+If you find the robot voice annoying, we get it. We know that the technology isn't perfect yet. That's why we've made the written lecture material reflect as closely as possible the video lectures. **This means that you don't have to watch these vidoes.** Using this setup, you can pick how you want to consume our classes. We hope that this change will allow us to better serve you with the best content at the fastest speed. Thanks for participating in this new phase of course development with us! 
 
 
 ### Slides and Video
 
-![Why Automated Videos](https://www.youtube.com/watch?v=msxLphndCYE)
+![Why Automated Videos](https://www.youtube.com/watch?v=sDtXGkz7bf4)
 
 * [Slides](https://docs.google.com/presentation/d/1FtdynwBR8IAE8x9cMTZrnWKfTPXEhH-KwkAZKQ0zwk8/edit?usp=sharing)
