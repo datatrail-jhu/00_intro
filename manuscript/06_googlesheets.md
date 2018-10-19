@@ -58,6 +58,7 @@ Now you are all set to start collecting data! To do this open another new tab by
 * You don't put dollar signs for the price, just include the number like "7.99."
 * If a book's minimum price is free, enter "0" in the cell.
 * If the book has no readers, put "0" in the cell.
+* If the book's author opted not to inlcude how many readers their book has, put "NA" in the "readers" column for that book.
 
 So for me, since the first book is "PowerShell 101" after getting the data for the first book my spreadsheet will look like this. 
 
@@ -71,7 +72,7 @@ Continue this process, entering each book into a new row. Collect information on
 
 Now that you've entered your data into the Google Sheet, we want to check for a few possible issues before moving on to make sure the data are formatted correctly. Double to make sure the following are true for the data in your spreadsheet:
 
-1. You have at least 11 rows (one header row and at least 10 books included)
+1. You have at least 11 rows with reader and minimum price information (one header row and at least 10 books included - if you have NAs anywhere, you'll want more than 11 books)
 2. Your dollar amounts do NOT have dollar signs next to them.
 3. Your number of readers does not include any commas.
 4. If a book's minimum price is FREE, you have put the number 0 in the cell, rather than "FREE"
