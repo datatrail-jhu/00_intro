@@ -20,41 +20,41 @@ We'll go into more details later, but there are three things to keep in mind any
 
 To get started, open a new tab in your browser by holding down _ctrl_ and _t_ at the same time and going to 'slides.google.com'. This will bring you to the Google Slides home page. To start a new presentation, click on the "Blank" presentation at left. 
 
-![Google Slides Home](images/09_googleslides/09_cdsintro_googleslides-3.png)
+![Google Slides Home](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2bfdb07292_0_151)
 
 This will open up a blank and simple slide where you can begin to work on your presentation. 
 
-![Google Slides Blank presentation](images/09_googleslides/09_cdsintro_googleslides-4.png)
+![Google Slides Blank presentation](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_2)
 
 Similar to the Google Doc you created, you'll want to rename this file. To do so, click on 'Untitled presentation' in the top left-hand corner of the presentation. Again, title this slideshow using your last name. For example, if your last name were Doe, you would title this 'leanpub_presentation_doe.' You're now ready to get ready working on your first slide!
 
-![Google Slides rename file](images/09_googleslides/09_cdsintro_googleslides-5.png)
+![Google Slides rename file](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_12)
 
 ### Making a simple presentation
 
 Keeping the presentation guidelines we discussed earlier in mind, you'll now start to make a short (approximately 4 slides) Google Slides presentation. To begin, you'll want a title slide. To change the title, click on the slide where it says 'Click to add title' and then begin to type the title of your slide presentation. 
 
-![Google Slides Blank slide](images/09_googleslides/09_cdsintro_googleslides-6.png)
+![Google Slides Blank slide](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_115)
 
 A reasonable title would be 'Leanpub Data Science Project.' You'd then want to include who did the analysis as a subtitle. By clicking 'Click to add subtitle' you can then include your name on your presentation.
 
-![Google slide with title and name](images/09_googleslides/09_cdsintro_googleslides-8.png)
+![Google slide with title and name](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_123)
 
 If you wanted to change the font size of any of the text to make it bigger or smaller, you would highlight that text and then click on the font size at the top of the menu to display a drop down menu. Font size can be selected from this list or typed in that box directly.
 
-![Change font size on Google Slides](images/09_googleslides/09_cdsintro_googleslides-9.png)
+![Change font size on Google Slides](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_138)
 
 You can use a similar process of highlighting text and then selecting from the toolbar to change formatting in a number of other ways. You can change the font of the text, make the text bold, italicize the text, underline the text, or change the color of the text as well.
 
-![other formatting options on slides](images/09_googleslides/09_cdsintro_googleslides-10.png)
+![other formatting options on slides](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_148)
 
 Once you're happy with how your title slide looks, you'll want to start working on the next slide in your presentation. To start the next slide, you'll click the plus sign at the top left-hand portion of your Google Slides presentation.
 
-![Google Slides new slide](images/09_googleslides/09_cdsintro_googleslides-11.png)
+![Google Slides new slide](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_161)
 
 A second slide in your presentation will appear. You can add text to this slide the same way you did on the title slide. Pictures can also be copy and pasted into your Google Slides. 
 
-![Google Slides second slide](images/09_googleslides/09_cdsintro_googleslides-12.png)
+![Google Slides second slide](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_169)
 
 You will want to create a Google Slides presentation with approximately four slides summarizing the Leanpub data science project you have been working on. These slides should include
 * Title slide
@@ -66,14 +66,14 @@ You will want to create a Google Slides presentation with approximately four sli
 
 Once you've finished creating your Google Slides presentation, you'll want to make sure it can be shared with others. This will be the same process as in Google Sheets and Google Docs. To make the presentation shareable, you will first click the Blue 'Share' button at the top right-hand side of the slide.
 
-![Google Slides share](images/09_googleslides/09_cdsintro_googleslides-14.png)
+![Google Slides share](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_32)
 
 A 'Share with others' window will pop up. Here you will click 'Get shareable link'.
-![Google Slides Get shareable link](images/09_googleslides/09_cdsintro_googleslides-15.png)
+![Google Slides Get shareable link](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_184)
 
 This will bring up a new box indicating that your link has been copied. This is the link you will paste when asked by the quiz at the end of this lesson for your Google slides link.
 
-![Google Slides shared](images/09_googleslides/09_cdsintro_googleslides-16.png)
+![Google Slides shared](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_188)
 
 
 ### Slides and Video
