@@ -123,7 +123,7 @@ o) generating plots to understand the data
 ?3 Why should you include links or citations to others' work?
 
 C) It gives credit to the work of others. 
-C) It helps other quickly find information you've referenced.
+C) It helps others quickly find information you've referenced.
 o) It's necessary to get your analysis started.
 o) You shouldn't. Your work is the only work that matters.
 o) Links break on the Internet from time to time.

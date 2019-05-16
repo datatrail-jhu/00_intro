@@ -134,7 +134,7 @@ To get a GitHub account, first type www.github.com into the web address bar at t
 You will be brought to a page where you should fill in your information. As with the other accounts, try to use the same Username if possible. Enter your Gmail Email address. And, create a password that cannot be easily guessed by others. Then, click 'Sign up for GitHub.'
 
 ![GitHub sign up](https://docs.google.com/presentation/d/1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A/export/png?id=1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A&pageid=g2dda3343d9_0_423)
-One fianl note about GitHub usernames in particular. This will be used for your website (which you'll build later) and *all* the code you write. You'll use GitHub a lot, so this is a case where it is particularly helpful to choose a good username, particularly one that has something to do with your name and not much else. For example, the person writing this lesson is named Shannon Ellis. Her GitHub username is "ShanEllis." While it is *possible* to change your GitHub username down the line, it's a bit of a pain, so choose wisely now!
+One final note about GitHub usernames in particular. This will be used for your website (which you'll build later) and *all* the code you write. You'll use GitHub a lot, so this is a case where it is particularly helpful to choose a good username, particularly one that has something to do with your name and not much else. For example, the person writing this lesson is named Shannon Ellis. Her GitHub username is "ShanEllis." While it is *possible* to change your GitHub username down the line, it's a bit of a pain, so choose wisely now!
 
 You now have a GitHub account *and* all of the online accounts needed for this program!
 

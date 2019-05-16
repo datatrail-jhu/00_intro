@@ -20,7 +20,7 @@ It's called cloud computing because the computer you are using most of the time 
 
 The goal of Chromebook Data Science is not that you _have_ to use a Chromebook to finish the program, it is just that you _could_ use a Chromebook to finish the whole program. You can finish the entire sequence of courses using any computer with an internet connection and a web browser. 
 
-We took this approach because we want data science to be accessible to everyone. We have found that in earlier classes we taught online, the cost of computers, difficulties installing software, and lack of computing resources prevented from students from completing our courses. We wanted to strip all those barriers away so that more students would have access to our program.
+We took this approach because we want data science to be accessible to everyone. We have found that in earlier classes we taught online, the cost of computers, difficulties installing software, and lack of computing resources prevented students from completing our courses. We wanted to strip all those barriers away so that more students would have access to our program.
 
 We also believe that the future of data science is increasingly cloud based. So this educational choice matches a trend we see in the field that we can help you take advantage of. It is less and less likely that you will work only on your laptop as a data scientist. Through the internet you will access data and computing power so that you can magnify the impact of what you are working on. We hope to show you how to use those resources to maximize the value you can bring as a new data scientist. 
 
