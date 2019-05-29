@@ -2,7 +2,7 @@
 
 Our philosophy with building this course and this program is to try to make data science accessible to the widest audience possible. 
 
-This course is part of the ["Chromebook Data Science"](http://jhudatascience.org/chromebookdatascience/) series of courses. 
+This course is part of the ["Cloud-based Data Science"](http://jhudatascience.org/chromebookdatascience/) series of courses. 
 
 These courses are designed to tackle some of the challenges that prevent people from getting into data science in the first place. Some of those challenges are geographic - we'll talk more about that later. Some are due to the price of education - that is why we are offering these courses as MOOCs. But one of the key barriers is that the type of computer you usually need to do data science is expensive. 
 
@@ -18,7 +18,7 @@ A simple way to think about it is that a Chromebook is a computer that only lets
 
 It's called cloud computing because the computer you are using most of the time is not the one sitting in front of you. You are using the internet to access tools and computers to do your work. But the physical computers doing the work are stored somewhere else - it could be nearby or on the other side of the globe. That is why people call the computers "in the cloud".
 
-The goal of Chromebook Data Science is not that you _have_ to use a Chromebook to finish the program, it is just that you _could_ use a Chromebook to finish the whole program. You can finish the entire sequence of courses using any computer with an internet connection and a web browser. 
+The goal of Cloud-based Data Science is not that you _have_ to use a Chromebook to finish the program, it is just that you _could_ use a Chromebook to finish the whole program. You can finish the entire sequence of courses using any computer with an internet connection and a web browser. 
 
 We took this approach because we want data science to be accessible to everyone. We have found that in earlier classes we taught online, the cost of computers, difficulties installing software, and lack of computing resources prevented students from completing our courses. We wanted to strip all those barriers away so that more students would have access to our program.
 

@@ -2,7 +2,7 @@
 
 The main software that we are going to use to analyze data in this class is called [R](https://www.r-project.org/). R is a piece of software that lets you write computer code to analyze data. [RStudio](https://www.rstudio.com/) is a company that makes a piece of software that works with R. RStudio makes it easier to create, save, share, and work with R code and data sets. R is one of the two most popular languages for data science. We will learn a lot more about it throughout the courses, but here we are just going to use it to take a peak at the data you have created. 
 
-If you have a more traditional laptop you can download and install R and RStudio on your laptop. But this class is part of our Chromebook Data Science program where we will be teaching you how to do everything through a web browser. Fortunately RStudio also offers a web-based version of their software called RStudio Cloud.
+If you have a more traditional laptop you can download and install R and RStudio on your laptop. But this class is part of our Cloud-based Data Science program where we will be teaching you how to do everything through a web browser. Fortunately RStudio also offers a web-based version of their software called RStudio Cloud.
 
 In a future class we will go into much more detail about RStudio and RStudio Cloud. For now, we will just go over the basics and then use RStudio Cloud to do a very basic analysis of the data you collected in your Google Sheet. Using RStudio Cloud we will give you all the commands you need to run to complete this project. Don't worry if this seems a little foreign, we are going to learn a lot more about it later! Just follow the steps and you'll end up with your very first plot! 
 

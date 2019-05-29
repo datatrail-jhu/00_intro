@@ -1,4 +1,4 @@
-# Introduction to Chromebook Data Science
+# Introduction to Cloud-based Data Science
 
 - Welcome (done)
 - What is data science
