@@ -2,7 +2,7 @@
 
 Our philosophy with building this course and this program is to try to make data science accessible to the widest audience possible. 
 
-This course is part of the ["Cloud-based Data Science"](http://jhudatascience.org/chromebookdatascience/) series of courses. 
+This course is part of the [Cloud-based Data Science](https://www.clouddatascience.org/) series of courses. 
 
 These courses are designed to tackle some of the challenges that prevent people from getting into data science in the first place. Some of those challenges are geographic - we'll talk more about that later. Some are due to the price of education - that is why we are offering these courses as MOOCs. But one of the key barriers is that the type of computer you usually need to do data science is expensive. 
 

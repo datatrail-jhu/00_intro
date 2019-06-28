@@ -90,7 +90,7 @@ This program is a series of online classes. They are designed to be used in many
     * Projects to help you build a portfolio for showing what you've learned
 * __Course Set__: A Course Set is a group of courses that form credentials.
 
-To keep up on the latest information about the program, courses and more go to http://jhudatascience.org/chromebookdatascience.
+To keep up on the latest information about the program, courses and more go to https://www.clouddatascience.org/.
 
 
 ### How this course is graded
