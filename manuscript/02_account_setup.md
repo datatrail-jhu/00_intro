@@ -24,7 +24,6 @@ To give you an idea of where we're going, the first account (and arguably the mo
 *  [Twitter](https://twitter.com/) - this is a social media site that we will use to share our data science products and get support from the data science community. 
 *  [slack](https://slack.com/) - this is a website where you will be able to chat online with your fellow students and instructors. 
 *  [RStudio Cloud](rstudio.cloud) - this is a website where you can use Rstudio, the main tool to learn data science. 
-*  [DataCamp](https://www.datacamp.com/) - this is a website where you can practice using R and Rstudio. 
 *  [GitHub](https://github.com) - this is a website where we will share the results of our data science projects with each other and the world. 
 
 ![Accounts](https://docs.google.com/presentation/d/1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ/export/png?id=1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ&pageid=g2f5b6fa674_0_0)

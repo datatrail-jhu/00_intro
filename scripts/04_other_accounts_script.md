@@ -74,16 +74,6 @@ Then, you will be brought to a screen where you will have to enter a username. A
 
 You now have an r studio cloud account!
 
-Data Camp is an online platform where people learn Data Science. Throughout this program, you will take courses and do exercises on DataCamp to ensure that you are acquiring the skills necessary to be a successful data scientist.
-
-Getting a Data Camp account will be very similar to getting an r studio cloud account because you can again sign in using your Google account. To do so, go to www.datacamp.com. 
-
-You will be brought to a screen where you can Create Your Free Account. Click on the Google plus button. 
-
-You will again be brought to a screen where you're asked to choose your Google account. Select your Google account. 
-
-And, just like that, you have a DataCamp account! 
-
 GitHub is a website that hosts computer code and allows for version control. We'll get back to what version control is later, but as for now, know that GitHub is where you'll be putting all of the code you write. It's also a place where you can look at other people's code. And, throughout this program, you'll realize that you can learn a lot from other people's code!
 
 To get a GitHub account, first type www.github.com into the web address bar at the top of your Chrome window and hit Enter. 

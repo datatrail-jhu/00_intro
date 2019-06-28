@@ -105,24 +105,6 @@ You will be prompted to choose which Google account you want to use. Choose your
 Then, click 'Create Account' and you're all set! You now have an RStudio Cloud account!
 
 
-### DataCamp Account
-
-[DataCamp](http://www.datacamp.com) is an online platform where people learn Data Science. Throughout this program, you will take courses and do exercises on DataCamp to ensure that you are acquiring the skills necessary to be a successful data scientist.
-
-Getting a DataCamp account will be very similar to getting an rstudio.cloud account because you can again sign in using your Google account. To do so, go to www.datacamp.com. 
-
-![DataCamp Web Address](https://docs.google.com/presentation/d/1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A/export/png?id=1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A&pageid=g2dda3343d9_0_365)
-
-You will be brought to a screen where you can 'Create Your Free Account.' Click on the 'Google+' button. You will again be brought to a screen where you're asked to choose your Google account. 
-
-![DataCamp Google+](https://docs.google.com/presentation/d/1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A/export/png?id=1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A&pageid=g2dda3343d9_0_360)
-
-Select your Google account. 
-
-![DataCamp choose account](https://docs.google.com/presentation/d/1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A/export/png?id=1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A&pageid=g2dda3343d9_0_370)
-
-And, just like that, you have a DataCamp account! 
-
 ### GitHub Account
 
 [GitHub](http://www.github.com) is a website that hosts computer code and allows for version control. We'll get back to what version control is later, but as for now, know that GitHub is where you'll be 'saving' all of the code you write. It's also a place where you can look at other people's code. And, throughout this program, you'll realize that you can learn a lot from other people's code!
@@ -156,8 +138,6 @@ C) LinkedIn
 o) GitHub
 o) slack
 o) Gmail
-o) DataCamp
-o) Gmail
 o) RStudio Cloud
 
 {choose-answers:4}
@@ -166,8 +146,6 @@ o) RStudio Cloud
 C) GitHub
 o) LinkedIn
 o) slack
-o) Gmail
-o) DataCamp
 o) Gmail
 o) RStudio Cloud
 o) Twitter
