@@ -8,14 +8,17 @@ Throughout this coursework it may surprise you just how frequently other people 
 
 You've been working on the Internet through this coursework so far on the Chrome Browser? Within every Internet browser, you have access to _web search engines_. These are designed to find the most relevant answers to our question. The most common web search engine is [Google](https://www.google.com). In fact, Google started as a web search engine before it developed any of the other many products it offers today.We can access _Google_ by typing [www.google.com](https://www.google.com) in the search bar at the top of the Chrome browser. This will bring you to the Google homepage, where you will see a simple text box and a button called _Google search_.
 
+{format: png}
 ![Google search](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/export/png?id=180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4&pageid=g325fd519cc_0_6)
 
 On the search box, as you start typing your question you will see suggestions based on what you have written so far. This is called _Google auto-complete_. Here is an example where _Google_ suggests a few common searches that start with "how to find help in".
 
+{format: png}
 ![Google auto-complete](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/export/png?id=180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4&pageid=g325fd519cc_0_11)
 
 The auto-complete feature can be useful because it helps us refine our search query which will lead to more relevant results and answers. Throughout this course work, we'll be using hte R programming language to complete data analyses. Thus, you will often be searching for help related to the R programming language. So, in this example, let's select "how to find help in r" and then click on the _Google search_ button, we will get a list of websites that are most related to our question as shown below.
 
+{format: png}
 ![Google search results](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/export/png?id=180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4&pageid=g325fd519cc_0_16)
 
 Google highlights some of our key terms from our search in the search results list. For example, the word _help_ is bolded twice on the first link title "R: Getting Help with R".
@@ -35,6 +38,7 @@ The best way to get a response to your question is to be able to boil it down to
 * Know specific websites where you can get help - while Google is generally a great place to start, sometimes it can be helpful to know specific websites where you can get help. [StackOverflow](www.stackoverflow.com) and the [RStudio Community](https://community.rstudio.com/c/tidyverse) will likely be helpful places as you learn to program in R. These resources will be covered in detail in a future course; however, it's good at this point to know they exist
 
 
+{format: png}
 ![Finding Help](https://www.youtube.com/watch?v=d2IhmGokxkA)
 
 * [Slides](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/edit?usp=sharing)

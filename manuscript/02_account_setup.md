@@ -6,10 +6,12 @@ Before we can get started doing fun things with data we need to make sure you ar
 
 Choosing an appropriate username is important. Some combination of your first and last name is a good idea. For example, if your name were Jane Doe, a username such as "JaneDoe" or "Jane.Doe" would work. If the first username you attempt is taken, you can try another, similar username. In this case, maybe try  "JDoe". 
 
+{format: png}
 ![Appropriate Usernames](https://docs.google.com/presentation/d/1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ/export/png?id=1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ&pageid=g2f53e3b687_0_0)
 
 But, be sure that whatever name you choose, you would be comfortable sharing it with your boss or family member. Usernames with nicknames or profanity are *not* a good idea.
 
+{format: png}
 ![What to Avoid in Usernames](https://docs.google.com/presentation/d/1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ/export/png?id=1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ&pageid=g2f53e3b687_0_60)
 
 ### Using a Consistent Username
@@ -26,6 +28,7 @@ To give you an idea of where we're going, the first account (and arguably the mo
 *  [RStudio Cloud](rstudio.cloud) - this is a website where you can use Rstudio, the main tool to learn data science. 
 *  [GitHub](https://github.com) - this is a website where we will share the results of our data science projects with each other and the world. 
 
+{format: png}
 ![Accounts](https://docs.google.com/presentation/d/1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ/export/png?id=1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ&pageid=g2f5b6fa674_0_0)
 
 ### Slides and Video

@@ -10,6 +10,7 @@ Every Data Science Project starts with a question that is to be answered with da
 
 For this example, we're going to use an example analysis from a data scientist named [Hilary Parker](https://hilaryparker.com/about-hilary-parker/). Her work can be found [on her blog](https://hilaryparker.com), and the specific project we'll be working through here is from 2013 and titled ["Hilary: the most poisoned baby name in US history"](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/). To get the most out of this lesson, click on that link and read through Hilary's post. Once you're done, come on back to this lesson and read through the breakdown of this post.
 
+{format: png}
 ![Hilary's blog post](https://docs.google.com/presentation/d/1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8/export/png?id=1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8&pageid=g39818b4900_0_0)
 
 #### The Question
@@ -26,6 +27,7 @@ To answer this question, Hilary collected data from the [Social Security website
 
 As explained in the blog post, Hilary was interested in calculating the relative risk for each of the 4,110 different names in her dataset from one year to the next from 1880 to 2011. By hand, this would be a nightmare. Thankfully, by writing code in R, all of which is [available on GitHub](https://github.com/hilaryparker/names), Hilary was able to generate these values for all these names across all these years. It's not important at this point in time to fully understand what a relative risk calculation is (although Hilary does a *great* job breaking it down in her post!), but it is important to know that after getting the data together, the next step is figuring out what you need to do with that data in order to answer your question. For Hilary's question, calculating the relative risk for each name from one year to the next from 1880 to 2011 and looking at the percentage of babies named each name in a particular year would be what she needed to do to answer her question.
 
+{format: png}
 ![Hilary's GitHub repo for this project](https://docs.google.com/presentation/d/1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8/export/png?id=1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8&pageid=g39818b4900_0_32)
 
 ##### Exploratory Data Analysis
@@ -36,14 +38,17 @@ What you don't see in the blog post is all of the code Hilary wrote to get the d
 
 That said, given that Hilary now had the necessary values calculated, she began to analyze the data. The first thing she did was look at the names with the biggest drop in percentage from one year to the next. By this preliminary analysis, Hilary was sixth on the list, meaning there were five other names that had had a single year drop in popularity larger than the one the name "Hilary" experienced from 1992 to 1993.
 
+{format: png}
 ![Biggest Drop Table](https://docs.google.com/presentation/d/1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8/export/png?id=1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8&pageid=g39818b4900_0_36)
 
 In looking at the results of this analysis, the first five years appeared peculiar to Hilary Parker. (It's always good to consider whether or not the results were what you were expecting, from any analysis!) None of them seemed to be names that were popular for long periods of time. To see if this hunch was true, Hilary plotted the percent of babies born each year with each of the names from this table. What she found was that, among these "poisoned" names (names that experienced a big drop from one year to the next in popularity), all of the names other than Hilary became popular all of a sudden and then dropped off in popularity. Hilary Parker was able to figure out why most of these other names became popular, so definitely read that section of her post! The name, Hilary, however, was different. It was popular for a while and then completely dropped off in popularity.
 
+{format: png}
 ![14 most poisoned names over time](https://docs.google.com/presentation/d/1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8/export/png?id=1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8&pageid=g39818b4900_0_47)
 
 To figure out what was specifically going on with the name Hilary, she removed names that became popular for short periods of time before dropping off, and only looked at names that were in the top 1000 for more than 20 years. The results from this analysis definitively show that Hilary had the quickest fall from popularity in 1992 of any female baby name between 1880 and 2011. ("Marian"'s decline was gradual over many years.)
 
+{format: png}
 ![39 most poisoned names over time, controlling for fads](https://docs.google.com/presentation/d/1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8/export/png?id=1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8&pageid=g39818b4900_0_53)
 
 #### Communication
@@ -66,6 +71,7 @@ Hilary's work was carried out using the R programming language. Throughout the c
 
 Masters students at the University of Pennsylvania set out to predict the risk of opioid overdoses in Providence, Rhode Island. They include [details on the data they used, the steps they took to clean their data, their visualization process, and their final results](https://pennmusa.github.io/MUSA_801.io/project_5/index.html). While the details aren't important now, seeing the process and what types of reports can be generated is important. Additionally, they've created a [Shiny App](https://jordanbutz.shinyapps.io/directory/), which is an interactive web application. This means that you can choose what neighborhood in Providence you want to focus on. All of this was built using R programming.
 
+{format: png}
 ![Prediction of Opioid Overdoses in Providence, RI](https://docs.google.com/presentation/d/1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8/export/png?id=1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8&pageid=g39818b4900_0_93)
 
 ### Other Cool Data Science Projects
