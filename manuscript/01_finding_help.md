@@ -39,7 +39,7 @@ The best way to get a response to your question is to be able to boil it down to
 
 
 {format: png}
-![Finding Help](https://www.youtube.com/watch?v=d2IhmGokxkA)
+![Finding Help](https://www.youtube.com/watch?v=zV0wJbNhSHw)
 
 * [Slides](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/edit?usp=sharing)
 

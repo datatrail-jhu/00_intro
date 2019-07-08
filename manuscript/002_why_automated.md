@@ -40,6 +40,6 @@ If you find the robot voice annoying, we get it. We know that the technology isn
 
 ### Slides and Video
 
-![Why Automated Videos](https://www.youtube.com/watch?v=sDtXGkz7bf4)
+![Why Automated Videos](https://www.youtube.com/watch?v=bAN368AASV8)
 
 * [Slides](https://docs.google.com/presentation/d/1FtdynwBR8IAE8x9cMTZrnWKfTPXEhH-KwkAZKQ0zwk8/edit?usp=sharing)

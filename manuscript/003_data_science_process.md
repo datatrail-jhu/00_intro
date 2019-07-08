@@ -89,7 +89,7 @@ In this lesson, we hope we've conveyed that sometimes data science projects are 
 
 ### Slides and Video
 
-![The Data Science Process](https://www.youtube.com/watch?v=CucYOCrdIq0)
+![The Data Science Process](https://www.youtube.com/watch?v=QHLEVD_SkT4	)
 
 * [Slides](https://docs.google.com/presentation/d/1SNT3SYuWJhjRYx7VmyFKWkuxESEx5THt-mWJ7Mx5Cr8/edit?usp=sharing)
 

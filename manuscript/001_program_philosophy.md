@@ -29,6 +29,6 @@ We do recognize that internet access is also a limiting factor for many people. 
 
 ### Slides and Video
 
-![Program Philosophy](https://www.youtube.com/watch?v=0NwqO1BSb7E)
+![Program Philosophy](https://www.youtube.com/watch?v=UPsgLkcR87E)
 
 * [Slides](https://docs.google.com/presentation/d/1s7sLqa0GAUqVaD9TE63ntBKJfXm2Ac2dG90G_41egLI/edit?usp=sharing)

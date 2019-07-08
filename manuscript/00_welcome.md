@@ -99,7 +99,7 @@ This first class is designed to get you set up with the accounts you will use as
 
 ### Slides and Video
 
-![Welcome to Cloud-based Data Science](https://www.youtube.com/watch?v=QCB6t4Ll6YQ)
+![Welcome to Cloud-based Data Science](https://youtu.be/NhRlrMg2k2Q)
 
 [Slides](https://docs.google.com/presentation/d/18q2gRHXGZxBL7pSWcQg_HThmgoo5qDeO9O372QkAnYU/edit?usp=sharing)
 
