@@ -129,7 +129,7 @@ Once you have your plot, you have what you need to make the Google Doc and finis
 
 ### Slides and Video
 
-![RStudio Cloud](https://www.youtube.com/watch?v=83KPE8_r9xw)
+![RStudio Cloud](https://youtu.be/O0QeE37cs3Y)
 
 * [Slides](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/edit?usp=sharing)
 

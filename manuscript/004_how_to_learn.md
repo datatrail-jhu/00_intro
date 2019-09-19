@@ -63,7 +63,7 @@ Learning how to learn and asking questions may seem simple when you read this le
 
 ### Slides and Video
 
-![How To Learn](https://www.youtube.com/watch?v=-Ipim_Xjj2Q)
+![How To Learn](https://youtu.be/6FVNLlM7Hv8)
 
 * [Slides](https://docs.google.com/presentation/d/1sgE2Um0t2AhkUlPHLJDSVLTJlyTabg1gtz1ybOgO-kY/edit?usp=sharing)
 

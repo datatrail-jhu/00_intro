@@ -89,7 +89,7 @@ This will bring up a new box indicating that your link has been copied. This is 
 
 ### Slides and Video
 
-![Google Slides](https://www.youtube.com/watch?v=61CPYYfuJdw)
+![Google Slides](https://youtu.be/nRFevt8u_yo)
 
 * [Slides](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/edit?usp=sharing)
 
