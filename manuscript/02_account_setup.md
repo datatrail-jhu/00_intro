@@ -7,7 +7,7 @@ Before we can get started doing fun things with data we need to make sure you ar
 Choosing an appropriate username is important. Some combination of your first and last name is a good idea. For example, if your name were Jane Doe, a username such as "JaneDoe" or "Jane.Doe" would work. If the first username you attempt is taken, you can try another, similar username. In this case, maybe try  "JDoe". 
 
 {format: png}
-![Appropriate Usernames](https://docs.google.com/presentation/d/1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ/export/png?id=1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ&pageid=g2f53e3b687_0_0)
+![Appropriate Usernames](https://drive.google.com/file/d/1PqCvBS3SxZmD7l4n4OKvP2pifszV_yL2/view?usp=sharing)
 
 But, be sure that whatever name you choose, you would be comfortable sharing it with your boss or family member. Usernames with nicknames or profanity are *not* a good idea.
 
