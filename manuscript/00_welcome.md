@@ -6,16 +6,16 @@ default-random-choice-order: true
 default-quiz-show-answers: none
 }
 
-# Welcome to Cloud-Based Data Science
+# Welcome to DataTrail
 
-Hello and welcome! This is the first course in the _Cloud-Based Data Science_ program. The goal of _Cloud-Based Data Science_ is to help anyone with an internet connection and a computer learn to do data science. The program will start with the very basics of using a computer on the internet and work all the way up to doing data science and data analysis. We hope that by building this program we can help people get into the exciting tech world in one of the [fastest growing](https://www.pwc.com/us/en/publications/data-science-and-analytics.html) and [most satisfying](https://www.techrepublic.com/article/is-data-scientist-the-most-rewarding-tech-job-new-report-says-yes/) jobs in the United States. There are only going to be more and more jobs asking for [data science skills](https://www.forbes.com/sites/louiscolumbus/2017/05/13/ibm-predicts-demand-for-data-scientists-will-soar-28-by-2020/) in the future. We believe that by making this career accessible to anyone we can have a positive impact on the world. 
+Hello and welcome! This is the first course in the _DataTrail_ program. The goal of _DataTrail_ is to help anyone with an internet connection and a computer learn to do data science. The program will start with the very basics of using a computer on the internet and work all the way up to doing data science and data analysis. We hope that by building this program we can help people get into the exciting tech world in one of the [fastest growing](https://www.pwc.com/us/en/publications/data-science-and-analytics.html) and [most satisfying](https://www.techrepublic.com/article/is-data-scientist-the-most-rewarding-tech-job-new-report-says-yes/) jobs in the United States. There are only going to be more and more jobs asking for [data science skills](https://www.forbes.com/sites/louiscolumbus/2017/05/13/ibm-predicts-demand-for-data-scientists-will-soar-28-by-2020/) in the future. We believe that by making this career accessible to anyone we can have a positive impact on the world. 
 
 ### Course Details
 
 Before we jump into the content, we just wanted to orient you to how this course and all the courses in this program will be laid out:
 
-* **Courses** - There are multiple courses in the _Cloud-Based Data Science_ program. The first one is "Introduction to Cloud-Based Data Science", which is the course you're in right now. 
-* **Lessons** - Each course will consist of lessons. You're looking at the first lesson here. It's called "Welcome to Cloud-Based Data Science". You can see a list of all the lessons in this course in the left panel. The lessons will contain text and images to walk you through every lesson of each course. 
+* **Courses** - There are multiple courses in the _DataTrail_ program. The first one is "Introduction to DataTrail", which is the course you're in right now. 
+* **Lessons** - Each course will consist of lessons. You're looking at the first lesson here. It's called "Welcome to DataTrail". You can see a list of all the lessons in this course in the left panel. The lessons will contain text and images to walk you through every lesson of each course. 
 * **Videos** - At the end of each lesson there will be a link to a YouTube video. This video contains the same information as what is included in the text of the lesson; however, we know that some people learn better by listening. Sometimes you may find the videos more helpful. Sometimes you may find the text more helpful. These are included in case they are more helpful than the text to you personally.
 * **Slides** - Each lesson also has link at the bottom to an accompanying slide show. Feel free to look through these slides if you find them helpful. They are the same images that were used to generate the video.
 * **Quizzes** - Most lessons will have a quiz to evaluate your understanding of the material in that lesson. Successful completion of these quizzes is required for receipt of the certificate at the end of each course.
@@ -40,7 +40,7 @@ But to make data valuable we need to be able to study it and separate the intere
 The reason this field is growing so fast is that nearly every government, company, and organization is now collecting data. As the data have become cheaper and cheaper, the ability to analyze that data and find useful information has become a more and more valuable skill. But most people don't have training or experience sifting through big piles of data to make interesting and valuable discoveries. The people who can do this well are called data scientists. They have a job that is exciting, interesting, and promises to be in high demand for years to come. 
 
 
-### What is Cloud-Based Data Science?
+### What is DataTrail?
 
 Data science is a fast-growing and exciting profession. But it can be a challenge to get into this career. Some of the biggest challenges are:
 
@@ -52,17 +52,17 @@ Data science is a fast-growing and exciting profession. But it can be a challeng
 
 Most of the people who are currently data scientists have degrees in math, statistics, physics. They can afford computers that cost thousands of dollars and specialized computing software to help them do their jobs. They also mostly live in a few major cities like New York, San Francisco, Seattle, and Washington D.C. Many of these data scientists are former software engineers or other white-collar workers who moved into data science when they saw the demand for this kind of job. 
 
-It is our goal with Cloud-Based Data Science to try to help people who would otherwise not have access to this exciting career to get into the career. To do that we need to remove some of the challenges above. So we designed this program to tackle some of the challenges that are preventing more widespread adoption of this career. 
+It is our goal with DataTrail to try to help people who would otherwise not have access to this exciting career to get into the career. To do that we need to remove some of the challenges above. So we designed this program to tackle some of the challenges that are preventing more widespread adoption of this career. 
 
-* Cloud-Based Data Science is being released as a set of online courses with a pay-what-you-can model. That means you can take the whole series of courses for free or for whatever cost you can afford. 
-* Cloud-Based Data Science is designed to be done entirely online using only tools you can access from a web browser. This means that you can do the entire program on a [Chromebook](https://www.google.com/chromebook/) - which you can get for as little as $150. 
-* Cloud-Based Data Science starts at the very basics of how to set up all of your accounts, which websites and apps to use, and simple little projects that anyone can do. The only pre-requisites are high school math/reading and the ability to use a computer. 
-* Cloud-Based Data Science includes resources for finding, getting, and working at data science jobs. It also includes resources for finding and working at remote data science jobs that can be done from anywhere in the world. 
+* DataTrail is being released as a set of online courses with a pay-what-you-can model. That means you can take the whole series of courses for free or for whatever cost you can afford. 
+* DataTrail is designed to be done entirely online using only tools you can access from a web browser. This means that you can do the entire program on a [Chromebook](https://www.google.com/chromebook/) - which you can get for as little as $150. 
+* DataTrail starts at the very basics of how to set up all of your accounts, which websites and apps to use, and simple little projects that anyone can do. The only pre-requisites are high school math/reading and the ability to use a computer. 
+* DataTrail includes resources for finding, getting, and working at data science jobs. It also includes resources for finding and working at remote data science jobs that can be done from anywhere in the world. 
 
 
 ### Who is this program for? 
 
-Cloud-Based Data Science is designed for people who have a high school education and know how to use a computer. Some people who we hope the program will be useful for are: 
+DataTrail is designed for people who have a high school education and know how to use a computer. Some people who we hope the program will be useful for are: 
 
 * High school students
 * People who are working on or have completed a high school education
@@ -90,7 +90,7 @@ This program is a series of online classes. They are designed to be used in many
     * Projects to help you build a portfolio for showing what you've learned
 * __Course Set__: A Course Set is a group of courses that form credentials.
 
-To keep up on the latest information about the program, courses and more go to https://www.clouddatascience.org/.
+To keep up on the latest information about the program, courses and more go to https://www.DataTrail.org/.
 
 
 ### How this course is graded
