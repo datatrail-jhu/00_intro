@@ -1,0 +1,26 @@
+book_filename: "00 - DataTrail Intro"
+chapter_name: "Chapter "
+repo: https://github.com/jhudsl/OTTR_Template/
+rmd_files: ["index.Rmd",
+            "00_welcome.md",
+            "01_finding_help.md",
+            "001_program_philosophy.md",
+            "02_account_setup.md",
+            "002_why_automated.md",
+            "003_data_science_process.md",
+            "03_google_account.md",
+            "004_how_to_learn.md",
+            "04_other_accounts.md",
+            "05_intro_to_project.md",
+            "06_googlesheets.md",
+            "07_rstudio_cloud.md",
+            "08_googledocs.md",
+            "09_googleslides.md",
+            "10_datacamp.md"]
+new_session: yes
+bibliography: [book.bib]
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter"
+output_dir: "docs"
