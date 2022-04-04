@@ -2,7 +2,7 @@ book_filename: "DataTrail"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
-            "00_welcome.Rmd"
+            "00_welcome.Rmd",
             "001_program_philosophy.Rmd",
             "002_why_automated.Rmd",
             "003_data_science_process.Rmd",
