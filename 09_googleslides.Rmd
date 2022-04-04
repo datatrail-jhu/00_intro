@@ -1,5 +1,4 @@
 ---
-title: "Google Slides"
 author: "Davon person"
 date: "11/21/2021"
 output: html_document
@@ -29,12 +28,12 @@ We'll go into more details later, but there are three things to keep in mind any
 
 ### Getting started in Google Slides
 
-To get started, open a new tab in your browser by holding down _ctrl_ and _t_ at the same time and going to 'slides.google.com'. This will bring you to the Google Slides home page. To start a new presentation, click on the "Blank" presentation at left. 
+To get started, open a new tab in your browser by holding down _ctrl_ and _t_ at the same time and going to 'slides.google.com'. This will bring you to the Google Slides home page. To start a new presentation, click on the "Blank" presentation at left.
 
 {format: png}
 ![Google Slides Home](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2bfdb07292_0_151)
 
-This will open up a blank and simple slide where you can begin to work on your presentation. 
+This will open up a blank and simple slide where you can begin to work on your presentation.
 
 {format: png}
 ![Google Slides Blank presentation](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_2)
@@ -46,7 +45,7 @@ Similar to the Google Doc you created, you'll want to rename this file. To do so
 
 ### Making a simple presentation
 
-Keeping the presentation guidelines we discussed earlier in mind, you'll now start to make a short (approximately 4 slides) Google Slides presentation. To begin, you'll want a title slide. To change the title, click on the slide where it says 'Click to add title' and then begin to type the title of your slide presentation. 
+Keeping the presentation guidelines we discussed earlier in mind, you'll now start to make a short (approximately 4 slides) Google Slides presentation. To begin, you'll want a title slide. To change the title, click on the slide where it says 'Click to add title' and then begin to type the title of your slide presentation.
 
 {format: png}
 ![Google Slides Blank slide](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_115)
@@ -71,7 +70,7 @@ Once you're happy with how your title slide looks, you'll want to start working 
 {format: png}
 ![Google Slides new slide](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_161)
 
-A second slide in your presentation will appear. You can add text to this slide the same way you did on the title slide. Pictures can also be copy and pasted into your Google Slides. 
+A second slide in your presentation will appear. You can add text to this slide the same way you did on the title slide. Pictures can also be copy and pasted into your Google Slides.
 
 {format: png}
 ![Google Slides second slide](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/export/png?id=1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE&pageid=g2f978f5b03_0_169)
@@ -115,11 +114,11 @@ This will bring up a new box indicating that your link has been copied. This is 
 C) Use pictures instead of words when possible.
 C) Use font that's large enough.
 C) Use large pictures.
-o) Put lots of words on each slide. 
+o) Put lots of words on each slide.
 o) Always use full sentences.
 o) Keep the font small to ensure that you can include lots of information
 o) Put as much information as possible on each slide.
-o) Include everything you'd say out loud on each slide. 
+o) Include everything you'd say out loud on each slide.
 o) Copy and paste from others' work and never give them credit.
 
 

@@ -1,5 +1,4 @@
 ---
-title: "How To Learn"
 author: "Davon person"
 date: "11/16/2021"
 output: html_document
@@ -38,7 +37,7 @@ First and foremost, the best way to learn data science is by doing it. Throughou
 
 #### The Mindset
 
-To learn how to learn, it's important to know just how important your mindset is. Your goal should be to answer an interesting question. Your objective is *not* to memorize a bunch of functions. It's to *use those functions* to do something interesting. The path to accomplishing that goal may be circuitous. You may take a few steps backward and experience a setback or two before moving forward. That's ok! 
+To learn how to learn, it's important to know just how important your mindset is. Your goal should be to answer an interesting question. Your objective is *not* to memorize a bunch of functions. It's to *use those functions* to do something interesting. The path to accomplishing that goal may be circuitous. You may take a few steps backward and experience a setback or two before moving forward. That's ok!
 
 {format: png}
 ![mindset](https://docs.google.com/presentation/d/1sgE2Um0t2AhkUlPHLJDSVLTJlyTabg1gtz1ybOgO-kY/export/png?id=1sgE2Um0t2AhkUlPHLJDSVLTJlyTabg1gtz1ybOgO-kY&pageid=g3f394e96d2_0_42)

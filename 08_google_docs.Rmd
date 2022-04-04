@@ -1,5 +1,4 @@
 ---
-title: "Google Docs"
 author: "Davon person"
 date: "11/21/2021"
 output: html_document
@@ -27,7 +26,7 @@ This will open a Blank Google Doc. You're now ready to get started working in Go
 ### Using Google Docs
 
 You could just start typing in the document; however, for your Leanpub data science project, you'll want to first change the name of the document. To do so, click at the top of the document where it says 'Untitled document' and type leanpub_project_lastname.
- 
+
 So if your last name were Doe, the title of this document would be 'leanpub_project_doe.'
 
 {format: png}
@@ -38,12 +37,12 @@ In this document, you'll want to include a short summary about what question you
 {format: png}
 ![Google Doc Report sample](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/export/png?id=13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A&pageid=g2f978f5b06_0_16)
 
-In order to get the plot to paste into your report, you'll start a new tab by typing _ctrl_ and _t_ at the same time and going to http://bit.ly/cbds_projects. You should see your project here. You will click on that project. The analysis you already carried out will be here. To copy the plot you generated, click on 'Export' in the 'Plots' tab in the bottom right-hand of the RStudio window. 
+In order to get the plot to paste into your report, you'll start a new tab by typing _ctrl_ and _t_ at the same time and going to http://bit.ly/cbds_projects. You should see your project here. You will click on that project. The analysis you already carried out will be here. To copy the plot you generated, click on 'Export' in the 'Plots' tab in the bottom right-hand of the RStudio window.
 
 {format: png}
 ![Export in rstudio.cloud](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/export/png?id=13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A&pageid=g2f978f5b06_0_22)
 
-Then, click on 'Copy to Clipboard.' 
+Then, click on 'Copy to Clipboard.'
 
 {format: png}
 ![Copy to Clipboard](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/export/png?id=13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A&pageid=g2f978f5b06_0_36)
@@ -53,7 +52,7 @@ Your plot will pop up in a new window.
 {format: png}
 ![Plot in rstudio.cloud](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/export/png?id=13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A&pageid=g2f978f5b06_0_41)
 
-With your cursor over the plot that pops up, you will then tap the mouse keypad with two fingers at the same time to bring up a new menu. On this menu, select, 'Copy Image.' 
+With your cursor over the plot that pops up, you will then tap the mouse keypad with two fingers at the same time to bring up a new menu. On this menu, select, 'Copy Image.'
 
 {format: png}
 ![Copy image in rstudio.cloud](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/export/png?id=13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A&pageid=g2f978f5b06_0_46)
@@ -72,13 +71,13 @@ Your plot will now be in your Google Doc!
 
 Google Docs are helpful to data scientists because they will not only allow you to keep notes about what you have done and what you have found from your analyses, but they will allow you to share this information with people you work with, which is critically important to data scientists.
 
-So, the last thing we'll do is get the link so that you can share this document with others. You will paste this link in the quiz at the end of this section. To get this link, you'll click on the blue 'Share' button on the top right-hand section of the Google Doc. 
+So, the last thing we'll do is get the link so that you can share this document with others. You will paste this link in the quiz at the end of this section. To get this link, you'll click on the blue 'Share' button on the top right-hand section of the Google Doc.
 
 {format: png}
 ![Share Google Doc](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/export/png?id=13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A&pageid=g2f978f5b06_0_68)
 
 
-A 'Share with others' box will pop up in the middle of the screen. Click on 'Get shareable link.' 
+A 'Share with others' box will pop up in the middle of the screen. Click on 'Get shareable link.'
 
 {format: png}
 ![Shareable Link](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/export/png?id=13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A&pageid=g2f978f5b06_0_72)
@@ -103,7 +102,7 @@ C) Making slideshow presentations.
 C) Storing data in spreadsheets.
 C) Makinng phone calls.
 C) Chatting with colleagues.
-o) Keeping notes about projects. 
+o) Keeping notes about projects.
 o) Sharing results with people you work with.
 o) Creating and editing word documents.
 o) Writing reports about your projects.
