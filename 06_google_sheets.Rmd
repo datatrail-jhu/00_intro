@@ -75,7 +75,7 @@ Now you are all set to start collecting data! To do this open another new tab by
 * You don't put dollar signs for the price, just include the number like "7.99."
 * If a book's minimum price is free, enter "0" in the cell.
 * If the book has no readers, put "0" in the cell.
-* If the book's author opted not to inlcude how many readers their book has, put "NA" in the "readers" column for that book.
+* If the book's author opted not to include how many readers their book has, put "NA" in the "readers" column for that book.
 
 So for me, since the first book is "PowerShell 101" after getting the data for the first book my spreadsheet will look like this.
 

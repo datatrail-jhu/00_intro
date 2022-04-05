@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Like Google Sheets, Google Docs is an online and free program, but instead of being used to create and edit spreadsheets, Google Docs is a place where you can create and edit word documents. Google Docs is similar to Microsoft Word, for those who are familiar. For those who aren't, Google Docs is somewhere you can type notes or any type of text. Like Google Sheets, Google Docs will automatically save your work anytime you are connected to the Internet.  
 
 ### Getting started in Google Docs
-To begin, you'll open a new tab by typing _cntrl_ and _t_ at the same time. In the web address bar you'll go to 'www.docs.google.com'. This will bring you to the homepage for Google Docs. To get started with a blank document you'll click on the 'Blank' document at the left top of the screen.
+To begin, you'll open a new tab by typing _ctrl_ and _t_ at the same time. In the web address bar you'll go to 'www.docs.google.com'. This will bring you to the homepage for Google Docs. To get started with a blank document you'll click on the 'Blank' document at the left top of the screen.
 
 {format: png}
 ![Google Docs Home](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/export/png?id=13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A&pageid=g2bfdb07292_0_151)
@@ -100,7 +100,7 @@ A new screen will pop up informing you that your link has been copied. This is t
 
 C) Making slideshow presentations.
 C) Storing data in spreadsheets.
-C) Makinng phone calls.
+C) Making phone calls.
 C) Chatting with colleagues.
 o) Keeping notes about projects.
 o) Sharing results with people you work with.

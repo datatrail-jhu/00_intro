@@ -26,7 +26,7 @@ On the search box, as you start typing your question you will see suggestions ba
 {format: png}
 ![Google auto-complete](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/export/png?id=180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4&pageid=g325fd519cc_0_11)
 
-The auto-complete feature can be useful because it helps us refine our search query which will lead to more relevant results and answers. Throughout this course work, we'll be using hte R programming language to complete data analyses. Thus, you will often be searching for help related to the R programming language. So, in this example, let's select "how to find help in r" and then click on the _Google search_ button, we will get a list of websites that are most related to our question as shown below.
+The auto-complete feature can be useful because it helps us refine our search query which will lead to more relevant results and answers. Throughout this course work, we'll be using the R programming language to complete data analyses. Thus, you will often be searching for help related to the R programming language. So, in this example, let's select "how to find help in r" and then click on the _Google search_ button, we will get a list of websites that are most related to our question as shown below.
 
 {format: png}
 ![Google search results](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/export/png?id=180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4&pageid=g325fd519cc_0_16)

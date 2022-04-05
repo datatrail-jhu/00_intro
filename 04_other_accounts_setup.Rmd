@@ -99,7 +99,7 @@ In this email, there will be a 'Confirm now' button to click. To verify your Twi
 
 Congrats! You now have a Twitter account!
 
-### Baseccamp Account
+### Basecamp Account
 
 [Slack](http://www.Basecamp.com) is a place where teams of people can easily communicate and work together on a project. As a data scientist, you are often working in a group on a project. Basecamp is a place where everyone working on that project can communicate. Basecamp is where communication throughout this course will happen. You will be able to ask questions, answer questions, and communicate with others on Basecamp about the things you are learning and the projects you are working on.
 

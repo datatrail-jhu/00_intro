@@ -1,10 +1,10 @@
 # RStudio Cloud
 
-The main software that we are going to use to analyze data in this class is called [R](https://www.r-project.org/). R is a piece of software that lets you write computer code to analyze data. [RStudio](https://www.rstudio.com/) is a company that makes a piece of software that works with R. RStudio makes it easier to create, save, share, and work with R code and data sets. R is one of the two most popular languages for data science. We will learn a lot more about it throughout the courses, but here we are just going to use it to take a peak at the data you have created. 
+The main software that we are going to use to analyze data in this class is called [R](https://www.r-project.org/). R is a piece of software that lets you write computer code to analyze data. [RStudio](https://www.rstudio.com/) is a company that makes a piece of software that works with R. RStudio makes it easier to create, save, share, and work with R code and data sets. R is one of the two most popular languages for data science. We will learn a lot more about it throughout the courses, but here we are just going to use it to take a peak at the data you have created.
 
 If you have a more traditional laptop you can download and install R and RStudio on your laptop. But this class is part of our Cloud-based Data Science program where we will be teaching you how to do everything through a web browser. Fortunately RStudio also offers a web-based version of their software called RStudio Cloud.
 
-In a future class we will go into much more detail about RStudio and RStudio Cloud. For now, we will just go over the basics and then use RStudio Cloud to do a very basic analysis of the data you collected in your Google Sheet. Using RStudio Cloud we will give you all the commands you need to run to complete this project. Don't worry if this seems a little foreign, we are going to learn a lot more about it later! Just follow the steps and you'll end up with your very first plot! 
+In a future class we will go into much more detail about RStudio and RStudio Cloud. For now, we will just go over the basics and then use RStudio Cloud to do a very basic analysis of the data you collected in your Google Sheet. Using RStudio Cloud we will give you all the commands you need to run to complete this project. Don't worry if this seems a little foreign, we are going to learn a lot more about it later! Just follow the steps and you'll end up with your very first plot!
 
 ### RStudio Cloud Basics
 
@@ -35,7 +35,7 @@ The fourth component is at the bottom on the right-hand side of the window. Here
 {format: png}
 ![Files RStudio Cloud](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2df91c23aa_1_30)
 
-You'll also note that there are multiple tabs in each of these sections. We'll talk about the other tabs shortly; however, we'll note now that in the bottom right-hand section, there is a "Plots" tab. If you were to click on that you would simply see an empty blank space because you haven't made any plots yet. However, when you do the project you'll be generating a plot. The plot you create will show up in this tab. 
+You'll also note that there are multiple tabs in each of these sections. We'll talk about the other tabs shortly; however, we'll note now that in the bottom right-hand section, there is a "Plots" tab. If you were to click on that you would simply see an empty blank space because you haven't made any plots yet. However, when you do the project you'll be generating a plot. The plot you create will show up in this tab.
 
 {format: png}
 ![Plots RStudio Cloud](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2df91c23aa_1_70)
@@ -46,19 +46,19 @@ Now that you're a little familiar with RStudio Cloud, we can get started on usin
 
 > "How does the price of a bestselling book relate to how much the author is charging for that book?"
 
-To start working in RStudio Cloud, open up a new tab by pressing _ctrl_ and pressing _t_, then copy this URL and paste it into your web browser [http://bit.ly/cbds_projects](http://bit.ly/cbds_projects). If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account. 
+To start working in RStudio Cloud, open up a new tab by pressing _ctrl_ and pressing _t_, then copy this URL and paste it into your web browser [http://bit.ly/cbds_projects](http://bit.ly/cbds_projects). If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account.
 
 You should now see a page that looks like this. You should see a Project listed that is called "leanpub_project".
 
 {format: png}
 ![RStudio Cloudprojects home page](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2bfdb07292_0_151)
- 
-On the right-hand side, you should see an icon to "Copy" the project. Click on this icon. 
+
+On the right-hand side, you should see an icon to "Copy" the project. Click on this icon.
 
 {format: png}
 ![RStudio Cloud new project](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g40c900275b_0_3)
 
-You should now see a page that looks like this across the top. 
+You should now see a page that looks like this across the top.
 
 {format: png}
 ![RStudio Cloud project page](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2dfb08b5b0_0_27)
@@ -68,12 +68,12 @@ You'll first want to title your project. Click on 'leanpub_project' at the top a
 {format: png}
 ![RStudio Cloud project named](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2dfb08b5b0_0_36)
 
-You are now using the RStudio software! The first thing that you should do is go to the bottom right hand side of the screen and click on the file called "leanpub_googlesheets_analysis.R". 
+You are now using the RStudio software! The first thing that you should do is go to the bottom right hand side of the screen and click on the file called "leanpub_googlesheets_analysis.R".
 
 {format: png}
 ![RStudio Cloud project R file](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2df91c23aa_1_161)
 
-This should open up a file full of code in the top left-hand portion of the screen. Your screen should now look like this. 
+This should open up a file full of code in the top left-hand portion of the screen. Your screen should now look like this.
 
 {format: png}
 ![RStudio Cloud project page with script open](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2df91c23aa_1_166)
@@ -83,16 +83,16 @@ This file already has computer code in it. That computer code will read the data
 1. Get things set up. The details aren't important now, but we'll definitely get into them later in the series.
 2. Read in the Google Sheet you generated.
 3. Check to make sure that the data are in the correct format.
-4. Make a plot that will look at the relationship between the number of readers and minimum price for Leanpub books. 
+4. Make a plot that will look at the relationship between the number of readers and minimum price for Leanpub books.
 
 In the future, you'll learn how to write this code. For now, all the code is available to you. All you should have to do to make this work is  copy the public URL for the Google Sheet that you made in the last chapter of the course. To do this, scroll through the code in the top left-hand panel of RStudio Cloud. Find the place in the computer code that says "PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!".
 
 {format: png}
 ![rstudio.cloud with leanpub_googlesheets_analysis.R with PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2df91c23aa_1_174)
 
-Delete 'PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!' and paste your URL. 
+Delete 'PASTE_YOUR_GOOGLE_SHEET_LINK_HERE!' and paste your URL.
 
-One thing to keep in mind is that when you copy the URL from the top of your Google Sheet OR from the blue 'Share' button at the top right-hand side of the screen, the link will have a little extra information at the end. After pasting the copied URL into the code, you'll want to delete the tail-end of the URL starting at '/edit'. Below you will see what should be included in the pink box at top or the pink text of the link below. Everything after '/edit' should be deleted. 
+One thing to keep in mind is that when you copy the URL from the top of your Google Sheet OR from the blue 'Share' button at the top right-hand side of the screen, the link will have a little extra information at the end. After pasting the copied URL into the code, you'll want to delete the tail-end of the URL starting at '/edit'. Below you will see what should be included in the pink box at top or the pink text of the link below. Everything after '/edit' should be deleted.
 
 {format: png}
 ![RStudio Cloud with URL edited](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2df91c23aa_1_188)
@@ -103,17 +103,17 @@ Your code should look something like this now:
 ![RStudio Cloud with leanpub_googlesheets_analysis.R with personal URL](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2df91c23aa_1_182)
 
 
-Now you should be ready to run your code! You can do so all at once by highlighting all the code in the "leanpub_googlesheets_analysis.R" script. Then, you would find the button that says "Run" at the top of the code file and click on that button. 
+Now you should be ready to run your code! You can do so all at once by highlighting all the code in the "leanpub_googlesheets_analysis.R" script. Then, you would find the button that says "Run" at the top of the code file and click on that button.
 
 {format: png}
 ![RStudio Cloud run code](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2df91c23aa_1_208)
 
-You should see code running in the bottom left-hand panel. As code runs, there will be some output in red text, letting you know that the code is running. **This red text does not mean anything is wrong.** Note that red text in RStudio sometimes is an error, while other times it is just providing you with information. If it says error, than it's an error. But, don't be alarmed that red text is appearing on your screen. If the code runs, a plot should appear on the lower right hand side. 
+You should see code running in the bottom left-hand panel. As code runs, there will be some output in red text, letting you know that the code is running. **This red text does not mean anything is wrong.** Note that red text in RStudio sometimes is an error, while other times it is just providing you with information. If it says error, than it's an error. But, don't be alarmed that red text is appearing on your screen. If the code runs, a plot should appear on the lower right hand side.
 
 {format: png}
-![RStudio Cloudwith plot](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2dfb08b5b0_0_4)
+![RStudio Cloud with plot](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2dfb08b5b0_0_4)
 
-If a plot does not show up, there are errors. 
+If a plot does not show up, there are errors.
 
 The first place to check for errors is in your 'leanpub_googlesheets_analysis.R' code file. Errors in code formatting in RStudio are marked by a red 'X' to the left of any code lines that have errors. For example, if you copy and pasted your Google Slides link but accidentally deleted the second set of quotes before the final parenthesis, a red X would show up, showing you which line has the coding error that needs to be fixed.
 

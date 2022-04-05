@@ -121,7 +121,7 @@ Now you should be ready to run your code! You can do so all at once by highlight
 You should see code running in the bottom left-hand panel. As code runs, there will be some output in red text, letting you know that the code is running. **This red text does not mean anything is wrong.** Note that red text in RStudio sometimes is an error, while other times it is just providing you with information. If it says error, than it's an error. But, don't be alarmed that red text is appearing on your screen. If the code runs, a plot should appear on the lower right hand side.
 
 {format: png}
-![RStudio Cloudwith plot](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2dfb08b5b0_0_4)
+![RStudio Cloud with plot](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2dfb08b5b0_0_4)
 
 If a plot does not show up, there are errors.
 

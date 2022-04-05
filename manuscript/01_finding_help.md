@@ -1,6 +1,6 @@
 # Finding Help
 
-In data science and computer-related work in general, it is common to ask for help multiple times per day. While sometimes we ask our colleagues for help in-person, most of the time we search the web. 
+In data science and computer-related work in general, it is common to ask for help multiple times per day. While sometimes we ask our colleagues for help in-person, most of the time we search the web.
 
 Throughout this coursework it may surprise you just how frequently other people have run into the same problem or had the exact same question you have. Often, there is an answer that was publicly shared previously on the Internet that can help answer the very question you're asking. There are a number of websites and discussion boards where people frequently ask and answer questions. By knowing how to effectively search the web, you can easily find these answers.
 
@@ -16,7 +16,7 @@ On the search box, as you start typing your question you will see suggestions ba
 {format: png}
 ![Google auto-complete](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/export/png?id=180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4&pageid=g325fd519cc_0_11)
 
-The auto-complete feature can be useful because it helps us refine our search query which will lead to more relevant results and answers. Throughout this course work, we'll be using hte R programming language to complete data analyses. Thus, you will often be searching for help related to the R programming language. So, in this example, let's select "how to find help in r" and then click on the _Google search_ button, we will get a list of websites that are most related to our question as shown below.
+The auto-complete feature can be useful because it helps us refine our search query which will lead to more relevant results and answers. Throughout this course work, we'll be using the R programming language to complete data analyses. Thus, you will often be searching for help related to the R programming language. So, in this example, let's select "how to find help in r" and then click on the _Google search_ button, we will get a list of websites that are most related to our question as shown below.
 
 {format: png}
 ![Google search results](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/export/png?id=180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4&pageid=g325fd519cc_0_16)
