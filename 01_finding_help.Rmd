@@ -1,3 +1,13 @@
+---
+author: "Davon person"
+date: "11/16/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # Finding Help
 
 In data science and computer-related work in general, it is common to ask for help multiple times per day. While sometimes we ask our colleagues for help in-person, most of the time we search the web.
@@ -35,7 +45,7 @@ The best way to get a response to your question is to be able to boil it down to
 
 * Be Specific - include words that are important to your specific search
 
-* Know specific websites where you can get help - while Google is generally a great place to start, sometimes it can be helpful to know specific websites where you can get help. [StackOverflow](www.stackoverflow.com) and the [RStudio Community](https://community.rstudio.com/c/tidyverse) will likely be helpful places as you learn to program in R. These resources will be covered in detail in a future course; however, it's good at this point to know they exist
+* Know specific websites where you can get help - while Google is generally a great place to start, sometimes it can be helpful to know specific websites where you can get help. [StackOverflow](www.stackoverflow.com) [Basecamp](Basecamp.com) and the [RStudio Community](https://community.rstudio.com/c/tidyverse) will likely be helpful places as you learn to program in R. These resources will be covered in detail in a future course; however, it's good at this point to know they exist
 
 
 {format: png}

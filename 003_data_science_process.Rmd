@@ -1,3 +1,13 @@
+---
+author: "Davon person"
+date: "11/16/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # The Data Science Process
 
 In the first few lessons of this course we discussed what data is and talked about the fact that data are everywhere. We also introduced you to the philosophy of this program: that everyone should have access to the knowledge needed to become a data scientist and that these materials should be able to be updated with ease as technologies and methodologies change over time. What we haven't yet covered is what an actual data science project looks like. To do so, we'll first step through an actual data science project, breaking down the parts of a typical project and then, provide a number of links to other interesting data science projects. Our goal in this lesson is to expose you to the process one goes through as they carry out data science projects.
@@ -6,7 +16,7 @@ In the first few lessons of this course we discussed what data is and talked abo
 
 Every Data Science Project starts with a question that is to be answered with data. That means that **forming the question** is an important first step in the process. The second step is **finding or generating the data** you're going to use to answer that question. With the question solidified and data in hand, the **data are then analyzed**, first by **exploring the data** and then often by **modeling the data**, which means using some statistical or machine learning techniques to analyze the data and answer your question. After drawing conclusions from this analysis, the project has to be **communicated to others**. Sometimes this is a report you send to your boss or team at work. Other times it's a blog post. Often it's a presentation to a group of colleagues. Regardless, a data science project almost always involves some form of communication of the projects' findings. We'll walk through these steps using a data science project example below.
 
-### A Data Science Project Example 
+### A Data Science Project Example
 
 For this example, we're going to use an example analysis from a data scientist named [Hilary Parker](https://hilaryparker.com/about-hilary-parker/). Her work can be found [on her blog](https://hilaryparker.com), and the specific project we'll be working through here is from 2013 and titled ["Hilary: the most poisoned baby name in US history"](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/). To get the most out of this lesson, click on that link and read through Hilary's post. Once you're done, come on back to this lesson and read through the breakdown of this post.
 
@@ -21,7 +31,7 @@ When setting out on a data science project, it's always great to have your quest
 
 #### The Data
 
-To answer this question, Hilary collected data from the [Social Security website](https://www.ssa.gov/OACT/babynames/). This dataset included the 1000 most popular baby names from 1880 until 2011. 
+To answer this question, Hilary collected data from the [Social Security website](https://www.ssa.gov/OACT/babynames/). This dataset included the 1000 most popular baby names from 1880 until 2011.
 
 #### Data Analysis
 
@@ -53,7 +63,7 @@ To figure out what was specifically going on with the name Hilary, she removed n
 
 #### Communication
 
-The final step in this data analysis process was, once Hilary Parker had answered her question on her computer, it was time to share it with the world. An important part of any data science project is effectively communicating the results of the project. Hilary did so by writing a wonderful blog post that communicated the results of her analysis, answered the question she set out to answer, and did so in an entertaining way. 
+The final step in this data analysis process was, once Hilary Parker had answered her question on her computer, it was time to share it with the world. An important part of any data science project is effectively communicating the results of the project. Hilary did so by writing a wonderful blog post that communicated the results of her analysis, answered the question she set out to answer, and did so in an entertaining way.
 
 Additionally, it's important to note that most projects build off someone else's work. It's *really* important to give those people credit. Hilary accomplishes this by:
 
@@ -76,15 +86,15 @@ Masters students at the University of Pennsylvania set out to predict the risk o
 
 ### Other Cool Data Science Projects
 
-The following are smaller projects than the example above, but data science projects nonetheless! In each project, the author had a question they wanted to answer and used data to answer that question. They explored, visualized, and analyzed the data. Then, they wrote blog posts to communicate their findings. Take a look to learn more about the topics listed and to see how others work through the data science project process and communicate their results! 
+The following are smaller projects than the example above, but data science projects nonetheless! In each project, the author had a question they wanted to answer and used data to answer that question. They explored, visualized, and analyzed the data. Then, they wrote blog posts to communicate their findings. Take a look to learn more about the topics listed and to see how others work through the data science project process and communicate their results.
 
 * [Text analysis of Trump's tweets confirms he writes only the (angrier) Android half](http://varianceexplained.org/r/trump-tweets/), by [David Robinson](http://varianceexplained.org/about/)
-* [Where to Live in the US](http://www.masalmon.eu/2017/11/16/wheretoliveus/), by [Maelle Salmon](http://www.masalmon.eu/)
+* [Where to Live in the US](http://www.masalmon.eu/2017/11/16/wheretoliveus/), by [Maelle Salmon](https://masalmon.eu/)
 * [Sexual Health Clinics in Toronto](https://sharlagelfand.netlify.com/posts/tidying-toronto-open-data/), by [Sharla Gelfand](https://sharlagelfand.netlify.com/about/)
 
 ### Conclusions
 
-In this lesson, we hope we've conveyed that sometimes data science projects are tackling difficult questions ('Can we predict the risk of opioid overdose?') while other times the goal of the project is to answer a question you're interested in personally ('Is Hilary the most rapidly poisoned baby name in recorded American History?'). In either case, the process is similar. You have to form your question, get data, explore and analyze your data, and communicate your results. With the tools you'll learn in this series of courses, you will be able to set out and carry out your own data science projects, like the examples included in this lesson! 
+In this lesson, we hope we've conveyed that sometimes data science projects are tackling difficult questions ('Can we predict the risk of opioid overdose?') while other times the goal of the project is to answer a question you're interested in personally ('Is Hilary the most rapidly poisoned baby name in recorded American History?'). In either case, the process is similar. You have to form your question, get data, explore and analyze your data, and communicate your results. With the tools you'll learn in this series of courses, you will be able to set out and carry out your own data science projects, like the examples included in this lesson!
 
 
 ### Slides and Video
@@ -104,8 +114,8 @@ In this lesson, we hope we've conveyed that sometimes data science projects are 
 C) save code locally on your computer
 C) print code out and store in a desk drawer
 o) write a blog post
-o) publish a paper 
-o) publish a news article 
+o) publish a paper
+o) publish a news article
 o) write a report and share it with your team
 o) write a report for your boss
 o) give a talk at a conference and make materials available online
@@ -114,7 +124,7 @@ o) give a talk at a conference and make materials available online
 ?2 What's the first step in the data science process?
 
 C) generating the question
-C) figuring out the question 
+C) figuring out the question
 C) determining the question
 o) writing up the results
 o) analyzing the data
@@ -128,7 +138,7 @@ o) generating plots to understand the data
 {choose-answers: 4}
 ?3 Why should you include links or citations to others' work?
 
-C) It gives credit to the work of others. 
+C) It gives credit to the work of others.
 C) It helps others quickly find information you've referenced.
 o) It's necessary to get your analysis started.
 o) You shouldn't. Your work is the only work that matters.
@@ -140,8 +150,8 @@ o) Others' work is more important than yours.
 {choose-answers: 4}
 ?4 What does Hilary Parker suggest led to the popularity of the name "Dewey" in the late 1800s? (You may have to reference [Hilary's blog post](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/) for this question.
 
-C) People named their daughters after George Dewey, after the Spanish-American War 
-o) People named their daughters after Farrah Dewey, after Charlie's Angels 
+C) People named their daughters after George Dewey, after the Spanish-American War
+o) People named their daughters after Farrah Dewey, after Charlie's Angels
 o) People named their daughters after Dewey, the famous opera singer
 o) People named their daughters after Dewey Catina, from the soap opera *Where the Heart Is*
 o) People named their daughters after Khadijah Dewey, from the show *Living Single*
@@ -154,6 +164,6 @@ C) popularity of the character "Khadijah", played by Queen Latifah on Living Sin
 o) popularity of the character "Khadijah", from the soap opera *Where the Heart Is*
 o) popularity of "Khadijah", a famous opera singer from the '90s
 o) popularity of  "Khadijah" was due to the Catholic Khadijah Year
-o) popularity of the name "Khadijah" spiked thanks to a famous general from the Spanish-American War 
+o) popularity of the name "Khadijah" spiked thanks to a famous general from the Spanish-American War
 
 {/quiz}

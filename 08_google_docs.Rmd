@@ -1,3 +1,13 @@
+---
+author: "Davon person"
+date: "11/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # Google Docs
 
 Like Google Sheets, Google Docs is an online and free program, but instead of being used to create and edit spreadsheets, Google Docs is a place where you can create and edit word documents. Google Docs is similar to Microsoft Word, for those who are familiar. For those who aren't, Google Docs is somewhere you can type notes or any type of text. Like Google Sheets, Google Docs will automatically save your work anytime you are connected to the Internet.  
