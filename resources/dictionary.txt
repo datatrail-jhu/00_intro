@@ -14,16 +14,22 @@ Coursera
 Datatrail
 DataTrail
 DataCamp
+datacamp
+DataCamp's
 didactr
 ctrl
 dropdown
 else's
 Farrah
 fyi
+findinghelp
+Gelfand
 gmail
 googledocs
 googlsheets
+googlesheets
 GDSCN
+github
 http
 ie
 impactful
@@ -38,6 +44,8 @@ Khadijah
 Latifah
 leanpub
 LinkedIn
+LinkedIn's
+linkedin
 lastname
 Leanpub
 Maelle
@@ -48,6 +56,7 @@ mentorship
 opioid
 png
 Powershell
+PowerShell
 pre
 NCI
 NHGRI
@@ -56,6 +65,7 @@ UE5
 reproducibility
 repo
 rstudio
+RStudio
 ShanEllis
 Sharla
 SMS

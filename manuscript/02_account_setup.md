@@ -6,9 +6,6 @@ Before we can get started doing fun things with data we need to make sure you ar
 
 Choosing an appropriate username is important. Some combination of your first and last name is a good idea. For example, if your name were Jane Doe, a username such as "JaneDoe" or "Jane.Doe" would work. If the first username you attempt is taken, you can try another, similar username. In this case, maybe try  "JDoe". 
 
-{format: png}
-![Appropriate Usernames](https://drive.google.com/file/d/1PqCvBS3SxZmD7l4n4OKvP2pifszV_yL2/view)
-
 But, be sure that whatever name you choose, you would be comfortable sharing it with your boss or family member. Usernames with nicknames or profanity are *not* a good idea.
 
 {format: png}
@@ -18,15 +15,15 @@ But, be sure that whatever name you choose, you would be comfortable sharing it 
 
 Remembering different usernames for different accounts is difficult. It is best to make your life easy and use the same username whenever possible. We will make your life easy by using the Google Account you set up in the next section whenever possible. When it's not possible to log in with Google, then we suggest you try to use the same username for each account.
 
-### Accounts 
+### Accounts
 
-To give you an idea of where we're going, the first account (and arguably the most important account) you set up in the next lesson will be a [Google account](https://mail.google.com/mail). After that we will walk you through the steps to get you set up with accounts on: 
+To give you an idea of where we're going, the first account (and arguably the most important account) you set up in the next lesson will be a [Google account](https://mail.google.com/mail). After that we will walk you through the steps to get you set up with accounts on:
 
-*  [LinkedIn](https://www.linkedin.com) - this is a site to share information about yourself with employers. 
-*  [Twitter](https://twitter.com/) - this is a social media site that we will use to share our data science products and get support from the data science community. 
-*  [slack](https://slack.com/) - this is a website where you will be able to chat online with your fellow students and instructors. 
-*  [RStudio Cloud](rstudio.cloud) - this is a website where you can use Rstudio, the main tool to learn data science. 
-*  [GitHub](https://github.com) - this is a website where we will share the results of our data science projects with each other and the world. 
+*  [LinkedIn](https://www.linkedin.com) - this is a site to share information about yourself with employers.
+*  [Twitter](https://twitter.com/) - this is a social media site that we will use to share our data science products and get support from the data science community.
+*  [slack](https://slack.com/) - this is a website where you will be able to chat online with your fellow students and instructors.
+*  [RStudio Cloud](rstudio.cloud) - this is a website where you can use Rstudio, the main tool to learn data science.
+*  [GitHub](https://github.com) - this is a website where we will share the results of our data science projects with each other and the world.
 
 {format: png}
 ![Accounts](https://docs.google.com/presentation/d/1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ/export/png?id=1mQMEdR4opFzuReP9i7te5v8T-kyDNNklHPvQ2OnzZpQ&pageid=g2f5b6fa674_0_0)
@@ -75,4 +72,3 @@ A) True
 b) FALSE
 
 {/quiz}
-

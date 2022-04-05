@@ -51,7 +51,7 @@ To start working in RStudio Cloud, open up a new tab by pressing _ctrl_ and pres
 You should now see a page that looks like this. You should see a Project listed that is called "leanpub_project".
 
 {format: png}
-![RStudio Cloudprojects home page](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2bfdb07292_0_151)
+![RStudio Cloud projects home page](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/export/png?id=1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY&pageid=g2bfdb07292_0_151)
 
 On the right-hand side, you should see an icon to "Copy" the project. Click on this icon.
 
