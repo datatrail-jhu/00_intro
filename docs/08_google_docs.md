@@ -87,29 +87,3 @@ A new screen will pop up informing you that your link has been copied. This is t
 ![Google Docs](https://youtu.be/p-594SFMNa4)
 
 * [Slides](https://docs.google.com/presentation/d/13arBfuP1WFhTca0XCZNMBB7G1gxn8ZCJhpxsqdpDz_A/edit?usp=sharing)
-
-
-{quiz, id: quiz_08_googledocs}
-
-### Google Docs quiz
-
-{choose-answers: 4}
-? What are Google Docs NOT used for?
-
-C) Making slideshow presentations.
-C) Storing data in spreadsheets.
-C) Making phone calls.
-C) Chatting with colleagues.
-o) Keeping notes about projects.
-o) Sharing results with people you work with.
-o) Creating and editing word documents.
-o) Writing reports about your projects.
-
-
-{points: 3}
-? Please paste the link to the Google Doc you created below. (Reminder: This document should only contain information about the projected you completed on Leanpub book prices. It should not contain any personal information.)
-
-! /(.+\/\/docs.google.com\/document.+)/i
-
-
-{/quiz}
