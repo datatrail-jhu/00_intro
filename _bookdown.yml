@@ -16,7 +16,7 @@ rmd_files: ["index.Rmd",
             "07_rstudio_cloud.Rmd",
             "08_google_docs.Rmd",
             "09_googleslides.Rmd",
-            "10_data_camp.Rmd",
+            "10_swirl.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes

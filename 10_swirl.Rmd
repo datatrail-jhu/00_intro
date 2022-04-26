@@ -1,0 +1,45 @@
+---
+
+date: "11/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Swirl
+
+Swirl is a handy package for learning R because it is an interactive R package that teaches you how to use R right from the R console!
+
+* Swirl allows you to interactively practice R at your own pace in a variety of lessons
+* Swirl is free, and no login is required!
+
+
+
+
+{quiz, id: quiz_10_datacamp}
+
+### DataCamp quiz
+
+This is the DataCamp quiz
+
+{choose-answers:4}
+? What is DataCamp used for?
+
+C) Learning to program in R
+C) Getting practice with R
+o) Making presentations of data analyses
+o) Writing textbooks
+o) Learning database management
+o) Generating lessons for a course
+o) Storing data we collect
+o) Generating databases
+
+
+{case-sensitive: false, points: 3}
+? Once you have completed the Introduction to R course in DataCamp, type 'Intro course completed' in the box.
+
+! Intro course completed ; 'Intro course completed'
+
+{/quiz}
