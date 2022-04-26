@@ -23,6 +23,8 @@ Navigate to [RStudio Cloud](rstudio.cloud). Click on `Your workspace`. We are go
 
 Click on `New Project`. This will take a few seconds to generate.
 
+AVOCADO: needs screenshots!
+
 Click on the `Untitled Project` title at the top of the screen and give your project a title that has something to do with practicing R with Swirl. For example `R Practice - Swirl`.
 
 ### Step 2: Install Swirl
