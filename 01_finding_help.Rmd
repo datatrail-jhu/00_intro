@@ -52,33 +52,3 @@ The best way to get a response to your question is to be able to boil it down to
 ![Finding Help](https://youtu.be/k6O8wwpW49U)
 
 * [Slides](https://docs.google.com/presentation/d/180OSJkB2c7BxvtJZ3F-KrGzQ33vPLWbErC2xjO6g4O4/edit?usp=sharing)
-
-{quiz, id: quiz_01_findinghelp}
-
-### Finding Help quiz
-
-{choose-answers: 4}
-? If you were looking to search on Google how to generate a plot using the R programming language, what would be the best thing to type into the search bar?
-
-C) how to generate plot in R
-o) how to generate a figure or plot or data display using the R programming language
-o) how to generate a figure OR plot or data display using R programming language
-o) how to generate a plot using the R programming language
-o) generate plot
-o) R programming language
-o) plot or figure
-o) generate R
-
-{choose-answers: 4}
-? When you're stuck on something related to programming in R, where is one place you could turn to for help?
-
-C) StackOverflow
-C) RStudio Community
-C) Google
-o) A book from the 1700s
-o) The Encyclopedia Britannica
-o) A cookbook
-o) A Python programming book
-o) A Perl programming book
-
-{/quiz}

@@ -75,22 +75,3 @@ Enter your new Google account name here. Click 'Next'. Enter your password. Clic
 ![Google Account Setup](https://youtu.be/strPcZCzGSs)
 
 * [Slides](https://docs.google.com/presentation/d/1sOBtwszQqq366q84VCDY_BwSjWQz_4yFJLC4ib1dEGQ/edit?usp=sharing)
-
-
-{quiz, id: quiz_03_google}
-
-### Google Account quiz
-
-{choose-answers: 4}
-? Which of these is NOT something your Google Login can be used as?
-
-C) a credit card
-C) a Skype Username
-o) a way access to Google products
-o) an email (Gmail) address
-o) a login to the Chromebook
-o) a way to access Google Docs
-o) a way to access Google Sheets
-o) a way to access Google Slides
-
-{/quiz}

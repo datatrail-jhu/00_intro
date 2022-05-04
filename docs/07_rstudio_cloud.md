@@ -140,31 +140,3 @@ Once you have your plot, you have what you need to make the Google Doc and finis
 ![RStudio Cloud](https://youtu.be/O0QeE37cs3Y)
 
 * [Slides](https://docs.google.com/presentation/d/1FFaIAQO7qtUANdHApu4fFCcB0KT9FNo5oQCWLULqsdY/edit?usp=sharing)
-
-
-{quiz, id: quiz_07_rstudio}
-
-# RStudio Cloud quiz
-
-{choose-answers: 4}
-? What is RStudio Cloud primarily used for?
-
-C) Running code, doing data analysis, and generating plots.
-C) Running R code and carrying out analyses.
-o) Sending email, sharing documents, and making presentations.
-o) Setting up accounts to social media and networking platforms.
-o) Calling your family members.
-o) All of the above
-o) None of the above.
-
-{choose-answers: 4}
-? What does it mean that a programming language is object-oriented?
-
-C) As you run code, objects are created to store information
-C) As code is run, objects are created and can be listed
-o) As you run code, objects are purchased from Amazon
-o) As you run code, programs are created and printed out to be read
-o) As code is run, objects are turned into rugs
-
-{/quiz}
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

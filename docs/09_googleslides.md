@@ -100,29 +100,3 @@ This will bring up a new box indicating that your link has been copied. This is 
 ![Google Slides](https://youtu.be/nRFevt8u_yo)
 
 * [Slides](https://docs.google.com/presentation/d/1sjOuMmP1oXuqvTMeKlAoOSCqD-TOncWraD67b_pzrUE/edit?usp=sharing)
-
-
-{quiz, id: quiz_09_slides}
-
-### Google Slides quiz
-
-{choose-answers: 4}
-? When making a Google Slides presentation, what should you do?
-
-C) Use pictures instead of words when possible.
-C) Use font that's large enough.
-C) Use large pictures.
-o) Put lots of words on each slide.
-o) Always use full sentences.
-o) Keep the font small to ensure that you can include lots of information
-o) Put as much information as possible on each slide.
-o) Include everything you'd say out loud on each slide.
-o) Copy and paste from others' work and never give them credit.
-
-
-{points: 3}
-? Please paste the link to the Google Slide presentation you created below. (Reminder: This link should only contain information about the Leanpub book prices project you completed. It should not contain any personal information.)
-
-! /(.+\/\/docs.google.com\/presentation.+)/i
-
-{/quiz}
