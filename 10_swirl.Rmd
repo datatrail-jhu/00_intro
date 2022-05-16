@@ -15,6 +15,8 @@ knitr::opts_chunk$set(echo = TRUE)
 * Swirl allows you to interactively practice R at your own pace in a variety of lessons
 * Swirl is free, and no login is required!
 
+Keep in mind, we will be using DataTrail specific swirl courses later on for even more learning so getting accustomed to swirl now is a great idea!
+
 ## Set up Swirl for R practice
 
 ### Step 1: Create a new RStudio cloud project
@@ -79,29 +81,3 @@ Do you want more resources for learning R after completing the 8 lessons? There'
 - [RStudio Cloud Primers](https://rstudio.cloud/learn/primers)
 - [Roger's R Programming course](https://www.coursera.org/learn/r-programming)
 - [R for Data Science](https://r4ds.had.co.nz/)
-
-{quiz, id: quiz_10_swirl}
-
-### Swirl quiz
-
-This is the Swirl quiz
-
-{choose-answers:4}
-? What is Swirl used for?
-
-C) Learning to program in R
-C) Getting practice with R
-o) Making presentations of data analyses
-o) Writing textbooks
-o) Learning database management
-o) Generating lessons for a course
-o) Storing data we collect
-o) Generating databases
-
-
-{case-sensitive: false, points: 3}
-? Once you have completed the first 8 lessons in the Swirl R for Programming course, type 'Intro course completed' in the box.
-
-! Intro course completed ; 'Intro course completed'
-
-{/quiz}
