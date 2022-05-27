@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 11 Google Sheets | Introduction to DataTrail</title>
-  <meta name="description" content="Chapter 11 Google Sheets | Introduction to DataTrail" />
+  <title>Chapter 15 Swirl | Introduction to DataTrail</title>
+  <meta name="description" content="Chapter 15 Swirl | Introduction to DataTrail" />
   <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 11 Google Sheets | Introduction to DataTrail" />
+  <meta property="og:title" content="Chapter 15 Swirl | Introduction to DataTrail" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 11 Google Sheets | Introduction to DataTrail" />
+  <meta name="twitter:title" content="Chapter 15 Swirl | Introduction to DataTrail" />
   
   
   
@@ -29,8 +29,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   <link rel="shortcut icon" href="assets/DataTrail_favicon.ico" type="image/x-icon" />
-<link rel="prev" href="your-first-data-science-project.html"/>
-<link rel="next" href="rstudio-cloud.html"/>
+<link rel="prev" href="google-slides.html"/>
+<link rel="next" href="about-the-authors.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
@@ -281,147 +281,72 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <div class="hero-image-container"> 
   <img class= "hero-image" src="assets/DataTrail.jpg">
 </div>
-<div id="google-sheets" class="section level1" number="11">
-<h1><span class="header-section-number">Chapter 11</span> Google Sheets</h1>
-<p>Google Sheets is a free, online spreadsheet program. If you’re familiar with Excel, it is similar to Excel. If you are unfamiliar with Excel, that’s ok! We’ll go through everything you need to know to get started on the project here. And, later in the program, we will go into more details to get you fully comfortable working with Google Sheets. As for right now, just know that when you have data that you want to input into a spreadsheet, Google Sheets is an ok place to start. Google Sheets is also great because you never have to worry about saving your work. If you are online, Google Sheets automatically saves your work.</p>
-<div id="what-is-a-spreadsheet" class="section level3" number="11.0.1">
-<h3><span class="header-section-number">11.0.1</span> What is a spreadsheet?</h3>
-<p>A spreadsheet is a type of document where data are stored in rows and columns of a grid. Each square is referred to as a ‘cell’ in the spreadsheet. In Google Sheets (and many other spreadsheet programs like Excel), the rows are numbered (like 1,2,3,…) and the columns are labeled with capital letters (like A, B, C,…).</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2bfdb07292_0_151" alt="" />
-<p class="caption">spreadsheet</p>
-</div>
-<p>If you want to talk about a specific spot on the grid you can use the number and letter corresponding to that point. For example, A2 specifies the data in cell in the first column (A) and second row (2) of the spreadsheet.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f5ce65ab5_0_7" alt="" />
-<p class="caption">spreadsheet position</p>
-</div>
-<p>When you are working with data in a spreadsheet you can type directly into the spreadsheet. It is important to make sure you double check all the numbers you type since there isn’t a good way to “spellcheck” your work when you are editing a spreadsheet.</p>
-<p>We will talk a lot more in future courses about how to organize data that you have collected. Mostly we will want to collect <a href="https://en.wikipedia.org/wiki/Tidy_data">“tidy data”</a> which is data that has</p>
-<ol style="list-style-type: decimal">
-<li>Each type of data in one column.</li>
-<li>Each data point in one row.</li>
-<li>One spreadsheet for each “kind” of data.</li>
-<li>If you have more than one spreadsheet, they should include a column in the table that allows them to be linked.</li>
-</ol>
-<p>Here we are only collecting one “kind” of data - just data on books. The columns will be different types of information about the books. We will collect information on the name of the book, the number of sales of that book, the minimum price of the book, and the suggested price of the book. Each of those will be in a separate column. Then, for each book, we will make a new row with the data for that book.</p>
-<p>Remember we are collecting information on the bestselling books from the last week on Leanpub. You can find the list of bestsellers here: <a href="https://leanpub.com/bookstore" class="uri">https://leanpub.com/bookstore</a>. Remember that if you click on the image of one book you will get something that looks like this.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2ded52d8f0_0_4" alt="" />
-<p class="caption">Powershell 101 landing page</p>
-</div>
-</div>
-<div id="setting-up-your-spreadsheet" class="section level3" number="11.0.2">
-<h3><span class="header-section-number">11.0.2</span> Setting up your spreadsheet</h3>
-<p>When we collect the information we will use the Google Sheets software to store it for us. You will need to open up another web browser. You can do this by holding down the key <em>ctrl</em> and pressing <em>t</em>. This will open up a new tab. Leave this page open and type go to Google Sheets by navigating to the website <a href="https://docs.google.com/spreadsheets/" class="uri">https://docs.google.com/spreadsheets/</a> in the new tab. You will see something like this.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f6cf370b2_0_0" alt="" />
-<p class="caption">Google sheets home</p>
-</div>
-<p>Now click on the big plus sign and you will get a new spreadsheet that will look like this.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f6cf370b2_0_6" alt="" />
-<p class="caption">Untitled sheet</p>
-</div>
-<p>If you click on the words <em>“Untitled Spreadsheet”</em> you can rename the spreadsheet. Type in the words <em>“leanpub_data”</em> to change the name of your spreadsheet. You should now have a spreadsheet that looks like this.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f6cf370b2_0_10" alt="" />
-<p class="caption">leanpub_data sheet</p>
-</div>
-<p>We are almost done setting up the spreadsheet, now we just need to label the different kinds of data we are going to collect. Start by clicking on the upper left hand cell (A1) and type “title”. This will be the column where we are going to store information on the title of the book.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f6cf370b2_0_15" alt="" />
-<p class="caption">leanpub_data sheet with title</p>
-</div>
-<p>Then move one cell to the right, click and type “readers”. This will be where we will store how many readers a book has. Move one more cell to the right type “suggested” and then one more cell and type “minimum”. Make sure your column names are not capitalized.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f6cf370b2_0_27" alt="" />
-<p class="caption">leanpub_data sheet with headers</p>
-</div>
-</div>
-<div id="collecting-data" class="section level3" number="11.0.3">
-<h3><span class="header-section-number">11.0.3</span> Collecting data</h3>
-<p>Now you are all set to start collecting data! To do this open another new tab by holding <em>ctrl</em> and pressing <em>t</em>, then go to the webpage: <a href="https://leanpub.com/bookstore" class="uri">https://leanpub.com/bookstore</a>. Click on the book and write the title, number of readers, suggested, and minimum prices on a row in the spreadsheet tab. When you are doing this make sure that:</p>
+<div id="swirl" class="section level1" number="15">
+<h1><span class="header-section-number">Chapter 15</span> Swirl</h1>
+<p><a href="https://swirlstats.com/">Swirl</a> is a handy package for learning R because it is an interactive R package that teaches you how to use R right from the R console!</p>
 <ul>
-<li>There are no commas in numbers. Just leave them out. So don’t write “1,036” write “1036” instead.</li>
-<li>You don’t put dollar signs for the price, just include the number like “7.99.”</li>
-<li>If a book’s minimum price is free, enter “0” in the cell.</li>
-<li>If the book has no readers, put “0” in the cell.</li>
-<li>If the book’s author opted not to include how many readers their book has, put “NA” in the “readers” column for that book.</li>
+<li>Swirl allows you to interactively practice R at your own pace in a variety of lessons</li>
+<li>Swirl is free, and no login is required!</li>
 </ul>
-<p>So for me, since the first book is “PowerShell 101” after getting the data for the first book my spreadsheet will look like this.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f6cf370b2_0_33" alt="" />
-<p class="caption">First row of data for project</p>
+<p>Keep in mind, we will be using DataTrail specific swirl courses later on for even more learning so getting accustomed to swirl now is a great idea!</p>
+<div id="set-up-swirl-for-r-practice" class="section level2" number="15.1">
+<h2><span class="header-section-number">15.1</span> Set up Swirl for R practice</h2>
+<div id="step-1-create-a-new-rstudio-cloud-project" class="section level3" number="15.1.1">
+<h3><span class="header-section-number">15.1.1</span> Step 1: Create a new RStudio cloud project</h3>
+<p>Navigate to <a href="rstudio.cloud">RStudio Cloud</a>. If you are not logged in, login with your Google login.</p>
+<p><img src="14_swirl_files/figure-html/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk_g2fa05cc68b_0_16.png" title="Login to RStudio Cloud" alt="Login to RStudio Cloud" width="480" /></p>
+<p>Click on <code>Your workspace</code>. We are going to create a separate project to use for practicing R with the Swirl package.
+Click on <code>New Project</code> and choose <code>New RStudio Project</code>. This will take a few seconds to generate.</p>
+<p><img src="14_swirl_files/figure-html/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk_g12f46e591a6_0_8.png" title="Create a new project" alt="Create a new project" width="480" />
+Click on the <code>Untitled Project</code> title at the top of the screen and give your project a title that has something to do with practicing R with Swirl. For example <code>R Practice - Swirl</code>.</p>
+<p><img src="14_swirl_files/figure-html/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk_g12f46e591a6_0_25.png" title="Name your project" alt="Name your project" width="480" /></p>
 </div>
-<p>Continue this process, entering each book into a new row. Collect information on ten or twenty books. One book for every row. At the end you should have a data set that looks something like this. But yours will have different numbers and names in it.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2ded52d8f0_0_82" alt="" />
-<p class="caption">First complete data set</p>
+<div id="step-2-install-swirl" class="section level3" number="15.1.2">
+<h3><span class="header-section-number">15.1.2</span> Step 2: Install Swirl</h3>
+<p>Navigate to the <code>Console</code> tab (the tab we will use for commands we are running in R)</p>
+<p><img src="14_swirl_files/figure-html/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk_g12f46e591a6_0_35.png" title="Navigate to the Console tab" alt="Navigate to the Console tab" width="480" />
+Copy and paste this command and then press Enter on your keyboard:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="swirl.html#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">&quot;swirl&quot;</span>)</span></code></pre></div>
+<p>This will take a minute or so to install. (Remember red text doesn’t mean errors necessarily).</p>
+<p><img src="14_swirl_files/figure-html/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk_g12f46e591a6_0_43.png" title="Install swirl" alt="Install swirl" width="480" /></p>
 </div>
+<div id="step-3-start-swirl" class="section level3" number="15.1.3">
+<h3><span class="header-section-number">15.1.3</span> Step 3: Start Swirl</h3>
+<p>In the <code>Console</code> tab, copy and paste this command and then press Enter to attach the Swirl library:</p>
+<pre><code>library(&quot;swirl&quot;)</code></pre>
+<p>To use packages we’ve installed in R, we have to tell R to go retrieve them before we can use them. More about this later.</p>
+<p><img src="14_swirl_files/figure-html/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk_g12f46e591a6_0_51.png" title="Attach swirl library" alt="Attach swirl library" width="480" /></p>
+<p>Now to start Swirl, run this command (and click Enter)</p>
+<pre><code>swirl()</code></pre>
+<p><img src="14_swirl_files/figure-html/1Kgpmw00v_OjhhXkf_ULGV4pWIJjNuu3Sukmd2aqbHUk_g12f46e591a6_0_59.png" title="Start up Swirl" alt="Start up Swirl" width="480" /></p>
+<p>Swirl is going to start talking to you. You can type your responses as your are prompted and click Enter when you are ready.</p>
+<p>Read each set of prompts from Swirl carefully and respond accordingly. When you are asked which course you would like to complete, select <code>R Programming: The basics of programming in R</code> by press <code>1</code> and Enter when you are prompted.</p>
 </div>
-<div id="checking-your-data" class="section level3" number="11.0.4">
-<h3><span class="header-section-number">11.0.4</span> Checking your data</h3>
-<p>Now that you’ve entered your data into the Google Sheet, we want to check for a few possible issues before moving on to make sure the data are formatted correctly. Double to make sure the following are true for the data in your spreadsheet:</p>
-<ol style="list-style-type: decimal">
-<li>You have at least 11 rows with reader and minimum price information (one header row and at least 10 books included - if you have NAs anywhere, you’ll want more than 11 books)</li>
-<li>Your dollar amounts do NOT have dollar signs next to them.</li>
-<li>Your number of readers does not include any commas.</li>
-<li>If a book’s minimum price is FREE, you have put the number 0 in the cell, rather than “FREE”</li>
-</ol>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g324d81a498_0_28" alt="" />
-<p class="caption">Checking your data</p>
+<div id="step-4-start-r-programming-swirl-course" class="section level3" number="15.1.4">
+<h3><span class="header-section-number">15.1.4</span> Step 4: Start ‘R Programming’ Swirl course</h3>
+<p>When prompted with:</p>
+<pre><code>| Course installed successfully!
+| Please choose a course, or type 0 to exit swirl.
+
+1: R Programming
+2: Take me to the swirl course repository!</code></pre>
+<p>Press <code>1</code> and hit Enter to start working on the <code>R Programming</code> course!</p>
 </div>
-<p>This is great! You now have a question you want to answer and you have collected some data to answer that question. You are on your way to becoming a data scientist!</p>
+<div id="step-5-working-through-the-course-lessons" class="section level3" number="15.1.5">
+<h3><span class="header-section-number">15.1.5</span> Step 5: Working through the course lessons</h3>
+<p>Start working your way through the course lessons. Complete lessons 1 - 8 at your own pace.</p>
+<p>Follow the prompts; congrats you are programming!</p>
 </div>
-<div id="publishing-to-the-web" class="section level3" number="11.0.5">
-<h3><span class="header-section-number">11.0.5</span> Publishing to the web</h3>
-<p>Our plan is to use the data in this spreadsheet to answer our question about how the price of a bestselling book relates to how much the author is charging for that book. To do so in the next lesson, you will first have to publish the data to the web. This gives the software we’ll use in the next lesson permission to access your data. to make your sheet public, you’ll want to click on File at the top of the Google Sheet. From the drop-down menu that appears, you’ll want to click on “Publish to the web.”</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g37a0676f96_0_0" alt="" />
-<p class="caption">Publish to the web…</p>
-</div>
-<p>In the window that pops up, you’ll want to click on “Publish”</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g37a0676f96_0_8" alt="" />
-<p class="caption">Publish</p>
-</div>
-<p>A box will appear to confirm that you would like to publish this Google Sheet. Click “OK.”</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g37a0676f96_0_17" alt="" />
-<p class="caption">OK</p>
-</div>
-</div>
-<div id="making-the-sheet-public" class="section level3" number="11.0.6">
-<h3><span class="header-section-number">11.0.6</span> Making the sheet public</h3>
-<p>After publishing your data to the web, the last step is to make these data accessible to others who have the link.This can be done easily on a Google Sheet by clicking on “Share” in the top right-hand corner of the Google Sheet.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f8abafabb_0_75" alt="" />
-<p class="caption">Share</p>
-</div>
-<p>A “Share with others” box will pop up. Click on “Get shareable link.”</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f8abafabb_0_82" alt="" />
-<p class="caption">Share with others</p>
-</div>
-<p>Your screen will update so that this document can now be viewed by anyone, as long as they have the link to the spreadsheet.</p>
-<div class="figure">
-<img src="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/export/png?id=1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM&amp;pageid=g2f8abafabb_0_89" alt="" />
-<p class="caption">Shareable</p>
-</div>
-<p>Congrats!! You have successfully made this spreadsheet shareable and the link has been copied. You’ll be asked to paste this link in the quiz for this lesson, and we’ll use this spreadsheet link in the next lesson when you get started using RStudio Cloud, so don’t close your Google Sheets tab quite yet.</p>
-</div>
-<div id="slides-and-video-9" class="section level3" number="11.0.7">
-<h3><span class="header-section-number">11.0.7</span> Slides and Video</h3>
-<div class="figure">
-<img src="https://youtu.be/-Mh2AbCisQA" alt="" />
-<p class="caption">Google Sheets</p>
-</div>
+<div id="more-r-programming-lessons-optional" class="section level3" number="15.1.6">
+<h3><span class="header-section-number">15.1.6</span> More R programming lessons (Optional)</h3>
+<p>Do you want more resources for learning R after completing the 8 lessons? There’s a lot of great ones out there (and we will go through more R programming in later courses):</p>
 <ul>
-<li><a href="https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/edit?usp=sharing">Slides</a></li>
+<li><a href="https://rstudio.cloud/learn/primers">RStudio Cloud Primers</a></li>
+<li><a href="https://www.coursera.org/learn/r-programming">Roger’s R Programming course</a></li>
+<li><a href="https://r4ds.had.co.nz/">R for Data Science</a></li>
 </ul>
 
+</div>
 </div>
 </div>
 <hr>
@@ -437,8 +362,8 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
           </div>
         </div>
       </div>
-<a href="your-first-data-science-project.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="rstudio-cloud.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="google-slides.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="about-the-authors.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
