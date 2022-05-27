@@ -1,7 +1,4 @@
----
 
-output: html_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -24,29 +21,29 @@ This question isn't about data. It is just something we might be curious about. 
 
 In this case, to answer our question, we need some information on books on the Leanpub website. If you go to https://leanpub.com/bookstore you will see a website that looks like this.
 
-{format: png}
+
 ![Leanpub bookstore website](https://docs.google.com/presentation/d/1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE/export/png?id=1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE&pageid=g2f6c41048c_0_7)
 
 
 This shows the bestseller books for the last week. If you click on one of the pictures of a book you can get some information on that book. If I click on the page for the first book "PowerShell 101" I see something like this.
 
-{format: png}
+
 ![Powershell 101 landing page on Leanpub](https://docs.google.com/presentation/d/1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE/export/png?id=1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE&pageid=g2f6c41048c_0_12)
 
 It will probably be a different book for you since it will be a different weekly bestseller. But you can look in the top left corner and see how many people read the book. This information is there for most books, but is sometimes missing if the author decides not to publish that number. In this case there are 1,036 total readers of this book.
 
-{format: png}
+
 ![Number of readers for Powershell 101](https://docs.google.com/presentation/d/1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE/export/png?id=1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE&pageid=g2f6c41048c_0_18)
 
 
 Next we can find out the suggested price. This is on the right hand side and is the price the author thinks is the appropriate price for their book. In this case the suggested price is $15.99.
 
-{format: png}
+
 ![Suggested price for Powershell 101](https://docs.google.com/presentation/d/1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE/export/png?id=1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE&pageid=g2f6c41048c_0_24)
 
 But one nice thing about Leanpub is that you can set up a "pay what you want" model where people can choose how much they pay for a book. When authors do this, there is also a minimum price they set for the book. If there is a minimum price it is also on the right hand side. In this case the minimum price is $7.99.
 
-{format: png}
+
 ![Minimum price for Powershell 101](https://docs.google.com/presentation/d/1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE/export/png?id=1auByZV5pghzELH-SMKLwxrZtigtXd-PC4Q5SrcT4qlE&pageid=g2f6c41048c_0_148)
 
 
