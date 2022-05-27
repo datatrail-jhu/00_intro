@@ -1,8 +1,4 @@
----
-author: "Davon person"
 
-output: html_document
----
 
 
 
