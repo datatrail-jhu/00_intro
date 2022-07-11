@@ -80,6 +80,10 @@ Press `1` and hit Enter to start working on the `R Programming` course!
 
 Start working your way through the course lessons. Complete lessons 1 - 8 at your own pace.  
 
+When you reach the end of a module you will be asked "Would you like to receive credit for completing this course on Coursera.org?" 
+
+Answer no. 
+
 Follow the prompts; congrats you are programming!
 
 ### More R programming lessons (Optional)

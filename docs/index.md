@@ -1,6 +1,6 @@
 ---
 title: "Introduction to DataTrail"
-date: "June, 2022"
+date: "July, 2022"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
