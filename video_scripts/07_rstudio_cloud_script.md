@@ -18,7 +18,7 @@ If you were to click on that you would simply see an empty blank space because y
 
 Now that you're a little more familiar with R Studio Cloud, we can get started on using the data you collected from Leanpub and previously entered into your Google Sheet spreadsheet. We'll then be one step closer to answering the project question "How does the price of a bestselling book relate to how much the author is charging for that book?"
 
-To start working in R Studio Cloud, open up a new tab by pressing control and pressing t, then type http://bit.ly/cbds_projects into your web browser . If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account. You should now see a page that looks like this. You should see a Project listed that is called "Leanpub Project".
+To start working in R Studio Cloud, open up a new tab by pressing control and pressing t, then type https://bit.ly/datatrail-rstudio into your web browser . If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account. You should now see a page that looks like this. You should see a Project listed that is called "Leanpub Project".
 
 On the right-hand side, you should see a blue "New Project" button. Click on this. You should now see a page that looks like this across the top. 
 

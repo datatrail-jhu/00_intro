@@ -52,7 +52,7 @@ Now that you're a little familiar with RStudio Cloud, we can get started on usin
 
 > "How does the price of a bestselling book relate to how much the author is charging for that book?"
 
-To start working in RStudio Cloud, open up a new tab by pressing _ctrl_ and pressing _t_, then copy this URL and paste it into your web browser [http://bit.ly/cbds_projects](http://bit.ly/cbds_projects). If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account.
+To start working in RStudio Cloud, open up a new tab by pressing _ctrl_ and pressing _t_, then copy this URL and paste it into your web browser [https://bit.ly/datatrail-rstudio](https://bit.ly/datatrail-rstudio). If you get a log in page, press the button to "Log in with Google" just like you did when you were setting up your account.
 
 You should now see a page that looks like this. You should see a Project listed that is called "leanpub_project".
 
