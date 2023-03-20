@@ -132,6 +132,6 @@ Congrats!! You have successfully made this spreadsheet shareable and the link ha
 
 ### Slides and Video
 
-![Google Sheets](https://youtu.be/-Mh2AbCisQA)
+[Automated Video](https://youtu.be/-Mh2AbCisQA)
 
 * [Slides](https://docs.google.com/presentation/d/1EPt7DuMZOqJMElDNMi3PWO66OytMlWPoc-RsopdVxNM/edit?usp=sharing)

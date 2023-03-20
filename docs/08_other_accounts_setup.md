@@ -150,6 +150,6 @@ You now have a GitHub account *and* all of the online accounts needed for this p
 
 ### Slides and Video
 
-![Other Accounts Setup](https://youtu.be/wdtAxwtY0QQ)
+[Automated Video](https://youtu.be/wdtAxwtY0QQ)
 
 * [Slides](https://docs.google.com/presentation/d/1NbqkwyE9f4__0uTHWiVDoZaVfb_sMqJw4LTNcvsVw3A/edit?usp=sharing)
